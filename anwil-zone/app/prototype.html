@@ -282,7 +282,10 @@ nav button.on::after{content:"";width:4px;height:4px;border-radius:50%;backgroun
 .hero .vs{font-size:24px;font-weight:900;font-style:italic;color:var(--gold);text-shadow:0 0 24px rgba(255,193,7,.55)}
 .hero .meta{margin-top:10px;font-size:13px;color:var(--mut);font-weight:600}
 .hero .meta b{color:#fff;font-weight:900;font-size:15px}
-.hero .cta{margin-top:16px;display:flex;gap:10px;justify-content:center}
+.hero .cta{margin-top:16px;display:flex;gap:10px;justify-content:center;flex-wrap:wrap}
+.hero .cta .btn.release{flex:1 1 100%;background:rgba(255,193,7,.07);border:1px solid rgba(255,193,7,.32);color:var(--gold);box-shadow:none;font-size:13px}
+.hero .cta .btn.release .seat-ic{width:16px;height:16px;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round;flex:none}
+.hero .cta .btn.release.done{background:rgba(47,209,128,.12);border-color:rgba(47,209,128,.45);color:var(--good)}
 
 /* countdown */
 .count{display:flex;justify-content:center;gap:10px;margin-top:16px}
@@ -1082,7 +1085,7 @@ nav button.on::after{content:"";width:4px;height:4px;border-radius:50%;backgroun
         </div>
 
         <!-- HERO -->
-        <div class="hero shimmer">
+        <div class="hero shimmer" data-home="1">
           <div class="tag"><span class="chip gold">Najbliższy mecz · Kolejka 24</span></div>
           <div class="duel">
             <div class="team">
@@ -1105,6 +1108,7 @@ nav button.on::after{content:"";width:4px;height:4px;border-radius:50%;backgroun
           <div class="cta">
             <button class="btn" onclick="toast('Przekierowanie do sprzedaży biletów 🎟️')">Kup bilet</button>
             <button class="btn ghost" onclick="show('v-kibic');toast('Typuj wynik w Strefie Kibica!')">Typuj wynik</button>
+            <button class="btn release" id="hero-release" onclick="releaseSeat(this)"><svg viewBox="0 0 24 24" class="seat-ic"><path d="M19 9V6a2 2 0 0 0-2-2H7a2 2 0 0 0-2 2v3"/><path d="M3 16a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-5a2 2 0 0 0-4 0v2H7v-2a2 2 0 0 0-4 0Z"/><path d="M5 18v2"/><path d="M19 18v2"/></svg>Zwolnij miejsce</button>
           </div>
         </div>
 
@@ -2516,6 +2520,33 @@ function tpSend(){
     <span class="tph-st wait">⏳ +${t}</span></div>`);
 }
 tpInit();
+
+/* ================= ZWALNIANIE MIEJSCA (hero — tylko mecze domowe) ================= */
+function heroIsHome(){
+  const h=document.querySelector(".hero");
+  return !!(h&&h.dataset.home==="1");
+}
+function releaseSeat(btn){
+  if(btn.classList.contains("done")){toast("To miejsce jest już zwolnione ✓");return;}
+  btn.classList.add("done");
+  btn.textContent="Miejsce zwolnione ✓";
+  /* miejsce z karnetu */
+  const seats=[...document.querySelectorAll(".kn-seats b")].map(b=>b.textContent.trim());
+  const seat=seats.length===3?("Sektor "+seats[0]+" · Rząd "+seats[1]+" · Miejsce "+seats[2]):"z karnetu";
+  /* rywal z hero (mecz domowy: Anwil – X) */
+  const teams=document.querySelectorAll(".hero .team");
+  let matchup="najbliższy mecz domowy";
+  if(teams.length===2){
+    const ht=teams[0].querySelector("span"),at=teams[1].querySelector("span"),ac=teams[1].querySelector("small");
+    if(ht&&at)matchup="mecz "+ht.textContent.trim()+" – "+at.textContent.trim()+(ac?(" "+ac.textContent.trim()):"");
+  }
+  toast("Twoje miejsce ("+seat+") na "+matchup+" zostało zwolnione. Dziękujemy! 🙌");
+}
+/* przycisk widoczny wyłącznie w meczach domowych */
+(function(){
+  const b=$("#hero-release");
+  if(b)b.style.display=heroIsHome()?"":"none";
+})();
 
 /* ================= CYFROWY KARNET ================= */
 function knInit(){
