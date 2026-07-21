@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "surebet-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "port": 8080
+    },
+    {
+      "name": "anwil-zone",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["anwil-zone/server.mjs"],
+      "port": 4180
+    },
+    {
+      "name": "scratchpad-static",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "4173", "--directory", "C:/Users/Serwisant/AppData/Local/Temp/claude/C--Users-Serwisant-Desktop-Tor-Browser-surebet-guru-main/08a6bf2b-1acc-4667-a2d4-7ce01d6b6dd6/scratchpad"],
+      "port": 4173
+    }
+  ]
+}

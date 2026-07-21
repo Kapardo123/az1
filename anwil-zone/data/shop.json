@@ -1,0 +1,3465 @@
+{
+  "source": "https://sklep.kkwloclawek.pl",
+  "scrapedAt": "2026-07-20T16:27:35.149Z",
+  "count": 103,
+  "categories": [
+    {
+      "id": 140,
+      "name": "4F",
+      "slug": "4f",
+      "count": 8
+    },
+    {
+      "id": 65,
+      "name": "Damska",
+      "slug": "damska",
+      "count": 19
+    },
+    {
+      "id": 66,
+      "name": "Dziecięca",
+      "slug": "dziecieca",
+      "count": 25
+    },
+    {
+      "id": 46,
+      "name": "Gadżety",
+      "slug": "gadzety",
+      "count": 50
+    },
+    {
+      "id": 63,
+      "name": "Kappa",
+      "slug": "kappa",
+      "count": 11
+    },
+    {
+      "id": 64,
+      "name": "Męska",
+      "slug": "meska",
+      "count": 35
+    },
+    {
+      "id": 44,
+      "name": "Odzież",
+      "slug": "odziez",
+      "count": 60
+    },
+    {
+      "id": 47,
+      "name": "Promocje",
+      "slug": "promocje",
+      "count": 73
+    },
+    {
+      "id": 185,
+      "name": "RottWear",
+      "slug": "rottwear",
+      "count": 30
+    }
+  ],
+  "products": [
+    {
+      "id": 24827,
+      "name": "Saszetka Nerka Anwil Włocławek BLACK",
+      "slug": "saszetka-nerka-anwil-wloclawek-black",
+      "url": "https://sklep.kkwloclawek.pl/produkt/saszetka-nerka-anwil-wloclawek-black",
+      "sku": null,
+      "price": 55,
+      "regularPrice": 55,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "RottWear",
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/06/Nerka.jpeg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/06/Nerka.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/06/Nerka2.jpeg"
+      ],
+      "localImage": "shop-images/24827.jpg"
+    },
+    {
+      "id": 24300,
+      "name": "T-shirt Igor Griszczuk",
+      "slug": "t-shirt-igor-griszczuk",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-igor-griszczuk",
+      "sku": null,
+      "price": 100,
+      "regularPrice": 100,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "categories": [
+        "RottWear",
+        "Męska"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/04/KR3_4151-2-e1777272646139.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/04/KR3_4151-2-e1777272646139.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/04/KR3_4218-e1777272729821.jpg"
+      ],
+      "localImage": "shop-images/24300.jpg"
+    },
+    {
+      "id": 23912,
+      "name": "T-shirt She’s got game",
+      "slug": "t-shirt-shes-got-game",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-shes-got-game",
+      "sku": null,
+      "price": 69,
+      "regularPrice": 89,
+      "salePrice": 69,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/03/Marta.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/03/Marta.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/03/Wspolne.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/03/Magda.jpg"
+      ],
+      "localImage": "shop-images/23912.jpg"
+    },
+    {
+      "id": 23897,
+      "name": "Brelok obrotowy Anwil Włocławek",
+      "slug": "brelok-obrotowy-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/brelok-obrotowy-anwil-wloclawek",
+      "sku": null,
+      "price": 30,
+      "regularPrice": 30,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/03/Brelok-obrotowy-.jpeg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/03/Brelok-obrotowy-.jpeg"
+      ],
+      "localImage": "shop-images/23897.jpg"
+    },
+    {
+      "id": 23525,
+      "name": "Bluza KAPPA Anwil Włocławek",
+      "slug": "bluza-kappa-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/bluza-kappa-anwil-wloclawek",
+      "sku": null,
+      "price": 169,
+      "regularPrice": 229,
+      "salePrice": 169,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "Odzież",
+        "Męska",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep045_Easy-Resize.com_.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep045_Easy-Resize.com_.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep056_Easy-Resize.com_.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep047_Easy-Resize.com_.jpg"
+      ],
+      "localImage": "shop-images/23525.jpg"
+    },
+    {
+      "id": 23536,
+      "name": "spodnie dresowe KAPPA Anwil Włocławek",
+      "slug": "spodenie-dresowe-kappa-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/spodenie-dresowe-kappa-anwil-wloclawek",
+      "sku": null,
+      "price": 149,
+      "regularPrice": 199,
+      "salePrice": 149,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "Odzież",
+        "Męska",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep056_Easy-Resize.com_.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep056_Easy-Resize.com_.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep047_Easy-Resize.com_.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep045_Easy-Resize.com_.jpg"
+      ],
+      "localImage": "shop-images/23536.jpg"
+    },
+    {
+      "id": 23492,
+      "name": "T-shirt dziecięcy classic white Anwil Włocławek",
+      "slug": "t-shirt-dzieciecy-classic-white-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-dzieciecy-classic-white-anwil-wloclawek",
+      "sku": null,
+      "price": 65,
+      "regularPrice": 79,
+      "salePrice": 65,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "134/146",
+        "152/158",
+        "98/104"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep057_Easy-Resize.com_.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep057_Easy-Resize.com_.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep070_Easy-Resize.com_.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260304PK_KD007.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260304PK_KD003.jpg"
+      ],
+      "localImage": "shop-images/23492.jpg"
+    },
+    {
+      "id": 23475,
+      "name": "T-shirt classic black Anwil Włocławek",
+      "slug": "t-shirt-classic-black-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-classic-black-anwil-wloclawek",
+      "sku": null,
+      "price": 79,
+      "regularPrice": 109,
+      "salePrice": 79,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "4XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep015_Easy-Resize.com_.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep015_Easy-Resize.com_.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep019_Easy-Resize.com_.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/rozmiarowka-t-shirt-creator-2.0.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep041.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep014.jpg"
+      ],
+      "localImage": "shop-images/23475.jpg"
+    },
+    {
+      "id": 23445,
+      "name": "T-shirt classic white Anwil Włocławek",
+      "slug": "t-shirt-classic-white-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-classic-white-anwil-wloclawek",
+      "sku": null,
+      "price": 79,
+      "regularPrice": 109,
+      "salePrice": 79,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "4XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep030_Easy-Resize.com-1.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep030_Easy-Resize.com-1.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep032_Easy-Resize.com_.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep002.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep004.jpg"
+      ],
+      "localImage": "shop-images/23445.jpg"
+    },
+    {
+      "id": 23015,
+      "name": "Czapka zimowa z pomponem Anwil Włocławek",
+      "slug": "czapka-zimowa-z-pomponem-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/czapka-zimowa-z-pomponem-anwil-wloclawek",
+      "sku": null,
+      "price": 55,
+      "regularPrice": 65,
+      "salePrice": 55,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_5212-1.jpeg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_5212-1.jpeg"
+      ],
+      "localImage": "shop-images/23015.jpg"
+    },
+    {
+      "id": 22974,
+      "name": "Czapka zimowa Anwil Włocławek",
+      "slug": "czapka-zimowa-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/czapka-zimowa-anwil-wloclawek",
+      "sku": null,
+      "price": 49,
+      "regularPrice": 59,
+      "salePrice": 49,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_5211.jpeg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_5211.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_5209.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_5210.jpeg"
+      ],
+      "localImage": "shop-images/22974.jpg"
+    },
+    {
+      "id": 22924,
+      "name": "Zawieszka Zapachowa ANWIL WŁOCŁAWEK",
+      "slug": "zawieszka-zapachowa-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/zawieszka-zapachowa-anwil-wloclawek",
+      "sku": null,
+      "price": 12,
+      "regularPrice": 12,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep097.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep097.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_5207-scaled.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep098.jpg"
+      ],
+      "localImage": "shop-images/22924.jpg"
+    },
+    {
+      "id": 22917,
+      "name": "Świeca Sojowa Anwil Włocławek",
+      "slug": "swieca-sojowa-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/swieca-sojowa-anwil-wloclawek",
+      "sku": null,
+      "price": 49,
+      "regularPrice": 49,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep090.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep090.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_4983-scaled.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_4985-scaled.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/IMG_4984-scaled.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep089.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep088.jpg"
+      ],
+      "localImage": "shop-images/22917.jpg"
+    },
+    {
+      "id": 22845,
+      "name": "KALENDARZ 2026 ANWIL WŁOCŁAWEK",
+      "slug": "kalendarz-2026-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/kalendarz-2026-anwil-wloclawek",
+      "sku": null,
+      "price": 30,
+      "regularPrice": 49,
+      "salePrice": 30,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": false,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/0.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/0.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/3.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/1.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/4.jpg"
+      ],
+      "localImage": "shop-images/22845.jpg"
+    },
+    {
+      "id": 21720,
+      "name": "Piłka do koszykówki Anwil Włocławek rozmiar '7′",
+      "slug": "pilka-do-koszykowki-anwil-wloclawek-rozmiar-7",
+      "url": "https://sklep.kkwloclawek.pl/produkt/pilka-do-koszykowki-anwil-wloclawek-rozmiar-7",
+      "sku": null,
+      "price": 299,
+      "regularPrice": 299,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20260123PK_Sklep085.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20260123PK_Sklep085.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/a6691165-77d5-4e9c-ae34-0b85d3d4db55.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/62624a29-6aa1-4cbe-9232-e94feb296ebd.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20260123PK_Sklep086.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20260123PK_Sklep084.jpg"
+      ],
+      "localImage": "shop-images/21720.jpg"
+    },
+    {
+      "id": 21714,
+      "name": "Piłka do koszykówki Anwil Włocławek rozmiar '5′",
+      "slug": "pilka-do-kosza-anwil-wloclawek-rozmiar-5",
+      "url": "https://sklep.kkwloclawek.pl/produkt/pilka-do-kosza-anwil-wloclawek-rozmiar-5",
+      "sku": null,
+      "price": 279,
+      "regularPrice": 279,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20260123PK_Sklep080.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20260123PK_Sklep080.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/d81bddef-8ffd-47a6-9ab1-4df997b8081b.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/fe5a1221-8ff8-4511-9dfd-6409fb329871-1.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20260123PK_Sklep081.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20260123PK_Sklep079.jpg"
+      ],
+      "localImage": "shop-images/21714.jpg"
+    },
+    {
+      "id": 21696,
+      "name": "Koszulka Meczowa Dziecięca 4F Niebieska sezon 2025/2026",
+      "slug": "koszulka-meczowa-dziecieca-4f-niebieska-sezon-2025-2026",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-dziecieca-4f-niebieska-sezon-2025-2026",
+      "sku": null,
+      "price": 125,
+      "regularPrice": 199,
+      "salePrice": 125,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "134/140",
+        "146/152",
+        "158/164",
+        "98/104"
+      ],
+      "categories": [
+        "4F",
+        "Odzież",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik002.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik002.jpg"
+      ],
+      "localImage": "shop-images/21696.jpg"
+    },
+    {
+      "id": 21679,
+      "name": "Koszulka Meczowa Dziecięca 4F Biała sezon 2025/2026",
+      "slug": "koszulka-meczowa-dziecieca-4f-biala-sezon-2025-2026",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-dziecieca-4f-biala-sezon-2025-2026",
+      "sku": null,
+      "price": 125,
+      "regularPrice": 199,
+      "salePrice": 125,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "134/140",
+        "146/152",
+        "158/164",
+        "98/104"
+      ],
+      "categories": [
+        "4F",
+        "Odzież",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik005.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik005.jpg"
+      ],
+      "localImage": "shop-images/21679.jpg"
+    },
+    {
+      "id": 21659,
+      "name": "Koszulka meczowa 4F Niebieska sezon 2025/2026 Z PERSONALIZACJĄ",
+      "slug": "koszulka-meczowa-4f-niebieska-sezon-2025-2026-z-personalizacja",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-4f-niebieska-sezon-2025-2026-z-personalizacja",
+      "sku": null,
+      "price": 239,
+      "regularPrice": 299,
+      "salePrice": 239,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "4F",
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep015.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep015.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep018.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep021.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep019.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep017.jpg"
+      ],
+      "localImage": "shop-images/21659.jpg"
+    },
+    {
+      "id": 21636,
+      "name": "Koszulka meczowa 4F Niebieska sezon 2025/2026 BEZ PERSONALIZACJI",
+      "slug": "koszulka-meczowa-4f-niebieska-sezon-2025-2026-bez-personalizacji",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-4f-niebieska-sezon-2025-2026-bez-personalizacji",
+      "sku": null,
+      "price": 159,
+      "regularPrice": 219,
+      "salePrice": 159,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "4F",
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep001.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep001.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep004.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep003.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep006.jpg"
+      ],
+      "localImage": "shop-images/21636.jpg"
+    },
+    {
+      "id": 21616,
+      "name": "Koszulka meczowa 4F Biała sezon 2025/2026 Z PERSONALIZACJĄ",
+      "slug": "koszulka-meczowa-4f-sezon-2025-2026-z-personalizacja",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-4f-sezon-2025-2026-z-personalizacja",
+      "sku": null,
+      "price": 239,
+      "regularPrice": 299,
+      "salePrice": 239,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "4F",
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep025.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep025.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep028.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep030.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik072.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik075.jpg"
+      ],
+      "localImage": "shop-images/21616.jpg"
+    },
+    {
+      "id": 21595,
+      "name": "Koszulka meczowa 4F Biała sezon 2025/2026 BEZ PERSONALIZACJI",
+      "slug": "koszulka-meczowa-4f-sezon-2025-2026-bez-personalizacji",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-4f-sezon-2025-2026-bez-personalizacji",
+      "sku": null,
+      "price": 159,
+      "regularPrice": 219,
+      "salePrice": 159,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "4F",
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep007.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep007.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep012.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/20251021PK_Sklep014.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik072.jpg"
+      ],
+      "localImage": "shop-images/21595.jpg"
+    },
+    {
+      "id": 21385,
+      "name": "Koszulka Meczowa Dziecięca Kappa FEC 2025/2026 Zielona",
+      "slug": "koszulka-meczowa-dziecieca-kappa-fec-2025-2026-zielona-2",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-dziecieca-kappa-fec-2025-2026-zielona-2",
+      "sku": null,
+      "price": 125,
+      "regularPrice": 219,
+      "salePrice": 125,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "134/140",
+        "146/152",
+        "158/164",
+        "98/104"
+      ],
+      "categories": [
+        "Dziecięca",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik009.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik009.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik013.jpg"
+      ],
+      "localImage": "shop-images/21385.jpg"
+    },
+    {
+      "id": 21313,
+      "name": "Koszulka Meczowa Dziecięca Kappa FEC 2025/2026 Biała",
+      "slug": "koszulka-meczowa-dziecieca-kappa-fec-2025-2026-zielona",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-dziecieca-kappa-fec-2025-2026-zielona",
+      "sku": null,
+      "price": 125,
+      "regularPrice": 219,
+      "salePrice": 125,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "134/140",
+        "146/152",
+        "158/164",
+        "98/104"
+      ],
+      "categories": [
+        "Dziecięca",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik014.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik014.jpg"
+      ],
+      "localImage": "shop-images/21313.jpg"
+    },
+    {
+      "id": 21289,
+      "name": "Spodenki meczowe Kappa FEC 2025/2026 Białe",
+      "slug": "spodenki-meczowe-kappa-fec-2025-2026-biale",
+      "url": "https://sklep.kkwloclawek.pl/produkt/spodenki-meczowe-kappa-fec-2025-2026-biale",
+      "sku": null,
+      "price": 119,
+      "regularPrice": 199,
+      "salePrice": 119,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "Odzież",
+        "Męska",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik026.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik026.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik027.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik028.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik039.jpg"
+      ],
+      "localImage": "shop-images/21289.jpg"
+    },
+    {
+      "id": 21267,
+      "name": "Spodenki meczowe Kappa FEC 2025/2026 Zielone",
+      "slug": "spodenki-meczowe-kappa-fec-2025-2026-zielone",
+      "url": "https://sklep.kkwloclawek.pl/produkt/spodenki-meczowe-kappa-fec-2025-2026-zielone",
+      "sku": null,
+      "price": 119,
+      "regularPrice": 199,
+      "salePrice": 119,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "Odzież",
+        "Męska",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik041.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik041.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik043.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik042.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik054.jpg"
+      ],
+      "localImage": "shop-images/21267.jpg"
+    },
+    {
+      "id": 21237,
+      "name": "Koszulka meczowa Kappa FEC 2025/2026 Biała",
+      "slug": "koszulka-meczowa-kappa-fec-2025-2026-biala",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-kappa-fec-2025-2026-biala",
+      "sku": null,
+      "price": 130,
+      "regularPrice": 239,
+      "salePrice": 130,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "Odzież",
+        "Męska",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik036.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik036.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik033.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik032.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik038.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik040.jpg"
+      ],
+      "localImage": "shop-images/21237.jpg"
+    },
+    {
+      "id": 21147,
+      "name": "Koszulka meczowa Kappa FEC 2025/2026 Zielona",
+      "slug": "koszulka-meczowa-kappa-fec-2025-2026-zielona-kopia",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-kappa-fec-2025-2026-zielona-kopia",
+      "sku": null,
+      "price": 130,
+      "regularPrice": 239,
+      "salePrice": 130,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "Odzież",
+        "Męska",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik022.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik022.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik024.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik025.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik054.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik056.jpg"
+      ],
+      "localImage": "shop-images/21147.jpg"
+    },
+    {
+      "id": 21018,
+      "name": "POLO ANWIL Białe Męskie",
+      "slug": "polo-anwil-biale-meskie",
+      "url": "https://sklep.kkwloclawek.pl/produkt/polo-anwil-biale-meskie",
+      "sku": null,
+      "price": 79,
+      "regularPrice": 109,
+      "salePrice": 79,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "4XL",
+        "5XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik079.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik079.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik082.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/rozmiarowka-polo-meskie.png"
+      ],
+      "localImage": "shop-images/21018.jpg"
+    },
+    {
+      "id": 20664,
+      "name": "BLUZA BIAŁA ANWIL WŁOCŁAWEK Z TŁOCZENIEM PREMIUM",
+      "slug": "bluza-biala-tloczona-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/bluza-biala-tloczona-anwil-wloclawek",
+      "sku": null,
+      "price": 249,
+      "regularPrice": 299,
+      "salePrice": 249,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik088.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik088.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik087.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik092.jpg"
+      ],
+      "localImage": "shop-images/20664.jpg"
+    },
+    {
+      "id": 20705,
+      "name": "T-SHIRT OVERSIZE ANWIL WŁOCŁAWEK Z TŁOCZENIEM PREMIUM",
+      "slug": "t-shirt-oversize-tloczony-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-oversize-tloczony-anwil-wloclawek",
+      "sku": null,
+      "price": 89,
+      "regularPrice": 119,
+      "salePrice": 89,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik085.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik085.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik104.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik086.jpg"
+      ],
+      "localImage": "shop-images/20705.jpg"
+    },
+    {
+      "id": 20692,
+      "name": "BLUZA SZARA ANWIL WŁOCŁAWEK Z TŁOCZENIEM PREMIUM",
+      "slug": "bluza-szara-tloczona-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/bluza-szara-tloczona-anwil-wloclawek",
+      "sku": null,
+      "price": 249,
+      "regularPrice": 299,
+      "salePrice": 249,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik089.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik089.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik090.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/bluza_2.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik094.jpg"
+      ],
+      "localImage": "shop-images/20692.jpg"
+    },
+    {
+      "id": 20447,
+      "name": "Pin 35 lecie Klubu",
+      "slug": "pin-35-lecie-klubu-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/pin-35-lecie-klubu-anwil-wloclawek",
+      "sku": null,
+      "price": 25,
+      "regularPrice": 25,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/09/20250811PF_PK030.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/09/20250811PF_PK030.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/09/20250811PF_PK028.jpg"
+      ],
+      "localImage": "shop-images/20447.jpg"
+    },
+    {
+      "id": 20388,
+      "name": "Piórnik Anwil Włocławek",
+      "slug": "piornik-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/piornik-anwil-wloclawek",
+      "sku": null,
+      "price": 32,
+      "regularPrice": 40,
+      "salePrice": 32,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/Piornik-scaled.jpeg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/Piornik-scaled.jpeg"
+      ],
+      "localImage": "shop-images/20388.jpg"
+    },
+    {
+      "id": 20312,
+      "name": "SKARPETY Anwil Kolor Długie",
+      "slug": "skarpety-anwil-kolor-dlugie",
+      "url": "https://sklep.kkwloclawek.pl/produkt/skarpety-anwil-kolor-dlugie",
+      "sku": null,
+      "price": 18,
+      "regularPrice": 28,
+      "salePrice": 18,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "32-34",
+        "35-37",
+        "38-40",
+        "41-43",
+        "44-46"
+      ],
+      "categories": [
+        "Odzież",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/Skaprety-kolor-dlugie-scaled.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/Skaprety-kolor-dlugie-scaled.jpg"
+      ],
+      "localImage": "shop-images/20312.jpg"
+    },
+    {
+      "id": 20246,
+      "name": "T-shirt dziecięcy BLACK SCHOOL ANWIL WŁOCŁAWEK",
+      "slug": "t-shirt-dzieciecy-black-school-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-dzieciecy-black-school-anwil-wloclawek",
+      "sku": null,
+      "price": 49,
+      "regularPrice": 69,
+      "salePrice": 49,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "146/152",
+        "158/164",
+        "134/146",
+        "152/158",
+        "98/104"
+      ],
+      "categories": [
+        "RottWear",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK039.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK039.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK042.jpg"
+      ],
+      "localImage": "shop-images/20246.jpg"
+    },
+    {
+      "id": 20222,
+      "name": "T-shirt dziecięcy WHITE SCHOOL ANWIL WŁOCŁAWEK",
+      "slug": "t-shirt-dzieciecy-white-school-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-dzieciecy-white-school-anwil-wloclawek",
+      "sku": null,
+      "price": 49,
+      "regularPrice": 69,
+      "salePrice": 49,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "146/152",
+        "158/164",
+        "134/146",
+        "152/158",
+        "98/104"
+      ],
+      "categories": [
+        "RottWear",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/WHITE-SCHOOL.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/WHITE-SCHOOL.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/WHITE-SCHOOL-2.jpg"
+      ],
+      "localImage": "shop-images/20222.jpg"
+    },
+    {
+      "id": 20219,
+      "name": "Gumka szkolna z temperówką Anwil Włocławek",
+      "slug": "gumka-szkolna-z-temperowka-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/gumka-szkolna-z-temperowka-anwil-wloclawek",
+      "sku": null,
+      "price": 7,
+      "regularPrice": 9,
+      "salePrice": 7,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK017.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK017.jpg"
+      ],
+      "localImage": "shop-images/20219.jpg"
+    },
+    {
+      "id": 20203,
+      "name": "Smycz colorfull Anwil Włocławek",
+      "slug": "smycz-colorfull-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/smycz-colorfull-anwil-wloclawek",
+      "sku": null,
+      "price": 12,
+      "regularPrice": 12,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": false,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK024.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK024.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK026.jpg"
+      ],
+      "localImage": "shop-images/20203.jpg"
+    },
+    {
+      "id": 20199,
+      "name": "Worek niebieski Anwil Włocławek",
+      "slug": "worek-niebieski-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/worek-niebieski-anwil-wloclawek",
+      "sku": null,
+      "price": 29,
+      "regularPrice": 45,
+      "salePrice": 29,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/IMG_2488-scaled.jpeg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/IMG_2488-scaled.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/IMG_2489-scaled.jpeg"
+      ],
+      "localImage": "shop-images/20199.jpg"
+    },
+    {
+      "id": 20195,
+      "name": "Worek czarny Anwil Włocławek",
+      "slug": "worek-czarny-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/worek-czarny-anwil-wloclawek",
+      "sku": null,
+      "price": 29,
+      "regularPrice": 45,
+      "salePrice": 29,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/IMG_2486-scaled.jpeg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/IMG_2486-scaled.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/IMG_2487-scaled.jpeg"
+      ],
+      "localImage": "shop-images/20195.jpg"
+    },
+    {
+      "id": 20173,
+      "name": "Zeszyt Anwil Włocławek",
+      "slug": "zeszyt-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/zeszyt-anwil-wloclawek",
+      "sku": null,
+      "price": 6,
+      "regularPrice": 8,
+      "salePrice": 6,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK008.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK008.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK001.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK002.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK003.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK004.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK005.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK006.jpg"
+      ],
+      "localImage": "shop-images/20173.jpg"
+    },
+    {
+      "id": 20169,
+      "name": "Bidon Anwil Włocławek",
+      "slug": "bidon-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/bidon-anwil-wloclawek",
+      "sku": null,
+      "price": 35,
+      "regularPrice": 39,
+      "salePrice": 35,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK012.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK012.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/08/20250811PF_PK013.jpg"
+      ],
+      "localImage": "shop-images/20169.jpg"
+    },
+    {
+      "id": 19265,
+      "name": "Fotel Gamingowy Anwil Włocławek Black",
+      "slug": "fotel-gamingowy-anwil-black",
+      "url": "https://sklep.kkwloclawek.pl/produkt/fotel-gamingowy-anwil-black",
+      "sku": null,
+      "price": 1199,
+      "regularPrice": 1199,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0034.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0034.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0032.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0027.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0036.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0041.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0017.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA00181.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA00191.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0020.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0022.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0023.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0024.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0025.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0026.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0028.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0030.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0031.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0035.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0039.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0040.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0038.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0037.jpg"
+      ],
+      "localImage": "shop-images/19265.jpg"
+    },
+    {
+      "id": 19219,
+      "name": "Fotel Gamingowy Anwil Włocławek Blue",
+      "slug": "fotel-gamingowy-anwil-blue",
+      "url": "https://sklep.kkwloclawek.pl/produkt/fotel-gamingowy-anwil-blue",
+      "sku": null,
+      "price": 1199,
+      "regularPrice": 1199,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0004.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0004.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0000.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0001.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0002.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0003.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0005.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0006.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0007.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0008.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0009.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0010.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0011.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0012.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0013.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0014.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/05/IMG-20250529-WA0015.jpg"
+      ],
+      "localImage": "shop-images/19219.jpg"
+    },
+    {
+      "id": 18301,
+      "name": "T-shirt dziecięcy HOLO Pink",
+      "slug": "t-shirt-dzieciecy-holo-pink",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-dzieciecy-holo-pink",
+      "sku": null,
+      "price": 55,
+      "regularPrice": 69,
+      "salePrice": 55,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "146/152",
+        "158/164",
+        "134/146",
+        "152/158",
+        "98/104"
+      ],
+      "categories": [
+        "RottWear",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/4-1.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/4-1.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/4-1.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/2.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/3.jpg"
+      ],
+      "localImage": "shop-images/18301.jpg"
+    },
+    {
+      "id": 18286,
+      "name": "T-shirt dziecięcy HOLO BLUE",
+      "slug": "t-shirt-dzieciecy-holo-blue",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-dzieciecy-holo-blue",
+      "sku": null,
+      "price": 55,
+      "regularPrice": 69,
+      "salePrice": 55,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "146/152",
+        "158/164",
+        "134/146",
+        "152/158",
+        "98/104"
+      ],
+      "categories": [
+        "RottWear",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/6.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/6.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/5.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/1.jpg"
+      ],
+      "localImage": "shop-images/18286.jpg"
+    },
+    {
+      "id": 18247,
+      "name": "Poduszka Anwil Włocławek",
+      "slug": "poduszka-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/poduszka-anwil-wloclawek",
+      "sku": null,
+      "price": 40,
+      "regularPrice": 40,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/02/20250415PF_PK039.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/02/20250415PF_PK039.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/02/20250415PF_PK040.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/02/20250415PF_PK046.jpg"
+      ],
+      "localImage": "shop-images/18247.jpg"
+    },
+    {
+      "id": 18205,
+      "name": "TOP Czarny damski HOLO",
+      "slug": "top-czarny-damski-holo",
+      "url": "https://sklep.kkwloclawek.pl/produkt/top-czarny-damski-holo",
+      "sku": null,
+      "price": 55,
+      "regularPrice": 79,
+      "salePrice": 55,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/20250415PF_PK004.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/20250415PF_PK004.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/20250415PF_PK002.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/20250415PF_PK014.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/20250415PF_PK010.jpg"
+      ],
+      "localImage": "shop-images/18205.jpg"
+    },
+    {
+      "id": 18006,
+      "name": "KARTA KOLEKCJONERSKA ROBERT SKIBNIEWSKI",
+      "slug": "karta-kolekcjonerska-robert-skibniewski",
+      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-robert-skibniewski",
+      "sku": null,
+      "price": 20,
+      "regularPrice": 20,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/att.d1zJ7W42W1aynL9kcscVNGZnrta3qXhzqH0mTcBLX58-scaled.jpeg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/att.d1zJ7W42W1aynL9kcscVNGZnrta3qXhzqH0mTcBLX58-scaled.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/att.DQX-zHx-jldofq5S6UO2XiJTqlrShMbc_-P8FWklZwk-scaled.jpeg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/04/att.fVpWDzu1nM_K4zadNWPDP32C-Sqzf3__zhF6akInqac-scaled.jpeg"
+      ],
+      "localImage": "shop-images/18006.jpg"
+    },
+    {
+      "id": 17496,
+      "name": "DYFUZOR ZAPACHOWY ANWIL",
+      "slug": "dyfuzor-zapachowy-anwil",
+      "url": "https://sklep.kkwloclawek.pl/produkt/dyfuzor-zapachowy-anwil",
+      "sku": null,
+      "price": 39,
+      "regularPrice": 59,
+      "salePrice": 39,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK010.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK010.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK007.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK011.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK008.jpg"
+      ],
+      "localImage": "shop-images/17496.jpg"
+    },
+    {
+      "id": 17448,
+      "name": "Okulary ANWIL CZARNE",
+      "slug": "okulary-anwil-czarne",
+      "url": "https://sklep.kkwloclawek.pl/produkt/okulary-anwil-czarne",
+      "sku": null,
+      "price": 15,
+      "regularPrice": 25,
+      "salePrice": 15,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK003.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK003.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK006.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK004.jpg"
+      ],
+      "localImage": "shop-images/17448.jpg"
+    },
+    {
+      "id": 17406,
+      "name": "T-shirt HOLO ANWIL BLUE ICE",
+      "slug": "t-shirt-fluo-anwil-blue-ice-2",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-fluo-anwil-blue-ice-2",
+      "sku": null,
+      "price": 69,
+      "regularPrice": 99,
+      "salePrice": 69,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "4XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK047.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK047.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK048.jpg"
+      ],
+      "localImage": "shop-images/17406.jpg"
+    },
+    {
+      "id": 17338,
+      "name": "T-shirt holo ANWIL BLUE ICE",
+      "slug": "t-shirt-fluo-anwil-blue-ice",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-fluo-anwil-blue-ice",
+      "sku": null,
+      "price": 69,
+      "regularPrice": 99,
+      "salePrice": 69,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "4XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK017.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK017.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250311PK018.jpg"
+      ],
+      "localImage": "shop-images/17338.jpg"
+    },
+    {
+      "id": 17266,
+      "name": "Torba bawełniana granatowa Anwil Włocławek",
+      "slug": "torba-bawelniana-granatowa-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/torba-bawelniana-granatowa-anwil-wloclawek",
+      "sku": null,
+      "price": 15,
+      "regularPrice": 24,
+      "salePrice": 15,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep023.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep023.jpg"
+      ],
+      "localImage": "shop-images/17266.jpg"
+    },
+    {
+      "id": 17263,
+      "name": "Torba bawełniana czarna Anwil Włocławek",
+      "slug": "torba-bawelniana-czarna-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/torba-bawelniana-czarna-anwil-wloclawek",
+      "sku": null,
+      "price": 15,
+      "regularPrice": 24,
+      "salePrice": 15,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep022.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep022.jpg"
+      ],
+      "localImage": "shop-images/17263.jpg"
+    },
+    {
+      "id": 17260,
+      "name": "Notes czarny Anwil Włocławek",
+      "slug": "notes-czarny-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/notes-czarny-anwil-wloclawek",
+      "sku": null,
+      "price": 12,
+      "regularPrice": 15,
+      "salePrice": 12,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep015.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep015.jpg"
+      ],
+      "localImage": "shop-images/17260.jpg"
+    },
+    {
+      "id": 17257,
+      "name": "Notes biały Anwil Włocławek",
+      "slug": "notes-bialy-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/notes-bialy-anwil-wloclawek",
+      "sku": null,
+      "price": 12,
+      "regularPrice": 15,
+      "salePrice": 12,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep016.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep016.jpg"
+      ],
+      "localImage": "shop-images/17257.jpg"
+    },
+    {
+      "id": 17254,
+      "name": "Długopis biały Anwil Włocławek",
+      "slug": "dlugopis-bialy-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/dlugopis-bialy-anwil-wloclawek",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": false,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep007.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep007.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep013-1.jpg"
+      ],
+      "localImage": "shop-images/17254.jpg"
+    },
+    {
+      "id": 17250,
+      "name": "Długopis niebieski Anwil Włocławek",
+      "slug": "dlugopis-niebieski-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/dlugopis-niebieski-anwil-wloclawek",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": false,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep008.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep008.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep013-1.jpg"
+      ],
+      "localImage": "shop-images/17250.jpg"
+    },
+    {
+      "id": 17246,
+      "name": "Długopis zielony Anwil Włocławek",
+      "slug": "dlugopis-zielony-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/dlugopis-zielony-anwil-wloclawek",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": false,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep010.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep010.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/03/20250228PK_Sklep013.jpg"
+      ],
+      "localImage": "shop-images/17246.jpg"
+    },
+    {
+      "id": 16654,
+      "name": "T-shirt dziecięcy Drużyna Anwil Włocławek",
+      "slug": "t-shirt-druzyna-anwil-kids",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-druzyna-anwil-kids",
+      "sku": null,
+      "price": 45,
+      "regularPrice": 79,
+      "salePrice": 45,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "146/152",
+        "158/164",
+        "134/146",
+        "152/158",
+        "98/104"
+      ],
+      "categories": [
+        "RottWear",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/02/druz.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/02/druz.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/02/druz2.jpg"
+      ],
+      "localImage": "shop-images/16654.jpg"
+    },
+    {
+      "id": 14734,
+      "name": "Replika koszulki meczowej Biała 4F Anwil Włocławek sezon 2024/2025",
+      "slug": "replika-koszulki-meczowej-biala-4f-anwil-wloclawek-sezon-2024-2025",
+      "url": "https://sklep.kkwloclawek.pl/produkt/replika-koszulki-meczowej-biala-4f-anwil-wloclawek-sezon-2024-2025",
+      "sku": null,
+      "price": 159,
+      "regularPrice": 249,
+      "salePrice": 159,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "4F",
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK032.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK032.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK034.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK035.jpg"
+      ],
+      "localImage": "shop-images/14734.jpg"
+    },
+    {
+      "id": 14703,
+      "name": "Replika koszulki meczowej Niebieska 4F Anwil Włocławek sezon 2024/2025",
+      "slug": "replika-koszulki-meczowej-niebieska-4f-anwil-wloclawek-sezon-2024-2025",
+      "url": "https://sklep.kkwloclawek.pl/produkt/replika-koszulki-meczowej-niebieska-4f-anwil-wloclawek-sezon-2024-2025",
+      "sku": null,
+      "price": 159,
+      "regularPrice": 249,
+      "salePrice": 159,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "4F",
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK037.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK037.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK039.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK040.jpg"
+      ],
+      "localImage": "shop-images/14703.jpg"
+    },
+    {
+      "id": 14674,
+      "name": "Skarbonka Piłka Anwil",
+      "slug": "skarbonka-pilka-anwil",
+      "url": "https://sklep.kkwloclawek.pl/produkt/skarbonka-pilka-anwil",
+      "sku": null,
+      "price": 119,
+      "regularPrice": 119,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK001.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK001.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK002.jpg"
+      ],
+      "localImage": "shop-images/14674.jpg"
+    },
+    {
+      "id": 14631,
+      "name": "BLUZA BASKETBALL DZIECIĘCA GRANATOWA",
+      "slug": "bluza-basketball-dziecieca-granatowa",
+      "url": "https://sklep.kkwloclawek.pl/produkt/bluza-basketball-dziecieca-granatowa",
+      "sku": null,
+      "price": 95,
+      "regularPrice": 169,
+      "salePrice": 95,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "134/146",
+        "152/158",
+        "98/104"
+      ],
+      "categories": [
+        "RottWear",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK005.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK005.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK008.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK009.jpg"
+      ],
+      "localImage": "shop-images/14631.jpg"
+    },
+    {
+      "id": 14612,
+      "name": "BLUZA GRANATOWA ANWIL BASKETBALL UNISEX",
+      "slug": "bluza-granatowa-anwil-basketball-unisex-2",
+      "url": "https://sklep.kkwloclawek.pl/produkt/bluza-granatowa-anwil-basketball-unisex-2",
+      "sku": null,
+      "price": 139,
+      "regularPrice": 249,
+      "salePrice": 139,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "4XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/KR3_6904.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/KR3_6904.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/20241118PF_PK049.jpg"
+      ],
+      "localImage": "shop-images/14612.jpg"
+    },
+    {
+      "id": 14593,
+      "name": "BLUZA GRANATOWA ANWIL BASKETBALL UNISEX",
+      "slug": "bluza-granatowa-anwil-basketball-unisex",
+      "url": "https://sklep.kkwloclawek.pl/produkt/bluza-granatowa-anwil-basketball-unisex",
+      "sku": null,
+      "price": 139,
+      "regularPrice": 249,
+      "salePrice": 139,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "4XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/DamskaBluza-scaled.jpeg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/DamskaBluza-scaled.jpeg"
+      ],
+      "localImage": "shop-images/14593.jpg"
+    },
+    {
+      "id": 14423,
+      "name": "Spodenki meczowe Kappa FEC Niebieskie",
+      "slug": "bluza-kappa-anwil-granatowa-meska",
+      "url": "https://sklep.kkwloclawek.pl/produkt/bluza-kappa-anwil-granatowa-meska",
+      "sku": null,
+      "price": 119,
+      "regularPrice": 179,
+      "salePrice": 119,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "Odzież",
+        "Męska",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik057.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik057.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik058.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik059.jpg"
+      ],
+      "localImage": "shop-images/14423.jpg"
+    },
+    {
+      "id": 14251,
+      "name": "T-shirt BASKETBALL DZIECIĘCY GRANATOWY",
+      "slug": "t-shirt-basketball-dzieciecy-granatowy",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-basketball-dzieciecy-granatowy",
+      "sku": null,
+      "price": 45,
+      "regularPrice": 79,
+      "salePrice": 45,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "134/146",
+        "152/158",
+        "98/104"
+      ],
+      "categories": [
+        "RottWear",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/Sklepik029.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/Sklepik029.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/Sklepik028-—-kopia.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/Sklepik030.jpg"
+      ],
+      "localImage": "shop-images/14251.jpg"
+    },
+    {
+      "id": 14157,
+      "name": "Polo Damskie Białe ANWIL",
+      "slug": "polo-damskie-biale-anwil",
+      "url": "https://sklep.kkwloclawek.pl/produkt/polo-damskie-biale-anwil",
+      "sku": null,
+      "price": 69,
+      "regularPrice": 109,
+      "salePrice": 69,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/2025.10.13_Sklepik099.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/2025.10.13_Sklepik099.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/2025.10.13_Sklepik099.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/2025.10.13_Sklepik100.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/11/rozmiarowka-polo-damska.png"
+      ],
+      "localImage": "shop-images/14157.jpg"
+    },
+    {
+      "id": 13964,
+      "name": "Koszulka meczowa Kappa FEC 2024/2025 Niebieska",
+      "slug": "koszulka-meczowa-kappa-fec-2024-2025-niebieska",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-kappa-fec-2024-2025-niebieska",
+      "sku": null,
+      "price": 130,
+      "regularPrice": 229,
+      "salePrice": 130,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "Męska",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Sklepik055.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Sklepik055.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Sklepik062.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Sklepik060.jpg"
+      ],
+      "localImage": "shop-images/13964.jpg"
+    },
+    {
+      "id": 13940,
+      "name": "Koszulka meczowa Kappa FEC 2024/2025 Granatowa",
+      "slug": "koszulka-meczowa-kappa-fec-2024-2025-granatowa",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-meczowa-kappa-fec-2024-2025-granatowa",
+      "sku": null,
+      "price": 130,
+      "regularPrice": 229,
+      "salePrice": 130,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "Męska",
+        "Kappa",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Sklepik046.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Sklepik046.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Sklepik049.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Sklepik052.jpg"
+      ],
+      "localImage": "shop-images/13940.jpg"
+    },
+    {
+      "id": 13836,
+      "name": "SKARPETY Anwil Białe Długie",
+      "slug": "skarpety-anwil-biale-dlugie",
+      "url": "https://sklep.kkwloclawek.pl/produkt/skarpety-anwil-biale-dlugie",
+      "sku": null,
+      "price": 15,
+      "regularPrice": 28,
+      "salePrice": 15,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "32-34",
+        "35-37",
+        "38-40",
+        "41-43",
+        "44-46"
+      ],
+      "categories": [
+        "Odzież",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Skarpetki_1.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Skarpetki_1.jpg"
+      ],
+      "localImage": "shop-images/13836.jpg"
+    },
+    {
+      "id": 13823,
+      "name": "Skarpety Anwil Białe Stópki",
+      "slug": "skarpety-anwil-biale-stopki",
+      "url": "https://sklep.kkwloclawek.pl/produkt/skarpety-anwil-biale-stopki",
+      "sku": null,
+      "price": 15,
+      "regularPrice": 25,
+      "salePrice": 15,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "32-34",
+        "35-37",
+        "38-40",
+        "41-43",
+        "44-46"
+      ],
+      "categories": [
+        "Męska",
+        "Damska",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Stopki_1.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/Stopki_1.jpg"
+      ],
+      "localImage": "shop-images/13823.jpg"
+    },
+    {
+      "id": 13703,
+      "name": "Szalik POLSKA",
+      "slug": "szalik-polska",
+      "url": "https://sklep.kkwloclawek.pl/produkt/szalik-polska",
+      "sku": null,
+      "price": 40,
+      "regularPrice": 40,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/20241017SzalPolska_PK002.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/20241017SzalPolska_PK002.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/20241017SzalPolska_PK004.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/10/20241017SzalPolska_PK002.jpg"
+      ],
+      "localImage": "shop-images/13703.jpg"
+    },
+    {
+      "id": 13197,
+      "name": "WAKACYJNA KOSZULKA DZIECIĘCA SUMMER VIBES",
+      "slug": "wakacyjna-koszulka-dziecieca",
+      "url": "https://sklep.kkwloclawek.pl/produkt/wakacyjna-koszulka-dziecieca",
+      "sku": null,
+      "price": 49,
+      "regularPrice": 69,
+      "salePrice": 49,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "110/116",
+        "122/128",
+        "134/146",
+        "152/158",
+        "98/104"
+      ],
+      "categories": [
+        "RottWear",
+        "Dziecięca",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/07/t-shirt-2.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/07/t-shirt-2.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/07/t-shirt-2.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/07/t-shirt.jpg"
+      ],
+      "localImage": "shop-images/13197.jpg"
+    },
+    {
+      "id": 13096,
+      "name": "WAKACYJNA Koszulka SUMMER VIBES Anwil Włocławek",
+      "slug": "wakacyjna-koszulka-anwil-wloclawek-2024",
+      "url": "https://sklep.kkwloclawek.pl/produkt/wakacyjna-koszulka-anwil-wloclawek-2024",
+      "sku": null,
+      "price": 49,
+      "regularPrice": 89,
+      "salePrice": 49,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/07/20241118PF_PK061.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/07/20241118PF_PK061.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/07/20241118PF_PK063.jpg"
+      ],
+      "localImage": "shop-images/13096.jpg"
+    },
+    {
+      "id": 12449,
+      "name": "Szare spodnie z haftem Anwil Włocławek",
+      "slug": "szare-spodnie-z-haftem-anwil-wloclawek-kopia",
+      "url": "https://sklep.kkwloclawek.pl/produkt/szare-spodnie-z-haftem-anwil-wloclawek-kopia",
+      "sku": null,
+      "price": 149,
+      "regularPrice": 229,
+      "salePrice": 149,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/10/PKF_3842.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/10/PKF_3842.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/10/RW-13-scaled.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/10/RW-8-scaled.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/10/20240316PF_PK-KWADRAT020.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/2025.10.13_Sklepik117.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/2025.10.13_Sklepik116-1.jpg"
+      ],
+      "localImage": "shop-images/12449.jpg"
+    },
+    {
+      "id": 12426,
+      "name": "Kultowe klapki kubota – anwil Włocławek",
+      "slug": "kultowe-klapki-kubota-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/kultowe-klapki-kubota-anwil-wloclawek",
+      "sku": null,
+      "price": 55,
+      "regularPrice": 89,
+      "salePrice": 55,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "36",
+        "37",
+        "38",
+        "39",
+        "40",
+        "41",
+        "42",
+        "43",
+        "44",
+        "45",
+        "46",
+        "47"
+      ],
+      "categories": [
+        "Męska",
+        "Damska",
+        "Dziecięca",
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/04/20220428PF_PK012.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/04/20220428PF_PK012.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/04/20220428PF_PK006.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/04/20220428PF_PK005.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/04/20220428PF_PK003.jpg"
+      ],
+      "localImage": "shop-images/12426.jpg"
+    },
+    {
+      "id": 12425,
+      "name": "Portfel męski Anwil Włocławek – jasny brąz",
+      "slug": "portfel-meski-anwil-wloclawek-jasny-braz",
+      "url": "https://sklep.kkwloclawek.pl/produkt/portfel-meski-anwil-wloclawek-jasny-braz",
+      "sku": null,
+      "price": 169,
+      "regularPrice": 169,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/20250228PK_Sklep021.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/20250228PK_Sklep021.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/20250228PK_Sklep018.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/20250228PK_Sklep019.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/20250228PK_Sklep020.jpg"
+      ],
+      "localImage": "shop-images/12425.jpg"
+    },
+    {
+      "id": 12392,
+      "name": "Szara bluza z haftem Anwil Włocławek",
+      "slug": "szara-bluza-z-haftem-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/szara-bluza-z-haftem-anwil-wloclawek",
+      "sku": null,
+      "price": 209,
+      "regularPrice": 309,
+      "salePrice": 209,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "3XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Męska",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/KR3_6842.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/KR3_6842.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/10/PKF_3890.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/2025.10.13_Sklepik110.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/06/2025.10.13_Sklepik116.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/10/RW-7-scaled.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/10/RW-80-scaled.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/10/RW-77-scaled.jpg"
+      ],
+      "localImage": "shop-images/12392.jpg"
+    },
+    {
+      "id": 12331,
+      "name": "Koszulka Playoff 2024 anwil włocławek",
+      "slug": "koszulka-playoff-2024-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/koszulka-playoff-2024-anwil-wloclawek",
+      "sku": null,
+      "price": 49,
+      "regularPrice": 79,
+      "salePrice": 49,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "4XL",
+        "5XL",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "RottWear",
+        "Męska",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/PKF_8472.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/PKF_8472.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/PKF_8385.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/PKF_8431.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/PKF_8667.jpg"
+      ],
+      "localImage": "shop-images/12331.jpg"
+    },
+    {
+      "id": 11925,
+      "name": "Skarpety dziecięce stopki Anwil Włocławek",
+      "slug": "skarpetki-stopki-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/skarpetki-stopki-anwil-wloclawek",
+      "sku": null,
+      "price": 15,
+      "regularPrice": 25,
+      "salePrice": 15,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "32-34",
+        "35-37",
+        "38-40",
+        "41-43",
+        "44-46"
+      ],
+      "categories": [
+        "Dziecięca",
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/07.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/07.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/10.jpg"
+      ],
+      "localImage": "shop-images/11925.jpg"
+    },
+    {
+      "id": 11922,
+      "name": "ŚLINIAK DZIECIĘCY ANWIL WŁOCŁAWEK",
+      "slug": "sliniak-dzieciecy-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/sliniak-dzieciecy-anwil-wloclawek",
+      "sku": null,
+      "price": 39,
+      "regularPrice": 49,
+      "salePrice": 39,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Dziecięca",
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/06.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/06.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/04.jpg"
+      ],
+      "localImage": "shop-images/11922.jpg"
+    },
+    {
+      "id": 11841,
+      "name": "Damskie figi kibicowskie",
+      "slug": "damskie-figi-kibicowskie",
+      "url": "https://sklep.kkwloclawek.pl/produkt/damskie-figi-kibicowskie",
+      "sku": null,
+      "price": 49,
+      "regularPrice": 79,
+      "salePrice": 49,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "Odzież",
+        "Damska",
+        "Dziecięca",
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/03/20240316PF_PK-KWADRAT003.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/03/20240316PF_PK-KWADRAT003.jpg"
+      ],
+      "localImage": "shop-images/11841.jpg"
+    },
+    {
+      "id": 11710,
+      "name": "SKARPETY dziecięce ANWIL WŁOCŁAWEK- BIAŁE piłki",
+      "slug": "skarpety-klubowe-anwil-wloclawek-biale",
+      "url": "https://sklep.kkwloclawek.pl/produkt/skarpety-klubowe-anwil-wloclawek-biale",
+      "sku": null,
+      "price": 15,
+      "regularPrice": 28,
+      "salePrice": 15,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "30/34",
+        "35/37",
+        "38/40",
+        "41/43",
+        "44/46"
+      ],
+      "categories": [
+        "Odzież",
+        "Dziecięca",
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/01/S-13-scaled.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/01/S-13-scaled.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/01/S-10-scaled.jpg"
+      ],
+      "localImage": "shop-images/11710.jpg"
+    },
+    {
+      "id": 11633,
+      "name": "NIEBIESKO-SZARE SPODNIE ANWIL WŁOCŁAWEK",
+      "slug": "niebiesko-szare-spodnie-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/niebiesko-szare-spodnie-anwil-wloclawek",
+      "sku": null,
+      "price": 69,
+      "regularPrice": 129,
+      "salePrice": 69,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "categories": [
+        "Męska",
+        "Damska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/01/0b736b3f-c82d-4acc-b6db-7154554fd52b.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/01/0b736b3f-c82d-4acc-b6db-7154554fd52b.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/01/48b75be8-3d82-4a78-badf-e405a1891da0.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/01/0b82f56f-7c2f-4817-8896-5ae08b49d233.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/01/84b97969-1394-4aab-a404-c7352cf82b64.jpg"
+      ],
+      "localImage": "shop-images/11633.jpg"
+    },
+    {
+      "id": 11252,
+      "name": "KARTA KOLEKCJONERSKA IGOR GRISZCZUK",
+      "slug": "karta-kolekcjonerska-igor-griszczuk",
+      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-igor-griszczuk",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/363684791_663408069207763_4785297955741447847_n.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/363684791_663408069207763_4785297955741447847_n.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/386875448_1095831851411576_944674624547517692_n.jpg"
+      ],
+      "localImage": "shop-images/11252.jpg"
+    },
+    {
+      "id": 11247,
+      "name": "KARTA KOLEKCJONERSKA OTIS HILL",
+      "slug": "karta-kolekcjonerska-otis-hill",
+      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-otis-hill",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/385533358_870296637913438_1114918491414434680_n.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/385533358_870296637913438_1114918491414434680_n.jpg"
+      ],
+      "localImage": "shop-images/11247.jpg"
+    },
+    {
+      "id": 11245,
+      "name": "KARTA KOLEKCJONERSKA CHASE SIMON15",
+      "slug": "karta-kolekcjonerska-chase-simon15",
+      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-chase-simon15",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/385542671_1053913452611535_3461742811366346999_n.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/385542671_1053913452611535_3461742811366346999_n.jpg"
+      ],
+      "localImage": "shop-images/11245.jpg"
+    },
+    {
+      "id": 11226,
+      "name": "Kubek termiczny Anwil Włocławek",
+      "slug": "kubek-termiczny-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/kubek-termiczny-anwil-wloclawek",
+      "sku": null,
+      "price": 99,
+      "regularPrice": 99,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/20231207PF_PK018.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/20231207PF_PK018.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/20231207PF_PK017.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/20231207PF_PK018.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/20231207PF_PK025-scaled.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/20231207PF_PK016.jpg"
+      ],
+      "localImage": "shop-images/11226.jpg"
+    },
+    {
+      "id": 11085,
+      "name": "Męskie bokserki dla kibica",
+      "slug": "meskie-bokserki-dla-kibica",
+      "url": "https://sklep.kkwloclawek.pl/produkt/meskie-bokserki-dla-kibica",
+      "sku": null,
+      "price": 49,
+      "regularPrice": 79,
+      "salePrice": 49,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "XXXL"
+      ],
+      "categories": [
+        "Męska",
+        "Dziecięca",
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/PKF_8837.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/PKF_8837.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/PKF_8814.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/PKF_8493.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/PKF_8459.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/PKF_8794.jpg"
+      ],
+      "localImage": "shop-images/11085.jpg"
+    },
+    {
+      "id": 10863,
+      "name": "Chusta funkcyjna/komin anwil włocławek",
+      "slug": "chusta-funkcyjna-komin-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/chusta-funkcyjna-komin-anwil-wloclawek",
+      "sku": null,
+      "price": 19,
+      "regularPrice": 35,
+      "salePrice": 19,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/11/PKF_0493.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/11/PKF_0493.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/11/PKF_0497.jpg"
+      ],
+      "localImage": "shop-images/10863.jpg"
+    },
+    {
+      "id": 10352,
+      "name": "Szalik kibicowski  3 gwiazdki Anwil Włocławek",
+      "slug": "szalik-kibicowski-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/szalik-kibicowski-anwil-wloclawek",
+      "sku": null,
+      "price": 59,
+      "regularPrice": 59,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/09/20231002PF_PK086.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/09/20231002PF_PK086.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/09/379659995_1946546969053208_3157011903140065780_n.jpg"
+      ],
+      "localImage": "shop-images/10352.jpg"
+    },
+    {
+      "id": 10306,
+      "name": "Butelka Dafi filtrująca z logo Anwil Włocławek",
+      "slug": "butelka-dafi-filtrujaca-z-logo-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/butelka-dafi-filtrujaca-z-logo-anwil-wloclawek",
+      "sku": null,
+      "price": 39,
+      "regularPrice": 49,
+      "salePrice": 39,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/09/20231002PF_PK030.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/09/20231002PF_PK030.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/09/20231002PF_PK032.jpg"
+      ],
+      "localImage": "shop-images/10306.jpg"
+    },
+    {
+      "id": 9979,
+      "name": "KARTA KOLEKCJONERSKA MICHAŁ IGNERSKI",
+      "slug": "karta-kolekcjonerska-michal-ignerski",
+      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-michal-ignerski",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/05/20231002PF_PK100.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/05/20231002PF_PK100.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/05/346106982_690317399522742_4224403255421126696_n.jpg"
+      ],
+      "localImage": "shop-images/9979.jpg"
+    },
+    {
+      "id": 9685,
+      "name": "KARTA KOLEKCJONERSKA JEFF NORDGAARD",
+      "slug": "karta-kolekcjonerska-jeff-nordgaard",
+      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-jeff-nordgaard",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/04/20231002PF_PK104.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/04/20231002PF_PK104.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/04/340787233_243733441358810_2726120808845818964_n.jpg"
+      ],
+      "localImage": "shop-images/9685.jpg"
+    },
+    {
+      "id": 9649,
+      "name": "KARTA KOLEKCJONERSKA JOSIP SOBIN",
+      "slug": "karta-kolekcjonerska-josip-sobin",
+      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-josip-sobin",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/03/20231002PF_PK102.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/03/20231002PF_PK102.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/03/335832167_1276457776299627_4858129371584016448_n.jpg"
+      ],
+      "localImage": "shop-images/9649.jpg"
+    },
+    {
+      "id": 9527,
+      "name": "KARTA KOLEKCJONERSKA TOMASZ JANKOWSKI",
+      "slug": "karta-kolekcjonerska-tomasz-jankowski",
+      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-tomasz-jankowski",
+      "sku": null,
+      "price": 10,
+      "regularPrice": 10,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/02/20231002PF_PK108.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/02/20231002PF_PK108.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/02/328726116_1621042208318446_7555176505164767104_n.jpg"
+      ],
+      "localImage": "shop-images/9527.jpg"
+    },
+    {
+      "id": 8827,
+      "name": "GWIZDEK DZIECIĘCY ANWIL WŁOCŁAWEK",
+      "slug": "gwizdek-dzieciecy-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/gwizdek-dzieciecy-anwil-wloclawek",
+      "sku": null,
+      "price": 12,
+      "regularPrice": 12,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Dziecięca",
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/10/gwizdekbialy.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/10/gwizdekbialy.jpg"
+      ],
+      "localImage": "shop-images/8827.jpg"
+    },
+    {
+      "id": 8821,
+      "name": "Spodenki meczowe Kappa FEC 2024/2025 Granatowe",
+      "slug": "brelok-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/brelok-anwil-wloclawek",
+      "sku": null,
+      "price": 119,
+      "regularPrice": 179,
+      "salePrice": 119,
+      "currency": "PLN",
+      "onSale": true,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "L",
+        "XL",
+        "XXL",
+        "3XL"
+      ],
+      "categories": [
+        "Odzież",
+        "Męska",
+        "Promocje"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik060.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik060.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik062.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2025/10/2025.10.13_Sklepik061.jpg"
+      ],
+      "localImage": "shop-images/8821.jpg"
+    },
+    {
+      "id": 6269,
+      "name": "Ramka do rejestracji samochodowej ANWIL Włocławek",
+      "slug": "ramka-do-rejstracji-samochodowej-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/ramka-do-rejstracji-samochodowej-anwil-wloclawek",
+      "sku": null,
+      "price": 19,
+      "regularPrice": 19,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2020/10/2025.10.13_Sklepik118.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2020/10/2025.10.13_Sklepik118.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2020/10/2025.10.13_Sklepik119.jpg"
+      ],
+      "localImage": "shop-images/6269.jpg"
+    }
+  ]
+}

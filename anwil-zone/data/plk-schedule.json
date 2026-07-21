@@ -1,0 +1,5051 @@
+{
+  "source": "https://plk.pl/terminarz",
+  "scrapedAt": "2026-07-12T20:44:15.053Z",
+  "season": "2025/2026",
+  "team": null,
+  "count": 240,
+  "played": 240,
+  "upcoming": 0,
+  "matches": [
+    {
+      "round": 1,
+      "matchId": 200474,
+      "url": "https://plk.pl/mecz/200474/amw-arka-gdynia-vs-energa-czarni-slupsk",
+      "date": "2025-12-23T17:30:00",
+      "dateRaw": "23.12 17:30",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 74,
+      "awayScore": 66,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 1,
+      "matchId": 200475,
+      "url": "https://plk.pl/mecz/200475/tasomix-rosiek-stal-ostrow-wielkopolski-vs-tauron-gtk-gliwice",
+      "date": "2025-12-23T18:00:00",
+      "dateRaw": "23.12 18:00",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 96,
+      "awayScore": 93,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 1,
+      "matchId": 200471,
+      "url": "https://plk.pl/mecz/200471/legia-warszawa-vs-miasto-szkla-krosno",
+      "date": "2025-12-23T19:00:00",
+      "dateRaw": "23.12 19:00",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 82,
+      "awayScore": 68,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 1,
+      "matchId": 200473,
+      "url": "https://plk.pl/mecz/200473/arriva-lotto-twarde-pierniki-torun-vs-mks-dabrowa-gornicza",
+      "date": "2025-12-23T19:00:00",
+      "dateRaw": "23.12 19:00",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 93,
+      "awayScore": 105,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 1,
+      "matchId": 200478,
+      "url": "https://plk.pl/mecz/200478/wks-slask-wroclaw-vs-dziki-warszawa",
+      "date": "2025-12-23T20:15:00",
+      "dateRaw": "23.12 20:15",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 109,
+      "awayScore": 100,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 1,
+      "matchId": 200472,
+      "url": "https://plk.pl/mecz/200472/pge-start-lublin-vs-king-szczecin",
+      "date": "2026-01-06T15:00:00",
+      "dateRaw": "06.01 15:00",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 83,
+      "awayScore": 74,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 1,
+      "matchId": 200477,
+      "url": "https://plk.pl/mecz/200477/orlen-zastal-zielona-gora-vs-energa-trefl-sopot",
+      "date": "2026-01-06T17:30:00",
+      "dateRaw": "06.01 17:30",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 92,
+      "awayScore": 90,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 1,
+      "matchId": 200476,
+      "url": "https://plk.pl/mecz/200476/anwil-wloclawek-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2026-01-06T20:15:00",
+      "dateRaw": "06.01 20:15",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 97,
+      "awayScore": 90,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 2,
+      "matchId": 200481,
+      "url": "https://plk.pl/mecz/200481/orlen-zastal-zielona-gora-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2025-10-03T18:00:00",
+      "dateRaw": "03.10 18:00",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 79,
+      "awayScore": 86,
+      "played": true,
+      "tv": "YouTube "
+    },
+    {
+      "round": 2,
+      "matchId": 200486,
+      "url": "https://plk.pl/mecz/200486/legia-warszawa-vs-pge-start-lublin",
+      "date": "2025-10-03T20:15:00",
+      "dateRaw": "03.10 20:15",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 90,
+      "awayScore": 68,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 2,
+      "matchId": 200484,
+      "url": "https://plk.pl/mecz/200484/mks-dabrowa-gornicza-vs-energa-czarni-slupsk",
+      "date": "2025-10-04T15:00:00",
+      "dateRaw": "04.10 15:00",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 83,
+      "awayScore": 71,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 2,
+      "matchId": 200480,
+      "url": "https://plk.pl/mecz/200480/energa-trefl-sopot-vs-wks-slask-wroclaw",
+      "date": "2025-10-04T17:30:00",
+      "dateRaw": "04.10 17:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 93,
+      "awayScore": 81,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 2,
+      "matchId": 200479,
+      "url": "https://plk.pl/mecz/200479/miasto-szkla-krosno-vs-dziki-warszawa",
+      "date": "2025-10-04T20:00:00",
+      "dateRaw": "04.10 20:00",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 80,
+      "awayScore": 95,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 2,
+      "matchId": 200483,
+      "url": "https://plk.pl/mecz/200483/amw-arka-gdynia-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2025-10-05T12:30:00",
+      "dateRaw": "05.10 12:30",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 90,
+      "awayScore": 83,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 2,
+      "matchId": 200485,
+      "url": "https://plk.pl/mecz/200485/arriva-lotto-twarde-pierniki-torun-vs-king-szczecin",
+      "date": "2025-10-05T17:30:00",
+      "dateRaw": "05.10 17:30",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 68,
+      "awayScore": 77,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 2,
+      "matchId": 200482,
+      "url": "https://plk.pl/mecz/200482/anwil-wloclawek-vs-tauron-gtk-gliwice",
+      "date": "2025-10-06T18:00:00",
+      "dateRaw": "06.10 18:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 93,
+      "awayScore": 58,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 3,
+      "matchId": 200490,
+      "url": "https://plk.pl/mecz/200490/tasomix-rosiek-stal-ostrow-wielkopolski-vs-mks-dabrowa-gornicza",
+      "date": "2025-10-10T18:00:00",
+      "dateRaw": "10.10 18:00",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 77,
+      "awayScore": 91,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 3,
+      "matchId": 200491,
+      "url": "https://plk.pl/mecz/200491/anwil-wloclawek-vs-amw-arka-gdynia",
+      "date": "2025-10-10T20:15:00",
+      "dateRaw": "10.10 20:15",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 98,
+      "awayScore": 108,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 3,
+      "matchId": 200487,
+      "url": "https://plk.pl/mecz/200487/miasto-szkla-krosno-vs-pge-start-lublin",
+      "date": "2025-10-11T15:00:00",
+      "dateRaw": "11.10 15:00",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 81,
+      "awayScore": 82,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 3,
+      "matchId": 200493,
+      "url": "https://plk.pl/mecz/200493/gornik-zamek-ksiaz-walbrzych-vs-wks-slask-wroclaw",
+      "date": "2025-10-11T17:30:00",
+      "dateRaw": "11.10 17:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 85,
+      "awayScore": 83,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 3,
+      "matchId": 200494,
+      "url": "https://plk.pl/mecz/200494/dziki-warszawa-vs-energa-trefl-sopot",
+      "date": "2025-10-11T20:00:00",
+      "dateRaw": "11.10 20:00",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 80,
+      "awayScore": 86,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 3,
+      "matchId": 200488,
+      "url": "https://plk.pl/mecz/200488/arriva-lotto-twarde-pierniki-torun-vs-legia-warszawa",
+      "date": "2025-10-12T12:30:00",
+      "dateRaw": "12.10 12:30",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 67,
+      "awayScore": 82,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 3,
+      "matchId": 200489,
+      "url": "https://plk.pl/mecz/200489/energa-czarni-slupsk-vs-king-szczecin",
+      "date": "2025-10-12T17:30:00",
+      "dateRaw": "12.10 17:30",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 101,
+      "awayScore": 76,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 3,
+      "matchId": 200492,
+      "url": "https://plk.pl/mecz/200492/tauron-gtk-gliwice-vs-orlen-zastal-zielona-gora",
+      "date": "2025-10-13T18:00:00",
+      "dateRaw": "13.10 18:00",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 62,
+      "awayScore": 86,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 4,
+      "matchId": 200497,
+      "url": "https://plk.pl/mecz/200497/tauron-gtk-gliwice-vs-wks-slask-wroclaw",
+      "date": "2025-10-17T18:00:00",
+      "dateRaw": "17.10 18:00",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 86,
+      "awayScore": 93,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 4,
+      "matchId": 200498,
+      "url": "https://plk.pl/mecz/200498/orlen-zastal-zielona-gora-vs-amw-arka-gdynia",
+      "date": "2025-10-17T20:15:00",
+      "dateRaw": "17.10 20:15",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 75,
+      "awayScore": 77,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 4,
+      "matchId": 200502,
+      "url": "https://plk.pl/mecz/200502/pge-start-lublin-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2025-10-18T15:00:00",
+      "dateRaw": "18.10 15:00",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 90,
+      "awayScore": 85,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 4,
+      "matchId": 200496,
+      "url": "https://plk.pl/mecz/200496/gornik-zamek-ksiaz-walbrzych-vs-dziki-warszawa",
+      "date": "2025-10-18T17:30:00",
+      "dateRaw": "18.10 17:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 71,
+      "awayScore": 69,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 4,
+      "matchId": 200501,
+      "url": "https://plk.pl/mecz/200501/legia-warszawa-vs-energa-czarni-slupsk",
+      "date": "2025-10-19T12:30:00",
+      "dateRaw": "19.10 12:30",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 87,
+      "awayScore": 76,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 4,
+      "matchId": 200499,
+      "url": "https://plk.pl/mecz/200499/anwil-wloclawek-vs-mks-dabrowa-gornicza",
+      "date": "2025-10-19T15:00:00",
+      "dateRaw": "19.10 15:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 89,
+      "awayScore": 78,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 4,
+      "matchId": 200495,
+      "url": "https://plk.pl/mecz/200495/miasto-szkla-krosno-vs-energa-trefl-sopot",
+      "date": "2025-10-19T17:30:00",
+      "dateRaw": "19.10 17:30",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 85,
+      "awayScore": 105,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 4,
+      "matchId": 200500,
+      "url": "https://plk.pl/mecz/200500/king-szczecin-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2025-10-20T18:30:00",
+      "dateRaw": "20.10 18:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 97,
+      "awayScore": 72,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 5,
+      "matchId": 200503,
+      "url": "https://plk.pl/mecz/200503/miasto-szkla-krosno-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2025-10-24T20:15:00",
+      "dateRaw": "24.10 20:15",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 81,
+      "awayScore": 88,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 5,
+      "matchId": 200504,
+      "url": "https://plk.pl/mecz/200504/energa-czarni-slupsk-vs-pge-start-lublin",
+      "date": "2025-10-25T15:00:00",
+      "dateRaw": "25.10 15:00",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 98,
+      "awayScore": 72,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 5,
+      "matchId": 200508,
+      "url": "https://plk.pl/mecz/200508/wks-slask-wroclaw-vs-amw-arka-gdynia",
+      "date": "2025-10-25T17:30:00",
+      "dateRaw": "25.10 17:30",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 87,
+      "awayScore": 68,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 5,
+      "matchId": 200505,
+      "url": "https://plk.pl/mecz/200505/legia-warszawa-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2025-10-25T20:00:00",
+      "dateRaw": "25.10 20:00",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 98,
+      "awayScore": 89,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 5,
+      "matchId": 200506,
+      "url": "https://plk.pl/mecz/200506/anwil-wloclawek-vs-king-szczecin",
+      "date": "2025-10-26T12:30:00",
+      "dateRaw": "26.10 12:30",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 92,
+      "awayScore": 94,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 5,
+      "matchId": 200510,
+      "url": "https://plk.pl/mecz/200510/energa-trefl-sopot-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2025-10-26T15:00:00",
+      "dateRaw": "26.10 15:00",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 84,
+      "awayScore": 77,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 5,
+      "matchId": 200507,
+      "url": "https://plk.pl/mecz/200507/orlen-zastal-zielona-gora-vs-mks-dabrowa-gornicza",
+      "date": "2025-10-26T17:30:00",
+      "dateRaw": "26.10 17:30",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 82,
+      "awayScore": 70,
+      "played": true,
+      "tv": "Polsat Sport 2 "
+    },
+    {
+      "round": 5,
+      "matchId": 200509,
+      "url": "https://plk.pl/mecz/200509/tauron-gtk-gliwice-vs-dziki-warszawa",
+      "date": "2025-10-26T20:00:00",
+      "dateRaw": "26.10 20:00",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 88,
+      "awayScore": 82,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 6,
+      "matchId": 200511,
+      "url": "https://plk.pl/mecz/200511/miasto-szkla-krosno-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2025-10-31T20:15:00",
+      "dateRaw": "31.10 20:15",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 86,
+      "awayScore": 70,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 6,
+      "matchId": 200515,
+      "url": "https://plk.pl/mecz/200515/king-szczecin-vs-orlen-zastal-zielona-gora",
+      "date": "2025-11-01T17:30:00",
+      "dateRaw": "01.11 17:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 80,
+      "awayScore": 66,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 6,
+      "matchId": 200516,
+      "url": "https://plk.pl/mecz/200516/legia-warszawa-vs-anwil-wloclawek",
+      "date": "2025-11-01T20:15:00",
+      "dateRaw": "01.11 20:15",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 80,
+      "awayScore": 75,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 6,
+      "matchId": 200517,
+      "url": "https://plk.pl/mecz/200517/pge-start-lublin-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2025-11-02T12:30:00",
+      "dateRaw": "02.11 12:30",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 76,
+      "awayScore": 91,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 6,
+      "matchId": 200512,
+      "url": "https://plk.pl/mecz/200512/energa-trefl-sopot-vs-tauron-gtk-gliwice",
+      "date": "2025-11-02T15:00:00",
+      "dateRaw": "02.11 15:00",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 97,
+      "awayScore": 61,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 6,
+      "matchId": 200518,
+      "url": "https://plk.pl/mecz/200518/arriva-lotto-twarde-pierniki-torun-vs-energa-czarni-slupsk",
+      "date": "2025-11-02T17:30:00",
+      "dateRaw": "02.11 17:30",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 98,
+      "awayScore": 111,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 6,
+      "matchId": 200514,
+      "url": "https://plk.pl/mecz/200514/mks-dabrowa-gornicza-vs-wks-slask-wroclaw",
+      "date": "2025-11-02T20:00:00",
+      "dateRaw": "02.11 20:00",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 80,
+      "awayScore": 99,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 6,
+      "matchId": 200513,
+      "url": "https://plk.pl/mecz/200513/amw-arka-gdynia-vs-dziki-warszawa",
+      "date": "2025-11-03T18:00:00",
+      "dateRaw": "03.11 18:00",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 78,
+      "awayScore": 96,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 7,
+      "matchId": 200519,
+      "url": "https://plk.pl/mecz/200519/energa-czarni-slupsk-vs-miasto-szkla-krosno",
+      "date": "2025-11-07T20:15:00",
+      "dateRaw": "07.11 20:15",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 85,
+      "awayScore": 81,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 7,
+      "matchId": 200526,
+      "url": "https://plk.pl/mecz/200526/gornik-zamek-ksiaz-walbrzych-vs-tauron-gtk-gliwice",
+      "date": "2025-11-08T15:00:00",
+      "dateRaw": "08.11 15:00",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 90,
+      "awayScore": 81,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 7,
+      "matchId": 200523,
+      "url": "https://plk.pl/mecz/200523/wks-slask-wroclaw-vs-king-szczecin",
+      "date": "2025-11-08T17:30:00",
+      "dateRaw": "08.11 17:30",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 80,
+      "awayScore": 83,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 7,
+      "matchId": 200521,
+      "url": "https://plk.pl/mecz/200521/anwil-wloclawek-vs-pge-start-lublin",
+      "date": "2025-11-08T20:00:00",
+      "dateRaw": "08.11 20:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 90,
+      "awayScore": 81,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 7,
+      "matchId": 200525,
+      "url": "https://plk.pl/mecz/200525/energa-trefl-sopot-vs-amw-arka-gdynia",
+      "date": "2025-11-09T12:30:00",
+      "dateRaw": "09.11 12:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 83,
+      "awayScore": 85,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 7,
+      "matchId": 200524,
+      "url": "https://plk.pl/mecz/200524/dziki-warszawa-vs-mks-dabrowa-gornicza",
+      "date": "2025-11-09T15:00:00",
+      "dateRaw": "09.11 15:00",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 96,
+      "awayScore": 93,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 7,
+      "matchId": 200522,
+      "url": "https://plk.pl/mecz/200522/orlen-zastal-zielona-gora-vs-legia-warszawa",
+      "date": "2025-11-09T17:30:00",
+      "dateRaw": "09.11 17:30",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 71,
+      "awayScore": 88,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 7,
+      "matchId": 200520,
+      "url": "https://plk.pl/mecz/200520/arriva-lotto-twarde-pierniki-torun-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2025-11-10T18:00:00",
+      "dateRaw": "10.11 18:00",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 109,
+      "awayScore": 79,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 8,
+      "matchId": 200534,
+      "url": "https://plk.pl/mecz/200534/energa-czarni-slupsk-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2025-11-13T18:00:00",
+      "dateRaw": "13.11 18:00",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 86,
+      "awayScore": 93,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 8,
+      "matchId": 200530,
+      "url": "https://plk.pl/mecz/200530/dziki-warszawa-vs-king-szczecin",
+      "date": "2025-11-13T20:30:00",
+      "dateRaw": "13.11 20:30",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 85,
+      "awayScore": 96,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 8,
+      "matchId": 200531,
+      "url": "https://plk.pl/mecz/200531/wks-slask-wroclaw-vs-legia-warszawa",
+      "date": "2025-11-14T20:15:00",
+      "dateRaw": "14.11 20:15",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 98,
+      "awayScore": 84,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 8,
+      "matchId": 200532,
+      "url": "https://plk.pl/mecz/200532/pge-start-lublin-vs-orlen-zastal-zielona-gora",
+      "date": "2025-11-15T12:30:00",
+      "dateRaw": "15.11 12:30",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 77,
+      "awayScore": 91,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 8,
+      "matchId": 200529,
+      "url": "https://plk.pl/mecz/200529/mks-dabrowa-gornicza-vs-energa-trefl-sopot",
+      "date": "2025-11-15T15:00:00",
+      "dateRaw": "15.11 15:00",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 93,
+      "awayScore": 81,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 8,
+      "matchId": 200533,
+      "url": "https://plk.pl/mecz/200533/arriva-lotto-twarde-pierniki-torun-vs-anwil-wloclawek",
+      "date": "2025-11-15T17:30:00",
+      "dateRaw": "15.11 17:30",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 95,
+      "awayScore": 101,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 8,
+      "matchId": 200528,
+      "url": "https://plk.pl/mecz/200528/amw-arka-gdynia-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2025-11-16T12:30:00",
+      "dateRaw": "16.11 12:30",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 85,
+      "awayScore": 69,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 8,
+      "matchId": 200527,
+      "url": "https://plk.pl/mecz/200527/tauron-gtk-gliwice-vs-miasto-szkla-krosno",
+      "date": "2025-11-16T17:30:00",
+      "dateRaw": "16.11 17:30",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 98,
+      "awayScore": 75,
+      "played": true,
+      "tv": "Polsat Sport Fight"
+    },
+    {
+      "round": 9,
+      "matchId": 200535,
+      "url": "https://plk.pl/mecz/200535/tasomix-rosiek-stal-ostrow-wielkopolski-vs-miasto-szkla-krosno",
+      "date": "2025-11-20T18:00:00",
+      "dateRaw": "20.11 18:00",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 92,
+      "awayScore": 89,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 9,
+      "matchId": 200542,
+      "url": "https://plk.pl/mecz/200542/tauron-gtk-gliwice-vs-amw-arka-gdynia",
+      "date": "2025-11-21T18:00:00",
+      "dateRaw": "21.11 18:00",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 66,
+      "awayScore": 89,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 9,
+      "matchId": 200536,
+      "url": "https://plk.pl/mecz/200536/anwil-wloclawek-vs-energa-czarni-slupsk",
+      "date": "2025-11-21T20:15:00",
+      "dateRaw": "21.11 20:15",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 91,
+      "awayScore": 80,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 9,
+      "matchId": 200541,
+      "url": "https://plk.pl/mecz/200541/mks-dabrowa-gornicza-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2025-11-22T17:30:00",
+      "dateRaw": "22.11 17:30",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 79,
+      "awayScore": 96,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 9,
+      "matchId": 200537,
+      "url": "https://plk.pl/mecz/200537/arriva-lotto-twarde-pierniki-torun-vs-orlen-zastal-zielona-gora",
+      "date": "2025-11-22T20:00:00",
+      "dateRaw": "22.11 20:00",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 95,
+      "awayScore": 81,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 9,
+      "matchId": 200539,
+      "url": "https://plk.pl/mecz/200539/legia-warszawa-vs-dziki-warszawa",
+      "date": "2025-11-23T12:30:00",
+      "dateRaw": "23.11 12:30",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 79,
+      "awayScore": 84,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 9,
+      "matchId": 200538,
+      "url": "https://plk.pl/mecz/200538/pge-start-lublin-vs-wks-slask-wroclaw",
+      "date": "2025-11-23T15:00:00",
+      "dateRaw": "23.11 15:00",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 91,
+      "awayScore": 98,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 9,
+      "matchId": 200540,
+      "url": "https://plk.pl/mecz/200540/energa-trefl-sopot-vs-king-szczecin",
+      "date": "2025-11-23T17:30:00",
+      "dateRaw": "23.11 17:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 84,
+      "awayScore": 74,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 10,
+      "matchId": 200543,
+      "url": "https://plk.pl/mecz/200543/miasto-szkla-krosno-vs-amw-arka-gdynia",
+      "date": "2025-12-04T18:00:00",
+      "dateRaw": "04.12 18:00",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 60,
+      "awayScore": 78,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 10,
+      "matchId": 200550,
+      "url": "https://plk.pl/mecz/200550/tasomix-rosiek-stal-ostrow-wielkopolski-vs-anwil-wloclawek",
+      "date": "2025-12-04T20:15:00",
+      "dateRaw": "04.12 20:15",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 104,
+      "awayScore": 89,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 10,
+      "matchId": 200544,
+      "url": "https://plk.pl/mecz/200544/mks-dabrowa-gornicza-vs-tauron-gtk-gliwice",
+      "date": "2025-12-05T20:15:00",
+      "dateRaw": "05.12 20:15",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 88,
+      "awayScore": 72,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 10,
+      "matchId": 200546,
+      "url": "https://plk.pl/mecz/200546/legia-warszawa-vs-energa-trefl-sopot",
+      "date": "2025-12-06T15:00:00",
+      "dateRaw": "06.12 15:00",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 78,
+      "awayScore": 88,
+      "played": true,
+      "tv": "Polsat Sport 3 "
+    },
+    {
+      "round": 10,
+      "matchId": 200549,
+      "url": "https://plk.pl/mecz/200549/energa-czarni-slupsk-vs-orlen-zastal-zielona-gora",
+      "date": "2025-12-06T17:30:00",
+      "dateRaw": "06.12 17:30",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 63,
+      "awayScore": 95,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 10,
+      "matchId": 200545,
+      "url": "https://plk.pl/mecz/200545/king-szczecin-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2025-12-07T12:30:00",
+      "dateRaw": "07.12 12:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 64,
+      "awayScore": 77,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 10,
+      "matchId": 200547,
+      "url": "https://plk.pl/mecz/200547/pge-start-lublin-vs-dziki-warszawa",
+      "date": "2025-12-07T15:00:00",
+      "dateRaw": "07.12 15:00",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 76,
+      "awayScore": 101,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 10,
+      "matchId": 200548,
+      "url": "https://plk.pl/mecz/200548/wks-slask-wroclaw-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2025-12-07T17:30:00",
+      "dateRaw": "07.12 17:30",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 87,
+      "awayScore": 75,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 11,
+      "matchId": 200556,
+      "url": "https://plk.pl/mecz/200556/gornik-zamek-ksiaz-walbrzych-vs-legia-warszawa",
+      "date": "2025-12-12T20:15:00",
+      "dateRaw": "12.12 20:15",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 81,
+      "awayScore": 79,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 11,
+      "matchId": 200557,
+      "url": "https://plk.pl/mecz/200557/king-szczecin-vs-tauron-gtk-gliwice",
+      "date": "2025-12-13T12:30:00",
+      "dateRaw": "13.12 12:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 85,
+      "awayScore": 78,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 11,
+      "matchId": 200555,
+      "url": "https://plk.pl/mecz/200555/pge-start-lublin-vs-energa-trefl-sopot",
+      "date": "2025-12-13T15:00:00",
+      "dateRaw": "13.12 15:00",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 84,
+      "awayScore": 105,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 11,
+      "matchId": 200552,
+      "url": "https://plk.pl/mecz/200552/orlen-zastal-zielona-gora-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2025-12-13T17:30:00",
+      "dateRaw": "13.12 17:30",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 98,
+      "awayScore": 84,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 11,
+      "matchId": 200551,
+      "url": "https://plk.pl/mecz/200551/anwil-wloclawek-vs-miasto-szkla-krosno",
+      "date": "2025-12-14T12:30:00",
+      "dateRaw": "14.12 12:30",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 99,
+      "awayScore": 93,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 11,
+      "matchId": 200554,
+      "url": "https://plk.pl/mecz/200554/dziki-warszawa-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2025-12-14T15:00:00",
+      "dateRaw": "14.12 15:00",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 110,
+      "awayScore": 91,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 11,
+      "matchId": 200558,
+      "url": "https://plk.pl/mecz/200558/amw-arka-gdynia-vs-mks-dabrowa-gornicza",
+      "date": "2025-12-14T17:30:00",
+      "dateRaw": "14.12 17:30",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 92,
+      "awayScore": 84,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 11,
+      "matchId": 200553,
+      "url": "https://plk.pl/mecz/200553/wks-slask-wroclaw-vs-energa-czarni-slupsk",
+      "date": "2025-12-15T20:15:00",
+      "dateRaw": "15.12 20:15",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 87,
+      "awayScore": 64,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 12,
+      "matchId": 200559,
+      "url": "https://plk.pl/mecz/200559/miasto-szkla-krosno-vs-mks-dabrowa-gornicza",
+      "date": "2025-12-18T19:00:00",
+      "dateRaw": "18.12 19:00",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 92,
+      "awayScore": 87,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 12,
+      "matchId": 200564,
+      "url": "https://plk.pl/mecz/200564/energa-czarni-slupsk-vs-dziki-warszawa",
+      "date": "2025-12-19T20:15:00",
+      "dateRaw": "19.12 20:15",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 96,
+      "awayScore": 102,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 12,
+      "matchId": 200562,
+      "url": "https://plk.pl/mecz/200562/pge-start-lublin-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2025-12-20T15:00:00",
+      "dateRaw": "20.12 15:00",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 85,
+      "awayScore": 79,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 12,
+      "matchId": 200560,
+      "url": "https://plk.pl/mecz/200560/king-szczecin-vs-amw-arka-gdynia",
+      "date": "2025-12-20T17:30:00",
+      "dateRaw": "20.12 17:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 90,
+      "awayScore": 81,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 12,
+      "matchId": 200561,
+      "url": "https://plk.pl/mecz/200561/tauron-gtk-gliwice-vs-legia-warszawa",
+      "date": "2025-12-20T18:00:00",
+      "dateRaw": "20.12 18:00",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 81,
+      "awayScore": 89,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 12,
+      "matchId": 200563,
+      "url": "https://plk.pl/mecz/200563/arriva-lotto-twarde-pierniki-torun-vs-energa-trefl-sopot",
+      "date": "2025-12-20T19:00:00",
+      "dateRaw": "20.12 19:00",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 95,
+      "awayScore": 86,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 12,
+      "matchId": 200565,
+      "url": "https://plk.pl/mecz/200565/tasomix-rosiek-stal-ostrow-wielkopolski-vs-wks-slask-wroclaw",
+      "date": "2025-12-20T20:00:00",
+      "dateRaw": "20.12 20:00",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 93,
+      "awayScore": 72,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 12,
+      "matchId": 200566,
+      "url": "https://plk.pl/mecz/200566/orlen-zastal-zielona-gora-vs-anwil-wloclawek",
+      "date": "2025-12-22T19:00:00",
+      "dateRaw": "22.12 19:00",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 91,
+      "awayScore": 82,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 13,
+      "matchId": 200568,
+      "url": "https://plk.pl/mecz/200568/wks-slask-wroclaw-vs-anwil-wloclawek",
+      "date": "2025-12-26T17:30:00",
+      "dateRaw": "26.12 17:30",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 86,
+      "awayScore": 79,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 13,
+      "matchId": 200572,
+      "url": "https://plk.pl/mecz/200572/tauron-gtk-gliwice-vs-pge-start-lublin",
+      "date": "2025-12-27T15:00:00",
+      "dateRaw": "27.12 15:00",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 95,
+      "awayScore": 93,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 13,
+      "matchId": 200571,
+      "url": "https://plk.pl/mecz/200571/gornik-zamek-ksiaz-walbrzych-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2025-12-27T17:30:00",
+      "dateRaw": "27.12 17:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 64,
+      "awayScore": 71,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 13,
+      "matchId": 200567,
+      "url": "https://plk.pl/mecz/200567/orlen-zastal-zielona-gora-vs-miasto-szkla-krosno",
+      "date": "2025-12-27T20:00:00",
+      "dateRaw": "27.12 20:00",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 98,
+      "awayScore": 84,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 13,
+      "matchId": 200573,
+      "url": "https://plk.pl/mecz/200573/amw-arka-gdynia-vs-legia-warszawa",
+      "date": "2025-12-28T12:30:00",
+      "dateRaw": "28.12 12:30",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 106,
+      "awayScore": 73,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 13,
+      "matchId": 200569,
+      "url": "https://plk.pl/mecz/200569/dziki-warszawa-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2025-12-28T15:00:00",
+      "dateRaw": "28.12 15:00",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 80,
+      "awayScore": 61,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 13,
+      "matchId": 200570,
+      "url": "https://plk.pl/mecz/200570/energa-trefl-sopot-vs-energa-czarni-slupsk",
+      "date": "2025-12-28T17:30:00",
+      "dateRaw": "28.12 17:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 97,
+      "awayScore": 61,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 13,
+      "matchId": 200574,
+      "url": "https://plk.pl/mecz/200574/mks-dabrowa-gornicza-vs-king-szczecin",
+      "date": "2025-12-29T19:00:00",
+      "dateRaw": "29.12 19:00",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 102,
+      "awayScore": 93,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 14,
+      "matchId": 200580,
+      "url": "https://plk.pl/mecz/200580/tasomix-rosiek-stal-ostrow-wielkopolski-vs-energa-trefl-sopot",
+      "date": "2026-01-01T17:30:00",
+      "dateRaw": "01.01 17:30",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 89,
+      "awayScore": 80,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 14,
+      "matchId": 200579,
+      "url": "https://plk.pl/mecz/200579/energa-czarni-slupsk-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2026-01-02T17:30:00",
+      "dateRaw": "02.01 17:30",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 88,
+      "awayScore": 92,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 14,
+      "matchId": 200578,
+      "url": "https://plk.pl/mecz/200578/arriva-lotto-twarde-pierniki-torun-vs-tauron-gtk-gliwice",
+      "date": "2026-01-02T18:00:00",
+      "dateRaw": "02.01 18:00",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 90,
+      "awayScore": 88,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 14,
+      "matchId": 200582,
+      "url": "https://plk.pl/mecz/200582/wks-slask-wroclaw-vs-orlen-zastal-zielona-gora",
+      "date": "2026-01-02T20:15:00",
+      "dateRaw": "02.01 20:15",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 90,
+      "awayScore": 85,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 14,
+      "matchId": 200575,
+      "url": "https://plk.pl/mecz/200575/miasto-szkla-krosno-vs-king-szczecin",
+      "date": "2026-01-03T12:30:00",
+      "dateRaw": "03.01 12:30",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 72,
+      "awayScore": 82,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 14,
+      "matchId": 200577,
+      "url": "https://plk.pl/mecz/200577/amw-arka-gdynia-vs-pge-start-lublin",
+      "date": "2026-01-03T15:00:00",
+      "dateRaw": "03.01 15:00",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 75,
+      "awayScore": 87,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 14,
+      "matchId": 200581,
+      "url": "https://plk.pl/mecz/200581/anwil-wloclawek-vs-dziki-warszawa",
+      "date": "2026-01-03T17:30:00",
+      "dateRaw": "03.01 17:30",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 105,
+      "awayScore": 96,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 14,
+      "matchId": 200576,
+      "url": "https://plk.pl/mecz/200576/legia-warszawa-vs-mks-dabrowa-gornicza",
+      "date": "2026-01-03T20:00:00",
+      "dateRaw": "03.01 20:00",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 84,
+      "awayScore": 63,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 15,
+      "matchId": 200587,
+      "url": "https://plk.pl/mecz/200587/tauron-gtk-gliwice-vs-energa-czarni-slupsk",
+      "date": "2026-01-08T20:15:00",
+      "dateRaw": "08.01 20:15",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 73,
+      "awayScore": 85,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 15,
+      "matchId": 200588,
+      "url": "https://plk.pl/mecz/200588/amw-arka-gdynia-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-01-09T20:15:00",
+      "dateRaw": "09.01 20:15",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 94,
+      "awayScore": 86,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 15,
+      "matchId": 200585,
+      "url": "https://plk.pl/mecz/200585/energa-trefl-sopot-vs-anwil-wloclawek",
+      "date": "2026-01-10T17:30:00",
+      "dateRaw": "10.01 17:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 83,
+      "awayScore": 74,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 15,
+      "matchId": 200589,
+      "url": "https://plk.pl/mecz/200589/pge-start-lublin-vs-mks-dabrowa-gornicza",
+      "date": "2026-01-10T19:30:00",
+      "dateRaw": "10.01 19:30",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 81,
+      "awayScore": 78,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 15,
+      "matchId": 200590,
+      "url": "https://plk.pl/mecz/200590/king-szczecin-vs-legia-warszawa",
+      "date": "2026-01-11T12:30:00",
+      "dateRaw": "11.01 12:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 83,
+      "awayScore": 81,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 15,
+      "matchId": 200586,
+      "url": "https://plk.pl/mecz/200586/gornik-zamek-ksiaz-walbrzych-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2026-01-11T15:30:00",
+      "dateRaw": "11.01 15:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 80,
+      "awayScore": 72,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 15,
+      "matchId": 200584,
+      "url": "https://plk.pl/mecz/200584/dziki-warszawa-vs-orlen-zastal-zielona-gora",
+      "date": "2026-01-11T17:30:00",
+      "dateRaw": "11.01 17:30",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 98,
+      "awayScore": 86,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 15,
+      "matchId": 200583,
+      "url": "https://plk.pl/mecz/200583/wks-slask-wroclaw-vs-miasto-szkla-krosno",
+      "date": "2026-01-11T20:00:00",
+      "dateRaw": "11.01 20:00",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 89,
+      "awayScore": 60,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 16,
+      "matchId": 200593,
+      "url": "https://plk.pl/mecz/200593/mks-dabrowa-gornicza-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-01-16T20:15:00",
+      "dateRaw": "16.01 20:15",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 90,
+      "awayScore": 79,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 16,
+      "matchId": 200598,
+      "url": "https://plk.pl/mecz/200598/dziki-warszawa-vs-wks-slask-wroclaw",
+      "date": "2026-01-17T12:30:00",
+      "dateRaw": "17.01 12:30",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 81,
+      "awayScore": 82,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 16,
+      "matchId": 200597,
+      "url": "https://plk.pl/mecz/200597/energa-trefl-sopot-vs-orlen-zastal-zielona-gora",
+      "date": "2026-01-17T15:30:00",
+      "dateRaw": "17.01 15:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 78,
+      "awayScore": 75,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 16,
+      "matchId": 200596,
+      "url": "https://plk.pl/mecz/200596/gornik-zamek-ksiaz-walbrzych-vs-anwil-wloclawek",
+      "date": "2026-01-17T17:30:00",
+      "dateRaw": "17.01 17:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 61,
+      "awayScore": 86,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 16,
+      "matchId": 200594,
+      "url": "https://plk.pl/mecz/200594/energa-czarni-slupsk-vs-amw-arka-gdynia",
+      "date": "2026-01-17T19:30:00",
+      "dateRaw": "17.01 19:30",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 76,
+      "awayScore": 90,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 16,
+      "matchId": 200592,
+      "url": "https://plk.pl/mecz/200592/king-szczecin-vs-pge-start-lublin",
+      "date": "2026-01-18T12:30:00",
+      "dateRaw": "18.01 12:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 81,
+      "awayScore": 75,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 16,
+      "matchId": 200591,
+      "url": "https://plk.pl/mecz/200591/miasto-szkla-krosno-vs-legia-warszawa",
+      "date": "2026-01-18T15:30:00",
+      "dateRaw": "18.01 15:30",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 87,
+      "awayScore": 94,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 16,
+      "matchId": 200595,
+      "url": "https://plk.pl/mecz/200595/tauron-gtk-gliwice-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2026-01-18T17:30:00",
+      "dateRaw": "18.01 17:30",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 73,
+      "awayScore": 76,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 17,
+      "matchId": 200603,
+      "url": "https://plk.pl/mecz/200603/tasomix-rosiek-stal-ostrow-wielkopolski-vs-amw-arka-gdynia",
+      "date": "2026-01-22T20:15:00",
+      "dateRaw": "22.01 20:15",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 84,
+      "awayScore": 82,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 17,
+      "matchId": 200605,
+      "url": "https://plk.pl/mecz/200605/king-szczecin-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-01-23T18:00:00",
+      "dateRaw": "23.01 18:00",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 90,
+      "awayScore": 82,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 17,
+      "matchId": 200606,
+      "url": "https://plk.pl/mecz/200606/pge-start-lublin-vs-legia-warszawa",
+      "date": "2026-01-23T20:15:00",
+      "dateRaw": "23.01 20:15",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 52,
+      "awayScore": 84,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 17,
+      "matchId": 200604,
+      "url": "https://plk.pl/mecz/200604/energa-czarni-slupsk-vs-mks-dabrowa-gornicza",
+      "date": "2026-01-24T12:30:00",
+      "dateRaw": "24.01 12:30",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 88,
+      "awayScore": 102,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 17,
+      "matchId": 200602,
+      "url": "https://plk.pl/mecz/200602/tauron-gtk-gliwice-vs-anwil-wloclawek",
+      "date": "2026-01-24T15:30:00",
+      "dateRaw": "24.01 15:30",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 87,
+      "awayScore": 86,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 17,
+      "matchId": 200600,
+      "url": "https://plk.pl/mecz/200600/wks-slask-wroclaw-vs-energa-trefl-sopot",
+      "date": "2026-01-24T17:30:00",
+      "dateRaw": "24.01 17:30",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 96,
+      "awayScore": 85,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 17,
+      "matchId": 200601,
+      "url": "https://plk.pl/mecz/200601/gornik-zamek-ksiaz-walbrzych-vs-orlen-zastal-zielona-gora",
+      "date": "2026-01-25T12:30:00",
+      "dateRaw": "25.01 12:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 82,
+      "awayScore": 89,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 17,
+      "matchId": 200599,
+      "url": "https://plk.pl/mecz/200599/dziki-warszawa-vs-miasto-szkla-krosno",
+      "date": "2026-01-25T17:30:00",
+      "dateRaw": "25.01 17:30",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 90,
+      "awayScore": 85,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 18,
+      "matchId": 200610,
+      "url": "https://plk.pl/mecz/200610/mks-dabrowa-gornicza-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2026-01-30T20:15:00",
+      "dateRaw": "30.01 20:15",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 91,
+      "awayScore": 84,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 18,
+      "matchId": 200608,
+      "url": "https://plk.pl/mecz/200608/legia-warszawa-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-01-31T12:30:00",
+      "dateRaw": "31.01 12:30",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 82,
+      "awayScore": 81,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 18,
+      "matchId": 200614,
+      "url": "https://plk.pl/mecz/200614/energa-trefl-sopot-vs-dziki-warszawa",
+      "date": "2026-01-31T15:30:00",
+      "dateRaw": "31.01 15:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 64,
+      "awayScore": 104,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 18,
+      "matchId": 200611,
+      "url": "https://plk.pl/mecz/200611/amw-arka-gdynia-vs-anwil-wloclawek",
+      "date": "2026-01-31T17:30:00",
+      "dateRaw": "31.01 17:30",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 82,
+      "awayScore": 97,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 18,
+      "matchId": 200609,
+      "url": "https://plk.pl/mecz/200609/king-szczecin-vs-energa-czarni-slupsk",
+      "date": "2026-01-31T19:00:00",
+      "dateRaw": "31.01 19:00",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 84,
+      "awayScore": 83,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 18,
+      "matchId": 200612,
+      "url": "https://plk.pl/mecz/200612/orlen-zastal-zielona-gora-vs-tauron-gtk-gliwice",
+      "date": "2026-02-01T15:30:00",
+      "dateRaw": "01.02 15:30",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 98,
+      "awayScore": 81,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 18,
+      "matchId": 200607,
+      "url": "https://plk.pl/mecz/200607/pge-start-lublin-vs-miasto-szkla-krosno",
+      "date": "2026-02-01T17:30:00",
+      "dateRaw": "01.02 17:30",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 87,
+      "awayScore": 95,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 18,
+      "matchId": 200613,
+      "url": "https://plk.pl/mecz/200613/wks-slask-wroclaw-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2026-03-10T20:15:00",
+      "dateRaw": "10.03 20:15",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 100,
+      "awayScore": 75,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 19,
+      "matchId": 200620,
+      "url": "https://plk.pl/mecz/200620/tasomix-rosiek-stal-ostrow-wielkopolski-vs-king-szczecin",
+      "date": "2026-02-05T18:00:00",
+      "dateRaw": "05.02 18:00",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 81,
+      "awayScore": 76,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 19,
+      "matchId": 200618,
+      "url": "https://plk.pl/mecz/200618/amw-arka-gdynia-vs-orlen-zastal-zielona-gora",
+      "date": "2026-02-05T20:15:00",
+      "dateRaw": "05.02 20:15",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 71,
+      "awayScore": 82,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 19,
+      "matchId": 200622,
+      "url": "https://plk.pl/mecz/200622/arriva-lotto-twarde-pierniki-torun-vs-pge-start-lublin",
+      "date": "2026-02-06T17:30:00",
+      "dateRaw": "06.02 17:30",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 97,
+      "awayScore": 88,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 19,
+      "matchId": 200617,
+      "url": "https://plk.pl/mecz/200617/wks-slask-wroclaw-vs-tauron-gtk-gliwice",
+      "date": "2026-02-06T19:30:00",
+      "dateRaw": "06.02 19:30",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 84,
+      "awayScore": 85,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 19,
+      "matchId": 200615,
+      "url": "https://plk.pl/mecz/200615/energa-trefl-sopot-vs-miasto-szkla-krosno",
+      "date": "2026-02-07T15:30:00",
+      "dateRaw": "07.02 15:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 94,
+      "awayScore": 81,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 19,
+      "matchId": 200619,
+      "url": "https://plk.pl/mecz/200619/mks-dabrowa-gornicza-vs-anwil-wloclawek",
+      "date": "2026-02-07T17:30:00",
+      "dateRaw": "07.02 17:30",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 85,
+      "awayScore": 94,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 19,
+      "matchId": 200616,
+      "url": "https://plk.pl/mecz/200616/dziki-warszawa-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2026-02-07T20:15:00",
+      "dateRaw": "07.02 20:15",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 78,
+      "awayScore": 84,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 19,
+      "matchId": 200621,
+      "url": "https://plk.pl/mecz/200621/energa-czarni-slupsk-vs-legia-warszawa",
+      "date": "2026-02-08T17:30:00",
+      "dateRaw": "08.02 17:30",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 87,
+      "awayScore": 82,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 20,
+      "matchId": 200627,
+      "url": "https://plk.pl/mecz/200627/mks-dabrowa-gornicza-vs-orlen-zastal-zielona-gora",
+      "date": "2026-02-12T18:00:00",
+      "dateRaw": "12.02 18:00",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 91,
+      "awayScore": 86,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 20,
+      "matchId": 200626,
+      "url": "https://plk.pl/mecz/200626/king-szczecin-vs-anwil-wloclawek",
+      "date": "2026-02-14T17:30:00",
+      "dateRaw": "14.02 17:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 84,
+      "awayScore": 74,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 20,
+      "matchId": 200625,
+      "url": "https://plk.pl/mecz/200625/tasomix-rosiek-stal-ostrow-wielkopolski-vs-legia-warszawa",
+      "date": "2026-02-14T19:30:00",
+      "dateRaw": "14.02 19:30",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 75,
+      "awayScore": 83,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 20,
+      "matchId": 200630,
+      "url": "https://plk.pl/mecz/200630/gornik-zamek-ksiaz-walbrzych-vs-energa-trefl-sopot",
+      "date": "2026-02-15T12:30:00",
+      "dateRaw": "15.02 12:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 91,
+      "awayScore": 100,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 20,
+      "matchId": 200629,
+      "url": "https://plk.pl/mecz/200629/dziki-warszawa-vs-tauron-gtk-gliwice",
+      "date": "2026-02-15T15:00:00",
+      "dateRaw": "15.02 15:00",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 108,
+      "awayScore": 83,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 20,
+      "matchId": 200624,
+      "url": "https://plk.pl/mecz/200624/pge-start-lublin-vs-energa-czarni-slupsk",
+      "date": "2026-02-15T17:30:00",
+      "dateRaw": "15.02 17:30",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 101,
+      "awayScore": 96,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 20,
+      "matchId": 200623,
+      "url": "https://plk.pl/mecz/200623/arriva-lotto-twarde-pierniki-torun-vs-miasto-szkla-krosno",
+      "date": "2026-02-17T18:00:00",
+      "dateRaw": "17.02 18:00",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 112,
+      "awayScore": 105,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 20,
+      "matchId": 200628,
+      "url": "https://plk.pl/mecz/200628/amw-arka-gdynia-vs-wks-slask-wroclaw",
+      "date": "2026-04-21T20:15:00",
+      "dateRaw": "21.04 20:15",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 101,
+      "awayScore": 87,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 21,
+      "matchId": 200638,
+      "url": "https://plk.pl/mecz/200638/energa-czarni-slupsk-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-03-05T17:30:00",
+      "dateRaw": "05.03 17:30",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 103,
+      "awayScore": 93,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 21,
+      "matchId": 200634,
+      "url": "https://plk.pl/mecz/200634/wks-slask-wroclaw-vs-mks-dabrowa-gornicza",
+      "date": "2026-03-05T19:00:00",
+      "dateRaw": "05.03 19:00",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 95,
+      "awayScore": 90,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 21,
+      "matchId": 200635,
+      "url": "https://plk.pl/mecz/200635/orlen-zastal-zielona-gora-vs-king-szczecin",
+      "date": "2026-03-05T20:15:00",
+      "dateRaw": "05.03 20:15",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 74,
+      "awayScore": 75,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 21,
+      "matchId": 200632,
+      "url": "https://plk.pl/mecz/200632/tauron-gtk-gliwice-vs-energa-trefl-sopot",
+      "date": "2026-03-06T20:15:00",
+      "dateRaw": "06.03 20:15",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 92,
+      "awayScore": 96,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 21,
+      "matchId": 200631,
+      "url": "https://plk.pl/mecz/200631/gornik-zamek-ksiaz-walbrzych-vs-miasto-szkla-krosno",
+      "date": "2026-03-07T15:00:00",
+      "dateRaw": "07.03 15:00",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 90,
+      "awayScore": 74,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 21,
+      "matchId": 200636,
+      "url": "https://plk.pl/mecz/200636/anwil-wloclawek-vs-legia-warszawa",
+      "date": "2026-03-07T17:30:00",
+      "dateRaw": "07.03 17:30",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 83,
+      "awayScore": 91,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 21,
+      "matchId": 200633,
+      "url": "https://plk.pl/mecz/200633/dziki-warszawa-vs-amw-arka-gdynia",
+      "date": "2026-03-08T12:30:00",
+      "dateRaw": "08.03 12:30",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 94,
+      "awayScore": 84,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 21,
+      "matchId": 200637,
+      "url": "https://plk.pl/mecz/200637/tasomix-rosiek-stal-ostrow-wielkopolski-vs-pge-start-lublin",
+      "date": "2026-03-08T17:30:00",
+      "dateRaw": "08.03 17:30",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 93,
+      "awayScore": 78,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 22,
+      "matchId": 200639,
+      "url": "https://plk.pl/mecz/200639/miasto-szkla-krosno-vs-energa-czarni-slupsk",
+      "date": "2026-03-12T19:00:00",
+      "dateRaw": "12.03 19:00",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 77,
+      "awayScore": 91,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 22,
+      "matchId": 200644,
+      "url": "https://plk.pl/mecz/200644/mks-dabrowa-gornicza-vs-dziki-warszawa",
+      "date": "2026-03-13T20:15:00",
+      "dateRaw": "13.03 20:15",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 95,
+      "awayScore": 82,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 22,
+      "matchId": 200646,
+      "url": "https://plk.pl/mecz/200646/tauron-gtk-gliwice-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2026-03-14T12:30:00",
+      "dateRaw": "14.03 12:30",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 82,
+      "awayScore": 92,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 22,
+      "matchId": 200641,
+      "url": "https://plk.pl/mecz/200641/pge-start-lublin-vs-anwil-wloclawek",
+      "date": "2026-03-14T15:00:00",
+      "dateRaw": "14.03 15:00",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 97,
+      "awayScore": 91,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 22,
+      "matchId": 200642,
+      "url": "https://plk.pl/mecz/200642/legia-warszawa-vs-orlen-zastal-zielona-gora",
+      "date": "2026-03-14T17:30:00",
+      "dateRaw": "14.03 17:30",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 84,
+      "awayScore": 66,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 22,
+      "matchId": 200640,
+      "url": "https://plk.pl/mecz/200640/tasomix-rosiek-stal-ostrow-wielkopolski-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-03-15T17:30:00",
+      "dateRaw": "15.03 17:30",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 77,
+      "awayScore": 75,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 22,
+      "matchId": 200643,
+      "url": "https://plk.pl/mecz/200643/king-szczecin-vs-wks-slask-wroclaw",
+      "date": "2026-03-16T18:00:00",
+      "dateRaw": "16.03 18:00",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 90,
+      "awayScore": 81,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 22,
+      "matchId": 200645,
+      "url": "https://plk.pl/mecz/200645/amw-arka-gdynia-vs-energa-trefl-sopot",
+      "date": "2026-03-16T20:15:00",
+      "dateRaw": "16.03 20:15",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 80,
+      "awayScore": 77,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 23,
+      "matchId": 200652,
+      "url": "https://plk.pl/mecz/200652/orlen-zastal-zielona-gora-vs-pge-start-lublin",
+      "date": "2026-03-19T18:00:00",
+      "dateRaw": "19.03 18:00",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 76,
+      "awayScore": 73,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 23,
+      "matchId": 200654,
+      "url": "https://plk.pl/mecz/200654/tasomix-rosiek-stal-ostrow-wielkopolski-vs-energa-czarni-slupsk",
+      "date": "2026-03-19T20:15:00",
+      "dateRaw": "19.03 20:15",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 75,
+      "awayScore": 68,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 23,
+      "matchId": 200649,
+      "url": "https://plk.pl/mecz/200649/energa-trefl-sopot-vs-mks-dabrowa-gornicza",
+      "date": "2026-03-20T17:30:00",
+      "dateRaw": "20.03 17:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 77,
+      "awayScore": 100,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 23,
+      "matchId": 200650,
+      "url": "https://plk.pl/mecz/200650/king-szczecin-vs-dziki-warszawa",
+      "date": "2026-03-21T12:00:00",
+      "dateRaw": "21.03 12:00",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 91,
+      "awayScore": 88,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 23,
+      "matchId": 200647,
+      "url": "https://plk.pl/mecz/200647/miasto-szkla-krosno-vs-tauron-gtk-gliwice",
+      "date": "2026-03-21T15:00:00",
+      "dateRaw": "21.03 15:00",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 88,
+      "awayScore": 87,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 23,
+      "matchId": 200651,
+      "url": "https://plk.pl/mecz/200651/legia-warszawa-vs-wks-slask-wroclaw",
+      "date": "2026-03-21T17:30:00",
+      "dateRaw": "21.03 17:30",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 99,
+      "awayScore": 104,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 23,
+      "matchId": 200653,
+      "url": "https://plk.pl/mecz/200653/anwil-wloclawek-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-03-22T12:30:00",
+      "dateRaw": "22.03 12:30",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 87,
+      "awayScore": 98,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 23,
+      "matchId": 200648,
+      "url": "https://plk.pl/mecz/200648/gornik-zamek-ksiaz-walbrzych-vs-amw-arka-gdynia",
+      "date": "2026-03-22T17:30:00",
+      "dateRaw": "22.03 17:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 103,
+      "awayScore": 97,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 24,
+      "matchId": 200661,
+      "url": "https://plk.pl/mecz/200661/gornik-zamek-ksiaz-walbrzych-vs-mks-dabrowa-gornicza",
+      "date": "2026-03-26T18:00:00",
+      "dateRaw": "26.03 18:00",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 73,
+      "awayScore": 103,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 24,
+      "matchId": 200662,
+      "url": "https://plk.pl/mecz/200662/amw-arka-gdynia-vs-tauron-gtk-gliwice",
+      "date": "2026-03-27T17:30:00",
+      "dateRaw": "27.03 17:30",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 76,
+      "awayScore": 59,
+      "played": true,
+      "tv": "Polsat Sport 2 "
+    },
+    {
+      "round": 24,
+      "matchId": 200660,
+      "url": "https://plk.pl/mecz/200660/king-szczecin-vs-energa-trefl-sopot",
+      "date": "2026-03-28T12:30:00",
+      "dateRaw": "28.03 12:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 85,
+      "awayScore": 96,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 24,
+      "matchId": 200656,
+      "url": "https://plk.pl/mecz/200656/energa-czarni-slupsk-vs-anwil-wloclawek",
+      "date": "2026-03-28T15:00:00",
+      "dateRaw": "28.03 15:00",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 57,
+      "awayScore": 68,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 24,
+      "matchId": 200659,
+      "url": "https://plk.pl/mecz/200659/dziki-warszawa-vs-legia-warszawa",
+      "date": "2026-03-28T17:30:00",
+      "dateRaw": "28.03 17:30",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 88,
+      "awayScore": 95,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 24,
+      "matchId": 200657,
+      "url": "https://plk.pl/mecz/200657/orlen-zastal-zielona-gora-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-03-29T12:30:00",
+      "dateRaw": "29.03 12:30",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 88,
+      "awayScore": 90,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 24,
+      "matchId": 200658,
+      "url": "https://plk.pl/mecz/200658/wks-slask-wroclaw-vs-pge-start-lublin",
+      "date": "2026-03-29T17:30:00",
+      "dateRaw": "29.03 17:30",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 98,
+      "awayScore": 91,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 24,
+      "matchId": 200655,
+      "url": "https://plk.pl/mecz/200655/miasto-szkla-krosno-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2026-03-29T19:30:00",
+      "dateRaw": "29.03 19:30",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 80,
+      "awayScore": 87,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 25,
+      "matchId": 200669,
+      "url": "https://plk.pl/mecz/200669/orlen-zastal-zielona-gora-vs-energa-czarni-slupsk",
+      "date": "2026-04-02T20:15:00",
+      "dateRaw": "02.04 20:15",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 96,
+      "awayScore": 80,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 25,
+      "matchId": 200663,
+      "url": "https://plk.pl/mecz/200663/amw-arka-gdynia-vs-miasto-szkla-krosno",
+      "date": "2026-04-03T18:00:00",
+      "dateRaw": "03.04 18:00",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 95,
+      "awayScore": 76,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 25,
+      "matchId": 200664,
+      "url": "https://plk.pl/mecz/200664/tauron-gtk-gliwice-vs-mks-dabrowa-gornicza",
+      "date": "2026-04-03T20:15:00",
+      "dateRaw": "03.04 20:15",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 80,
+      "awayScore": 90,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 25,
+      "matchId": 200667,
+      "url": "https://plk.pl/mecz/200667/dziki-warszawa-vs-pge-start-lublin",
+      "date": "2026-04-04T15:30:00",
+      "dateRaw": "04.04 15:30",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 103,
+      "awayScore": 72,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 25,
+      "matchId": 200665,
+      "url": "https://plk.pl/mecz/200665/gornik-zamek-ksiaz-walbrzych-vs-king-szczecin",
+      "date": "2026-04-04T17:30:00",
+      "dateRaw": "04.04 17:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 97,
+      "awayScore": 76,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 25,
+      "matchId": 200670,
+      "url": "https://plk.pl/mecz/200670/anwil-wloclawek-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2026-04-06T15:00:00",
+      "dateRaw": "06.04 15:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 90,
+      "awayScore": 81,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 25,
+      "matchId": 200666,
+      "url": "https://plk.pl/mecz/200666/energa-trefl-sopot-vs-legia-warszawa",
+      "date": "2026-04-06T17:30:00",
+      "dateRaw": "06.04 17:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 93,
+      "awayScore": 100,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 25,
+      "matchId": 200668,
+      "url": "https://plk.pl/mecz/200668/arriva-lotto-twarde-pierniki-torun-vs-wks-slask-wroclaw",
+      "date": "2026-04-28T19:00:00",
+      "dateRaw": "28.04 19:00",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 113,
+      "awayScore": 106,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 26,
+      "matchId": 200678,
+      "url": "https://plk.pl/mecz/200678/mks-dabrowa-gornicza-vs-amw-arka-gdynia",
+      "date": "2026-04-10T19:00:00",
+      "dateRaw": "10.04 19:00",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 70,
+      "awayScore": 83,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 26,
+      "matchId": 200674,
+      "url": "https://plk.pl/mecz/200674/arriva-lotto-twarde-pierniki-torun-vs-dziki-warszawa",
+      "date": "2026-04-10T20:15:00",
+      "dateRaw": "10.04 20:15",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 82,
+      "awayScore": 83,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 26,
+      "matchId": 200675,
+      "url": "https://plk.pl/mecz/200675/energa-trefl-sopot-vs-pge-start-lublin",
+      "date": "2026-04-11T12:30:00",
+      "dateRaw": "11.04 12:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 103,
+      "awayScore": 97,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 26,
+      "matchId": 200671,
+      "url": "https://plk.pl/mecz/200671/miasto-szkla-krosno-vs-anwil-wloclawek",
+      "date": "2026-04-11T15:00:00",
+      "dateRaw": "11.04 15:00",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 87,
+      "awayScore": 101,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 26,
+      "matchId": 200673,
+      "url": "https://plk.pl/mecz/200673/energa-czarni-slupsk-vs-wks-slask-wroclaw",
+      "date": "2026-04-11T17:30:00",
+      "dateRaw": "11.04 17:30",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 86,
+      "awayScore": 91,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 26,
+      "matchId": 200676,
+      "url": "https://plk.pl/mecz/200676/legia-warszawa-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2026-04-12T15:00:00",
+      "dateRaw": "12.04 15:00",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 93,
+      "awayScore": 68,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 26,
+      "matchId": 200677,
+      "url": "https://plk.pl/mecz/200677/tauron-gtk-gliwice-vs-king-szczecin",
+      "date": "2026-04-12T17:30:00",
+      "dateRaw": "12.04 17:30",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 86,
+      "awayScore": 93,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 26,
+      "matchId": 200672,
+      "url": "https://plk.pl/mecz/200672/tasomix-rosiek-stal-ostrow-wielkopolski-vs-orlen-zastal-zielona-gora",
+      "date": "2026-04-13T20:15:00",
+      "dateRaw": "13.04 20:15",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 75,
+      "awayScore": 82,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 27,
+      "matchId": 200680,
+      "url": "https://plk.pl/mecz/200680/amw-arka-gdynia-vs-king-szczecin",
+      "date": "2026-04-17T18:00:00",
+      "dateRaw": "17.04 18:00",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 78,
+      "awayScore": 91,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 27,
+      "matchId": 200685,
+      "url": "https://plk.pl/mecz/200685/wks-slask-wroclaw-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2026-04-17T20:15:00",
+      "dateRaw": "17.04 20:15",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 73,
+      "awayScore": 77,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 27,
+      "matchId": 200684,
+      "url": "https://plk.pl/mecz/200684/dziki-warszawa-vs-energa-czarni-slupsk",
+      "date": "2026-04-18T12:30:00",
+      "dateRaw": "18.04 12:30",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 106,
+      "awayScore": 86,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 27,
+      "matchId": 200683,
+      "url": "https://plk.pl/mecz/200683/energa-trefl-sopot-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-04-18T15:00:00",
+      "dateRaw": "18.04 15:00",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 92,
+      "awayScore": 72,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 27,
+      "matchId": 200682,
+      "url": "https://plk.pl/mecz/200682/gornik-zamek-ksiaz-walbrzych-vs-pge-start-lublin",
+      "date": "2026-04-18T17:30:00",
+      "dateRaw": "18.04 17:30",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 81,
+      "awayScore": 86,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 27,
+      "matchId": 200679,
+      "url": "https://plk.pl/mecz/200679/mks-dabrowa-gornicza-vs-miasto-szkla-krosno",
+      "date": "2026-04-18T18:00:00",
+      "dateRaw": "18.04 18:00",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 91,
+      "awayScore": 89,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 27,
+      "matchId": 200681,
+      "url": "https://plk.pl/mecz/200681/legia-warszawa-vs-tauron-gtk-gliwice",
+      "date": "2026-04-18T20:00:00",
+      "dateRaw": "18.04 20:00",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 93,
+      "awayScore": 66,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 27,
+      "matchId": 200686,
+      "url": "https://plk.pl/mecz/200686/anwil-wloclawek-vs-orlen-zastal-zielona-gora",
+      "date": "2026-04-19T12:30:00",
+      "dateRaw": "19.04 12:30",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 79,
+      "awayScore": 70,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 28,
+      "matchId": 200687,
+      "url": "https://plk.pl/mecz/200687/miasto-szkla-krosno-vs-orlen-zastal-zielona-gora",
+      "date": "2026-04-23T19:00:00",
+      "dateRaw": "23.04 19:00",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "homeScore": 87,
+      "awayScore": 99,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 28,
+      "matchId": 200691,
+      "url": "https://plk.pl/mecz/200691/arriva-lotto-twarde-pierniki-torun-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2026-04-24T20:15:00",
+      "dateRaw": "24.04 20:15",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 73,
+      "awayScore": 96,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 28,
+      "matchId": 200690,
+      "url": "https://plk.pl/mecz/200690/energa-czarni-slupsk-vs-energa-trefl-sopot",
+      "date": "2026-04-25T15:00:00",
+      "dateRaw": "25.04 15:00",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 72,
+      "awayScore": 76,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 28,
+      "matchId": 200688,
+      "url": "https://plk.pl/mecz/200688/anwil-wloclawek-vs-wks-slask-wroclaw",
+      "date": "2026-04-25T17:30:00",
+      "dateRaw": "25.04 17:30",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 96,
+      "awayScore": 83,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 28,
+      "matchId": 200689,
+      "url": "https://plk.pl/mecz/200689/tasomix-rosiek-stal-ostrow-wielkopolski-vs-dziki-warszawa",
+      "date": "2026-04-25T18:00:00",
+      "dateRaw": "25.04 18:00",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 73,
+      "awayScore": 83,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 28,
+      "matchId": 200694,
+      "url": "https://plk.pl/mecz/200694/king-szczecin-vs-mks-dabrowa-gornicza",
+      "date": "2026-04-25T19:30:00",
+      "dateRaw": "25.04 19:30",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": 102,
+      "awayScore": 89,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 28,
+      "matchId": 200693,
+      "url": "https://plk.pl/mecz/200693/legia-warszawa-vs-amw-arka-gdynia",
+      "date": "2026-04-26T12:30:00",
+      "dateRaw": "26.04 12:30",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 91,
+      "awayScore": 84,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 28,
+      "matchId": 200692,
+      "url": "https://plk.pl/mecz/200692/pge-start-lublin-vs-tauron-gtk-gliwice",
+      "date": "2026-04-26T17:30:00",
+      "dateRaw": "26.04 17:30",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 86,
+      "awayScore": 82,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 29,
+      "matchId": 200701,
+      "url": "https://plk.pl/mecz/200701/dziki-warszawa-vs-anwil-wloclawek",
+      "date": "2026-04-30T18:00:00",
+      "dateRaw": "30.04 18:00",
+      "home": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": 78,
+      "awayScore": 73,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 29,
+      "matchId": 200699,
+      "url": "https://plk.pl/mecz/200699/gornik-zamek-ksiaz-walbrzych-vs-energa-czarni-slupsk",
+      "date": "2026-04-30T20:15:00",
+      "dateRaw": "30.04 20:15",
+      "home": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "away": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "homeScore": 90,
+      "awayScore": 107,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 29,
+      "matchId": 200696,
+      "url": "https://plk.pl/mecz/200696/mks-dabrowa-gornicza-vs-legia-warszawa",
+      "date": "2026-05-01T20:15:00",
+      "dateRaw": "01.05 20:15",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": 85,
+      "awayScore": 90,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 29,
+      "matchId": 200695,
+      "url": "https://plk.pl/mecz/200695/king-szczecin-vs-miasto-szkla-krosno",
+      "date": "2026-05-02T15:00:00",
+      "dateRaw": "02.05 15:00",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "homeScore": 88,
+      "awayScore": 85,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 29,
+      "matchId": 200700,
+      "url": "https://plk.pl/mecz/200700/energa-trefl-sopot-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2026-05-02T17:30:00",
+      "dateRaw": "02.05 17:30",
+      "home": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "away": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "homeScore": 88,
+      "awayScore": 86,
+      "played": true,
+      "tv": "Polsat Sport 3"
+    },
+    {
+      "round": 29,
+      "matchId": 200698,
+      "url": "https://plk.pl/mecz/200698/tauron-gtk-gliwice-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2026-05-02T19:30:00",
+      "dateRaw": "02.05 19:30",
+      "home": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "homeScore": 107,
+      "awayScore": 99,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 29,
+      "matchId": 200702,
+      "url": "https://plk.pl/mecz/200702/orlen-zastal-zielona-gora-vs-wks-slask-wroclaw",
+      "date": "2026-05-03T12:30:00",
+      "dateRaw": "03.05 12:30",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 76,
+      "awayScore": 80,
+      "played": true,
+      "tv": "Polsat Sport 1"
+    },
+    {
+      "round": 29,
+      "matchId": 200697,
+      "url": "https://plk.pl/mecz/200697/pge-start-lublin-vs-amw-arka-gdynia",
+      "date": "2026-05-03T17:30:00",
+      "dateRaw": "03.05 17:30",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 80,
+      "awayScore": 101,
+      "played": true,
+      "tv": "Polsat Sport Fight"
+    },
+    {
+      "round": 30,
+      "matchId": 200703,
+      "url": "https://plk.pl/mecz/200703/miasto-szkla-krosno-vs-wks-slask-wroclaw",
+      "date": "2026-05-06T19:00:00",
+      "dateRaw": "06.05 19:00",
+      "home": {
+        "teamId": 1820,
+        "slug": "miasto-szkla-krosno",
+        "name": "Miasto Szkła Krosno"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": 66,
+      "awayScore": 88,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 30,
+      "matchId": 200704,
+      "url": "https://plk.pl/mecz/200704/orlen-zastal-zielona-gora-vs-dziki-warszawa",
+      "date": "2026-05-06T19:00:00",
+      "dateRaw": "06.05 19:00",
+      "home": {
+        "teamId": 769,
+        "slug": "orlen-zastal-zielona-gora",
+        "name": "ORLEN Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": 105,
+      "awayScore": 86,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 30,
+      "matchId": 200705,
+      "url": "https://plk.pl/mecz/200705/anwil-wloclawek-vs-energa-trefl-sopot",
+      "date": "2026-05-06T19:00:00",
+      "dateRaw": "06.05 19:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": 94,
+      "awayScore": 79,
+      "played": true,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 30,
+      "matchId": 200706,
+      "url": "https://plk.pl/mecz/200706/tasomix-rosiek-stal-ostrow-wielkopolski-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2026-05-06T19:00:00",
+      "dateRaw": "06.05 19:00",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 11296,
+        "slug": "gornik-zamek-ksiaz-walbrzych",
+        "name": "Górnik Zamek Książ Wałbrzych"
+      },
+      "homeScore": 86,
+      "awayScore": 74,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 30,
+      "matchId": 200707,
+      "url": "https://plk.pl/mecz/200707/energa-czarni-slupsk-vs-tauron-gtk-gliwice",
+      "date": "2026-05-06T19:00:00",
+      "dateRaw": "06.05 19:00",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "tauron-gtk-gliwice",
+        "name": "Tauron GTK Gliwice"
+      },
+      "homeScore": 80,
+      "awayScore": 89,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 30,
+      "matchId": 200708,
+      "url": "https://plk.pl/mecz/200708/arriva-lotto-twarde-pierniki-torun-vs-amw-arka-gdynia",
+      "date": "2026-05-06T19:00:00",
+      "dateRaw": "06.05 19:00",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva LOTTO Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": 95,
+      "awayScore": 86,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 30,
+      "matchId": 200709,
+      "url": "https://plk.pl/mecz/200709/mks-dabrowa-gornicza-vs-pge-start-lublin",
+      "date": "2026-05-06T19:00:00",
+      "dateRaw": "06.05 19:00",
+      "home": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": 105,
+      "awayScore": 100,
+      "played": true,
+      "tv": "YouTube"
+    },
+    {
+      "round": 30,
+      "matchId": 200710,
+      "url": "https://plk.pl/mecz/200710/legia-warszawa-vs-king-szczecin",
+      "date": "2026-05-06T19:00:00",
+      "dateRaw": "06.05 19:00",
+      "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": 88,
+      "awayScore": 84,
+      "played": true,
+      "tv": "YouTube"
+    }
+  ]
+}
