@@ -89,6 +89,60 @@ away{...}, homeScore, awayScore, played, tv`. Rok w dacie wyliczany z sezonu
 (stan 07.2026: terminarz 2026/27 ogłoszony, ale jeszcze nie wpisany na plk.pl).
 Play-off (`/terminarz/play-off`) ma inny układ — do zrobienia osobno.
 
+## 3a. Terminarz klubowy PLK + ENBL — `kkw-schedule.mjs`
+
+Pobiera **cały** terminarz Anwilu z https://kkwloclawek.pl/terminarz. To jedyne
+miejsce, gdzie mecze PLK i europejskiego pucharu **ENBL** są w jednym
+zestawieniu (plk.pl nie zna ENBL). Tabela `.table-terminarz` renderuje się
+serwerowo, kolumny: DATA | ROZGRYWKI | MECZ | WYNIK | WIDEO | GALERIA | RELACJA.
+
+```
+node kkw-schedule.mjs                 # -> ../data/kkw-schedule.json
+node kkw-schedule.mjs --out ../data/inny.json
+```
+
+Każdy mecz: `date` (ISO), `dateRaw`, `timeTbd` (godzina „0" = nieustalona),
+`competition`, `league` (`PLK`/`ENBL`), `label`, `home`, `away`, `homeScore`,
+`awayScore`, `played`, `anwilHome`, linki `video`/`gallery`/`report`.
+Nagłówek pliku: `seasons`, `count`, `played`, `byLeague` (np. `{"ENBL":8,"PLK":30}`).
+
+**Anwil gra w dwóch ligach jednocześnie** — dlatego terminarz i terminarzowy
+widok aplikacji pokazują etykietę rozgrywek (PLK / ENBL) przy każdym meczu,
+a rywale z ENBL dostają własne loga (patrz niżej).
+
+## 3b. ENBL — `enbl.mjs` (tabela, statystyki zawodników, loga)
+
+```
+node enbl.mjs                 # -> ../data/enbl.json + ../data/logos/enbl/
+node enbl.mjs --no-logos      # tylko statystyki
+```
+
+Dwa źródła:
+
+1. **Loga drużyn** — https://www.enbleague.eu/ (Wix). Na stronie głównej jest
+   pasek drużyn; grafiki to media `static.wixstatic.com/media/<id>` (w HTML
+   escape'owane `&quot;`). Pobieramy wersję zmniejszoną (`w_180`) do
+   `../data/logos/enbl/<slug>.png`. Część plików nie ma rozszerzenia, część ma
+   nazwy „Artboard…" — filtr `SKIP` odsiewa sponsoring, a `ALIASES` wyrównuje
+   pisownię (np. logo `zrinski` ↔ „HKK Zrinjski Mostar", `ael` ↔ „Tria Eka AEL BC").
+2. **Tabela i statystyki zawodników** — ENBL osadza widgety **Genius Sports**
+   (`hosted.dcd.shared.geniussports.com`). Scraper sam wykrywa **najnowszy
+   sezon**: strona `/ENBL/en/standings` ma chooser z pozycjami
+   `ENBL 20xx/20xx` → `competition/{id}/standings` (np. 2026/2027 = `50063`),
+   i z niego czyta dane przez `/embednf/ENBL/en/competition/{id}/<strona>`
+   (pole `html`), bez logowania:
+   - `standings` → tabela (16 drużyn w sezonie 2026/27, poz. GP/W/L/kosze/Pkt),
+   - `leaders` → średnie zawodników: PTS, AST, BLK, REB, STL, 3PM, 2PM, FTM, EFF
+     (przed startem sezonu lista bywa pusta).
+
+`data/enbl.json`: `season`, `standings[]`, `leaders[]`
+(`{title, unit, rows:[{player, team, value}]}`) oraz `logos[]`
+(`{name, slug, tokens, localLogo, logoUrl}`) — z tokenami do dopasowania
+rywala z terminarza do loga.
+
+W aplikacji tabela ENBL jest widoczna w widoku **Tabela** oraz przez
+przełącznik **PLK / ENBL** na stronie głównej.
+
 ## 4. Szczegóły meczu — `plk-match.mjs`
 
 Pobiera pełne dane meczu ze strony `plk.pl/mecz/{id}/{slug}` — dane siedzą
@@ -111,7 +165,36 @@ node plk-match.mjs --all --force    # nadpisz pobrane
 
 Wyjście: `../data/matches/{matchId}.json` (~200-300 KB/mecz). Uwaga: strona
 meczu nie podaje wprost daty ani sluga drużyn — build uzupełnia je
-z terminarza/tabeli (mecze posezonowe: mapy `PHASE_LABELS`/`PHASE_DATES` w build.mjs).
+z terminarza/tabeli.
+
+## 4a. Szczegóły meczu ENBL — `enbl-match.mjs`
+
+To samo, co `plk-match.mjs`, ale dla pucharu ENBL. Genius Sports udostępnia:
+
+- **termiarz** — `fibalivestats.../data/competition/{id}.json` (to źródło zasila
+  widget meczu na stronie głównej enbleague.eu); scraper filtruje mecze z Anwilem.
+- **szczegóły** — `fibalivestats.../data/{matchId}/data.json`: boxscore, play-by-play,
+  rzuty (x/y w %, `r` = celny), kwarty, sędziowie. Hala jest w HTML strony
+  `.../u/ENBL/{matchId}/` (sekcja „Venue").
+
+Dane Geniuss są tłumaczone na format z `plk-match.mjs`, żeby **Match Center
+wyglądał identycznie** (kwarty, przebieg, momentum, mapa rzutów, MVP). Uwaga:
+pole `scoring` w source bywa prawdziwe także dla niecelnych — akcje punktowe
+wyznaczamy po zmianie wyniku bieżącego (`s1`/`s2`).
+
+```
+node enbl-match.mjs                    # wszystkie rozegrane mecze Anwilu
+node enbl-match.mjs 2910551            # pojedynczy matchId
+node enbl-match.mjs --comp 50063       # wskaż turniej ręcznie
+node enbl-match.mjs --force            # nadpisz pobrane
+node enbl-match.mjs --team Donar       # inny filtr drużyny
+```
+
+Wyjście: `../data/matches/{matchId}.json` + `../data/enbl-matches.json`
+(indeks: id, termin, wynik, status). Identyfikatory ENBL (7 cyfr) nie kolidują
+z PLK (6 cyfr). `app/build.mjs` łączy mecze z terminarza z indeksem po dacie
+i nazwie rywala — dzięki temu wynik i szczegóły pojawiają się w aplikacji
+automatycznie.
 
 ## 5. Skład drużyny — `plk-roster.mjs`
 
@@ -149,6 +232,32 @@ Scraper wykrył przy okazji, że Anwil rozegrał **32 mecze** (30 sezonu
 zasadniczego + **dwa** mecze play-in: z Zastalem 8.05 i MKS-em 10.05) —
 drugiego z nich nie było wcześniej w danych.
 
+## 5a. Aktualny skład + sztab — `kkw-roster.mjs`
+
+Aktualna kadra i **sztab szkoleniowy** z https://kkwloclawek.pl/sklad
+(oficjalna strona klubu). To źródło jest świeższe niż plk.pl — pokazuje
+sezon 2026/27 z nowymi zawodnikami.
+
+```
+node kkw-roster.mjs                 # skład + sztab + profile + zdjęcia
+node kkw-roster.mjs --no-photos     # bez zdjęć
+node kkw-roster.mjs --no-details    # bez profili zawodników (szybko)
+```
+
+Strona renderuje się serwerowo: sztab w `.couch-item`, zawodnicy w
+`.player-item` (na grafice boiska). Scraper dodatkowo wchodzi na profil
+każdego zawodnika (`/strona,zawodnik,ID`) i czyta: **pozycję, wzrost, kraj
+(paszport), datę urodzenia, kontrakt** oraz link Instagram. Zdjęcia lądują
+w `../data/roster-photos/`.
+
+Wyjście: `../data/roster-kkw.json` — `{ season, players[{name, number,
+position, height, country, birthDate, contract, url, instagram, localPhoto}],
+staff[{name, role, url, localPhoto}] }`.
+
+W aplikacji (widok **Drużyna**) skład 2026/27 i sekcja **Sztab trenerski**
+pochodzą z tego pliku; zawodnicy, którzy grali też w poprzednim sezonie,
+otwierają pełny profil ze statystykami PLK (`plk-roster.mjs`).
+
 ## 6. Sklep klubowy — `sklep-products.mjs`
 
 Sklep (https://sklep.kkwloclawek.pl) stoi na WooCommerce z otwartym **Store API** —
@@ -162,6 +271,28 @@ node sklep-products.mjs --images    # produkty + pierwsze zdjęcie każdego
 Wyjście: `../data/shop.json` (nazwa, slug, ceny w zł z minor-units, promocje,
 stany magazynowe, rozmiary z atrybutów, kategorie, linki) +
 `../data/shop-images/{id}.jpg`. Encje HTML w nazwach dekodowane.
+
+**Warianty rozmiarów (`variants`)** — mapa `rozmiar -> ID wariantu`. WooCommerce
+traktuje każdy rozmiar jako osobny produkt (variation) z własnym ID, i tylko
+takim ID można dodać konkretny rozmiar do koszyka. Uwaga: Store API zwraca
+w `variations` **wyłącznie rozmiary dostępne w magazynie**, więc różnica między
+`sizes` a `variants` to rozmiary wyprzedane — aplikacja pokazuje je przekreślone
+i nieklikalne.
+
+### Przeniesienie koszyka do sklepu
+
+Koszyk w aplikacji jest lokalny, ale przycisk „Przejdź do kasy" odtwarza go
+w prawdziwym sklepie: otwiera jedno okno i ładuje w nim kolejno adresy
+`sklep.kkwloclawek.pl/?add-to-cart=<id>&quantity=<n>` (dla rozmiarów `<id>`
+to ID wariantu), a na końcu `/koszyk`. Sesja WooCommerce narasta między
+wywołaniami, więc na końcu w sklepie są wszystkie pozycje.
+
+Dlaczego tak, a nie przez API: Store API pozwala dodawać do koszyka
+(`POST /wp-json/wc/store/v1/cart/add-item`, wymaga nagłówka `Nonce`,
+zwraca `Cart-Token`), ale token jest nagłówkiem HTTP — przeglądarka nie wyśle
+go przy zwykłym otwarciu strony sklepu, a CORS i tak blokuje takie żądania
+z innej domeny. WooCommerce nie obsługuje też wielu produktów naraz
+(`?add-to-cart=1,2` nie działa) — stąd sekwencja.
 
 ## Tryb LIVE — panel admina, który naprawdę uruchamia scrapery
 
@@ -199,6 +330,5 @@ potem przebudowujemy.
 
 ## Planowane kolejne scrapery
 
-- **Terminarz / wyniki** — `kkwloclawek.pl/terminarz` (albo plk.pl)
-- **Skład** — `kkwloclawek.pl/sklad` (zawodnicy, numery, pozycje, zdjęcia)
-- **Tabela PLK** — plk.pl
+- **Statystyki ENBL Anwilu per zawodnik** — Genius Sports udostępnia strony drużyn
+  (`/ENBL/en/team/{id}`); do dociągnięcia, gdy Anwil pojawi się w bieżącej fazie ENBL.

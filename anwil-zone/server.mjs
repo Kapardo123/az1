@@ -32,8 +32,11 @@ const DATA = resolve(dir, "data");
 const JOBS = {
   news: ["scrapers/kkwloclawek-news.mjs", ["--pages", "2", "--full", "--images"]],
   table: ["scrapers/plk-table.mjs", ["--logos"]],
-  schedule: ["scrapers/plk-schedule.mjs", ["--team", "anwil-wloclawek", "--out", "../data/plk-schedule-anwil.json"]],
+  schedule: ["scrapers/kkw-schedule.mjs", []],
+  roster: ["scrapers/kkw-roster.mjs", []],
+  enbl: ["scrapers/enbl.mjs", []],
   match: ["scrapers/plk-match.mjs", ["--all"]],
+  "enbl-match": ["scrapers/enbl-match.mjs", []],
   shop: ["scrapers/sklep-products.mjs", ["--images"]],
   build: ["app/build.mjs", ["--count", "8"]],
 };
@@ -46,7 +49,8 @@ function status() {
     try { return JSON.parse(readFileSync(p, "utf8")); } catch { return {}; }
   };
   const news = meta("news.json"), table = meta("plk-table.json");
-  const sched = meta("plk-schedule-anwil.json"), shop = meta("shop.json");
+  const sched = meta("kkw-schedule.json"), enbl = meta("enbl.json"), roster = meta("roster-kkw.json"), shop = meta("shop.json");
+  const enblMatch = meta("enbl-matches.json");
   const mDir = resolve(DATA, "matches");
   const files = existsSync(mDir) ? readdirSync(mDir).filter((f) => f.endsWith(".json")) : [];
   let matchAt = null;
@@ -61,8 +65,11 @@ function status() {
     scrapers: {
       news: { at: news.scrapedAt ?? null, info: news.count != null ? `${news.count} newsów w bazie` : "brak danych" },
       table: { at: table.scrapedAt ?? null, info: table.count != null ? `${table.count} drużyn · sezon ${table.season ?? "?"}` : "brak danych" },
-      schedule: { at: sched.scrapedAt ?? null, info: sched.count != null ? `${sched.count} meczów · rozegrane ${sched.played ?? 0}` : "brak danych" },
+      schedule: { at: sched.scrapedAt ?? null, info: sched.count != null ? `${sched.count} meczów PLK+ENBL · rozegrane ${sched.played ?? 0}` : "brak danych" },
+      enbl: { at: enbl.scrapedAt ?? null, info: enbl.standings ? `ENBL: ${enbl.standings.length} drużyn · ${(enbl.leaders ?? []).length} stat.` : "brak danych" },
+      roster: { at: roster.scrapedAt ?? null, info: roster.count != null ? `${roster.count} zawodników + ${roster.staffCount ?? 0} sztabu · sezon ${roster.season ?? "?"}` : "brak danych" },
       match: { at: matchAt, info: `${files.length} meczów w data/matches/` },
+      "enbl-match": { at: enblMatch.scrapedAt ?? null, info: (enblMatch.matches ?? []).length ? `ENBL: ${enblMatch.matches.length} meczów · ${(enblMatch.matches ?? []).filter((m) => m.completed).length} rozegranych` : "brak danych" },
       shop: { at: shop.scrapedAt ?? null, info: shop.count != null ? `${shop.count} produktów w katalogu` : "brak danych" },
       build: { at: existsSync(APP) ? statSync(APP).mtime.toISOString() : null, info: "generuje prototype.html" },
     },

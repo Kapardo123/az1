@@ -1,0 +1,2731 @@
+{
+ "matchId": 2910551,
+ "league": "ENBL",
+ "url": "https://fibalivestats.dcd.shared.geniussports.com/u/ENBL/2910551/",
+ "scrapedAt": "2026-09-25T18:19:16.891Z",
+ "date": "2026-09-24T18:30:00",
+ "venue": "Hala Mistrzow",
+ "referees": [
+  "Jakub Pietrzak",
+  "Michał Sosin",
+  "Ergul Erman"
+ ],
+ "homeScore": 97,
+ "awayScore": 81,
+ "home": {
+  "id": 33,
+  "name": "Anwil Wloclawek",
+  "players": [
+   {
+    "id": 11197212020,
+    "shirtNumber": "9",
+    "firstName": "Szymon",
+    "lastName": "Wojcik",
+    "position": "PF",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/e8088e54632117cfd82d2f4fbce646faS1.png",
+    "stats": {
+     "playTimeSeconds": 0,
+     "points": 0,
+     "reboundsTotal": 0,
+     "assists": 0,
+     "steals": 0,
+     "blocks": 0,
+     "turnovers": 0,
+     "plusMinus": 0,
+     "eval": 0,
+     "madeTwoPts": 0,
+     "attemptTwoPts": 0,
+     "madeThreePts": 0,
+     "attemptThreePts": 0,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 0,
+     "fouls": 0,
+     "isStart5": 0
+    },
+    "_key": "1"
+   },
+   {
+    "id": 13610639206,
+    "shirtNumber": "4",
+    "firstName": "Mateusz",
+    "lastName": "Szlachetka",
+    "position": "SG",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/31ed0d6bc0b457f5d6a6cc42b4cdfbcaS1.png",
+    "stats": {
+     "playTimeSeconds": 1504,
+     "points": 7,
+     "reboundsTotal": 1,
+     "assists": 3,
+     "steals": 1,
+     "blocks": 0,
+     "turnovers": 2,
+     "plusMinus": 12,
+     "eval": 7,
+     "madeTwoPts": 3,
+     "attemptTwoPts": 3,
+     "madeThreePts": 0,
+     "attemptThreePts": 2,
+     "madeFreeThrowPts": 1,
+     "attemptFreeThrowPts": 2,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 1,
+     "fouls": 1,
+     "isStart5": 1
+    },
+    "_key": "2"
+   },
+   {
+    "id": 11713576796,
+    "shirtNumber": "0",
+    "firstName": "Hans",
+    "lastName": "Vanwijn",
+    "position": "PF",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/301568b3dabf9231a2129b2281cd95dbS1.png",
+    "stats": {
+     "playTimeSeconds": 1964,
+     "points": 27,
+     "reboundsTotal": 6,
+     "assists": 5,
+     "steals": 2,
+     "blocks": 0,
+     "turnovers": 3,
+     "plusMinus": 17,
+     "eval": 33,
+     "madeTwoPts": 3,
+     "attemptTwoPts": 5,
+     "madeThreePts": 7,
+     "attemptThreePts": 9,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 1,
+     "reboundsDefensive": 5,
+     "fouls": 1,
+     "isStart5": 1
+    },
+    "_key": "3"
+   },
+   {
+    "id": 12519691215,
+    "shirtNumber": "1",
+    "firstName": "Wiktor",
+    "lastName": "Szczesko",
+    "position": "C",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/ab28f52c11372f4fa7f23a84aed01b19S1.png",
+    "stats": {
+     "playTimeSeconds": 24,
+     "points": 0,
+     "reboundsTotal": 0,
+     "assists": 0,
+     "steals": 0,
+     "blocks": 0,
+     "turnovers": 0,
+     "plusMinus": 1,
+     "eval": 0,
+     "madeTwoPts": 0,
+     "attemptTwoPts": 0,
+     "madeThreePts": 0,
+     "attemptThreePts": 0,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 0,
+     "fouls": 0,
+     "isStart5": 0
+    },
+    "_key": "4"
+   },
+   {
+    "id": 13890680601,
+    "shirtNumber": "5",
+    "firstName": "Lennard",
+    "lastName": "Freeman",
+    "position": "C",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/93f05820d0afd45c06807a460b562ffdS1.png",
+    "stats": {
+     "playTimeSeconds": 2071,
+     "points": 14,
+     "reboundsTotal": 12,
+     "assists": 1,
+     "steals": 3,
+     "blocks": 1,
+     "turnovers": 0,
+     "plusMinus": 8,
+     "eval": 24,
+     "madeTwoPts": 7,
+     "attemptTwoPts": 13,
+     "madeThreePts": 0,
+     "attemptThreePts": 1,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 6,
+     "reboundsDefensive": 6,
+     "fouls": 0,
+     "isStart5": 1
+    },
+    "_key": "6"
+   },
+   {
+    "id": 13837903510,
+    "shirtNumber": "7",
+    "firstName": "Adam",
+    "lastName": "Brenk",
+    "position": "SG",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/803d2f9e217f4c074228e443136327e4S1.png",
+    "stats": {
+     "playTimeSeconds": 1222,
+     "points": 6,
+     "reboundsTotal": 2,
+     "assists": 4,
+     "steals": 1,
+     "blocks": 0,
+     "turnovers": 1,
+     "plusMinus": 1,
+     "eval": 8,
+     "madeTwoPts": 2,
+     "attemptTwoPts": 3,
+     "madeThreePts": 0,
+     "attemptThreePts": 3,
+     "madeFreeThrowPts": 2,
+     "attemptFreeThrowPts": 2,
+     "reboundsOffensive": 1,
+     "reboundsDefensive": 1,
+     "fouls": 3,
+     "isStart5": 0
+    },
+    "_key": "7"
+   },
+   {
+    "id": 13427225689,
+    "shirtNumber": "8",
+    "firstName": "Sam",
+    "lastName": "Hines Jr",
+    "position": "SF",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/2b854f680cfabab1f214c284faf0f4c9S1.png",
+    "stats": {
+     "playTimeSeconds": 2068,
+     "points": 28,
+     "reboundsTotal": 6,
+     "assists": 2,
+     "steals": 1,
+     "blocks": 0,
+     "turnovers": 3,
+     "plusMinus": 18,
+     "eval": 26,
+     "madeTwoPts": 2,
+     "attemptTwoPts": 5,
+     "madeThreePts": 4,
+     "attemptThreePts": 7,
+     "madeFreeThrowPts": 12,
+     "attemptFreeThrowPts": 14,
+     "reboundsOffensive": 3,
+     "reboundsDefensive": 3,
+     "fouls": 2,
+     "isStart5": 1
+    },
+    "_key": "8"
+   },
+   {
+    "id": 10716326627,
+    "shirtNumber": "11",
+    "firstName": "Bartosz",
+    "lastName": "Lazarski",
+    "position": "SG",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/d46cf327c6517c0981eef3bcdfa79a5bS1.png",
+    "stats": {
+     "playTimeSeconds": 476,
+     "points": 2,
+     "reboundsTotal": 2,
+     "assists": 0,
+     "steals": 0,
+     "blocks": 0,
+     "turnovers": 1,
+     "plusMinus": 2,
+     "eval": 1,
+     "madeTwoPts": 1,
+     "attemptTwoPts": 2,
+     "madeThreePts": 0,
+     "attemptThreePts": 1,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 2,
+     "fouls": 3,
+     "isStart5": 0
+    },
+    "_key": "9"
+   },
+   {
+    "id": 13258065980,
+    "shirtNumber": "16",
+    "firstName": "Dawid",
+    "lastName": "Slupinski",
+    "position": "C",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/6962f11fd43f4953ca329d2e017dd6beS1.png",
+    "stats": {
+     "playTimeSeconds": 621,
+     "points": 2,
+     "reboundsTotal": 0,
+     "assists": 0,
+     "steals": 0,
+     "blocks": 0,
+     "turnovers": 1,
+     "plusMinus": 3,
+     "eval": 1,
+     "madeTwoPts": 1,
+     "attemptTwoPts": 1,
+     "madeThreePts": 0,
+     "attemptThreePts": 0,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 0,
+     "fouls": 3,
+     "isStart5": 0
+    },
+    "_key": "10"
+   },
+   {
+    "id": 10903356526,
+    "shirtNumber": "20",
+    "firstName": "Emmanuel",
+    "lastName": "Lecomte",
+    "position": "PG",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/769c5c4d534b6639406bbe0d9b09333eS1.png",
+    "stats": {
+     "playTimeSeconds": 2051,
+     "points": 11,
+     "reboundsTotal": 3,
+     "assists": 8,
+     "steals": 1,
+     "blocks": 0,
+     "turnovers": 2,
+     "plusMinus": 18,
+     "eval": 17,
+     "madeTwoPts": 1,
+     "attemptTwoPts": 3,
+     "madeThreePts": 0,
+     "attemptThreePts": 1,
+     "madeFreeThrowPts": 9,
+     "attemptFreeThrowPts": 10,
+     "reboundsOffensive": 1,
+     "reboundsDefensive": 2,
+     "fouls": 3,
+     "isStart5": 1
+    },
+    "_key": "11"
+   }
+  ]
+ },
+ "away": {
+  "id": 177956,
+  "name": "Donar Groningen",
+  "players": [
+   {
+    "id": 12523488985,
+    "shirtNumber": "11",
+    "firstName": "Dele",
+    "lastName": "Adetunji",
+    "position": "G",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/49a5b84d39f291432573aba7f65ba086S1.png",
+    "stats": {
+     "playTimeSeconds": 0,
+     "points": 0,
+     "reboundsTotal": 0,
+     "assists": 0,
+     "steals": 0,
+     "blocks": 0,
+     "turnovers": 0,
+     "plusMinus": 0,
+     "eval": 0,
+     "madeTwoPts": 0,
+     "attemptTwoPts": 0,
+     "madeThreePts": 0,
+     "attemptThreePts": 0,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 0,
+     "fouls": 0,
+     "isStart5": 0
+    },
+    "_key": "1"
+   },
+   {
+    "id": 12303750603,
+    "shirtNumber": "0",
+    "firstName": "Bryan",
+    "lastName": "Antoine",
+    "position": "G",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/9dc6af3bdb62997ae8c8d737f6059c30S1.png",
+    "stats": {
+     "playTimeSeconds": 1921,
+     "points": 11,
+     "reboundsTotal": 2,
+     "assists": 1,
+     "steals": 1,
+     "blocks": 2,
+     "turnovers": 0,
+     "plusMinus": -9,
+     "eval": 10,
+     "madeTwoPts": 4,
+     "attemptTwoPts": 6,
+     "madeThreePts": 1,
+     "attemptThreePts": 6,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 2,
+     "fouls": 3,
+     "isStart5": 1
+    },
+    "_key": "4"
+   },
+   {
+    "id": 14138253070,
+    "shirtNumber": "1",
+    "firstName": "Dola",
+    "lastName": "Adebayo",
+    "position": "F",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/575793533db7e605f8f7987921c083b4S1.png",
+    "stats": {
+     "playTimeSeconds": 902,
+     "points": 8,
+     "reboundsTotal": 4,
+     "assists": 1,
+     "steals": 1,
+     "blocks": 0,
+     "turnovers": 2,
+     "plusMinus": -2,
+     "eval": 11,
+     "madeTwoPts": 4,
+     "attemptTwoPts": 4,
+     "madeThreePts": 0,
+     "attemptThreePts": 1,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 1,
+     "reboundsDefensive": 3,
+     "fouls": 2,
+     "isStart5": 0
+    },
+    "_key": "5"
+   },
+   {
+    "id": 12163134996,
+    "shirtNumber": "2",
+    "firstName": "Kevon",
+    "lastName": "Godwin",
+    "position": "G",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/b99b29419cef544cd559a2a50c9195e9S1.png",
+    "stats": {
+     "playTimeSeconds": 1707,
+     "points": 11,
+     "reboundsTotal": 1,
+     "assists": 4,
+     "steals": 0,
+     "blocks": 0,
+     "turnovers": 6,
+     "plusMinus": -17,
+     "eval": 2,
+     "madeTwoPts": 0,
+     "attemptTwoPts": 2,
+     "madeThreePts": 3,
+     "attemptThreePts": 9,
+     "madeFreeThrowPts": 2,
+     "attemptFreeThrowPts": 2,
+     "reboundsOffensive": 1,
+     "reboundsDefensive": 0,
+     "fouls": 4,
+     "isStart5": 1
+    },
+    "_key": "6"
+   },
+   {
+    "id": 10270670653,
+    "shirtNumber": "4",
+    "firstName": "Jalen",
+    "lastName": "Deloach",
+    "position": "C",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/29db4785d96d914fda72e154e6e0dd61S1.png",
+    "stats": {
+     "playTimeSeconds": 656,
+     "points": 10,
+     "reboundsTotal": 2,
+     "assists": 0,
+     "steals": 0,
+     "blocks": 0,
+     "turnovers": 2,
+     "plusMinus": 0,
+     "eval": 8,
+     "madeTwoPts": 4,
+     "attemptTwoPts": 5,
+     "madeThreePts": 0,
+     "attemptThreePts": 0,
+     "madeFreeThrowPts": 2,
+     "attemptFreeThrowPts": 3,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 2,
+     "fouls": 5,
+     "isStart5": 1
+    },
+    "_key": "7"
+   },
+   {
+    "id": 12162506216,
+    "shirtNumber": "5",
+    "firstName": "Siem",
+    "lastName": "Uijtendaal",
+    "position": "G",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/f5abcd78f6faf9071be3c48d0ca90e0eS1.png",
+    "stats": {
+     "playTimeSeconds": 1299,
+     "points": 8,
+     "reboundsTotal": 2,
+     "assists": 4,
+     "steals": 2,
+     "blocks": 0,
+     "turnovers": 1,
+     "plusMinus": -2,
+     "eval": 10,
+     "madeTwoPts": 0,
+     "attemptTwoPts": 3,
+     "madeThreePts": 2,
+     "attemptThreePts": 4,
+     "madeFreeThrowPts": 2,
+     "attemptFreeThrowPts": 2,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 2,
+     "fouls": 0,
+     "isStart5": 1
+    },
+    "_key": "8"
+   },
+   {
+    "id": 10102727444,
+    "shirtNumber": "6",
+    "firstName": "Oshean",
+    "lastName": "Brathwaite",
+    "position": "PG",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/10d5fb32d510ebcb63e8b983d3a34778S1.png",
+    "stats": {
+     "playTimeSeconds": 1437,
+     "points": 7,
+     "reboundsTotal": 0,
+     "assists": 5,
+     "steals": 0,
+     "blocks": 0,
+     "turnovers": 0,
+     "plusMinus": -10,
+     "eval": 9,
+     "madeTwoPts": 2,
+     "attemptTwoPts": 3,
+     "madeThreePts": 1,
+     "attemptThreePts": 3,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 0,
+     "fouls": 2,
+     "isStart5": 0
+    },
+    "_key": "9"
+   },
+   {
+    "id": 13684798666,
+    "shirtNumber": "7",
+    "firstName": "Brandon",
+    "lastName": "Bergsma",
+    "position": "F",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/0d9b8a88e580bb2b13cbb22fe1952dd7S1.png",
+    "stats": {
+     "playTimeSeconds": 921,
+     "points": 4,
+     "reboundsTotal": 5,
+     "assists": 0,
+     "steals": 0,
+     "blocks": 1,
+     "turnovers": 1,
+     "plusMinus": -14,
+     "eval": 6,
+     "madeTwoPts": 1,
+     "attemptTwoPts": 2,
+     "madeThreePts": 0,
+     "attemptThreePts": 2,
+     "madeFreeThrowPts": 2,
+     "attemptFreeThrowPts": 2,
+     "reboundsOffensive": 2,
+     "reboundsDefensive": 3,
+     "fouls": 3,
+     "isStart5": 0
+    },
+    "_key": "10"
+   },
+   {
+    "id": 12090361681,
+    "shirtNumber": "15",
+    "firstName": "Michael",
+    "lastName": "Mccalister",
+    "position": "F",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/336405aa4952fd445089fb4e59974883S1.png",
+    "stats": {
+     "playTimeSeconds": 855,
+     "points": 0,
+     "reboundsTotal": 0,
+     "assists": 0,
+     "steals": 1,
+     "blocks": 0,
+     "turnovers": 1,
+     "plusMinus": -12,
+     "eval": -3,
+     "madeTwoPts": 0,
+     "attemptTwoPts": 1,
+     "madeThreePts": 0,
+     "attemptThreePts": 2,
+     "madeFreeThrowPts": 0,
+     "attemptFreeThrowPts": 0,
+     "reboundsOffensive": 0,
+     "reboundsDefensive": 0,
+     "fouls": 1,
+     "isStart5": 0
+    },
+    "_key": "11"
+   },
+   {
+    "id": 12899589255,
+    "shirtNumber": "23",
+    "firstName": "Aleksandre",
+    "lastName": "Merkviladze",
+    "position": "F",
+    "photoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/3a42d38831ce34903ef7dc0d3e76c71eS1.png",
+    "stats": {
+     "playTimeSeconds": 2302,
+     "points": 22,
+     "reboundsTotal": 7,
+     "assists": 3,
+     "steals": 1,
+     "blocks": 0,
+     "turnovers": 2,
+     "plusMinus": -14,
+     "eval": 24,
+     "madeTwoPts": 1,
+     "attemptTwoPts": 3,
+     "madeThreePts": 6,
+     "attemptThreePts": 11,
+     "madeFreeThrowPts": 2,
+     "attemptFreeThrowPts": 2,
+     "reboundsOffensive": 3,
+     "reboundsDefensive": 4,
+     "fouls": 3,
+     "isStart5": 1
+    },
+    "_key": "12"
+   }
+  ]
+ },
+ "quarters": [
+  {
+   "number": 1,
+   "name": "Q1",
+   "home": 27,
+   "away": 23
+  },
+  {
+   "number": 2,
+   "name": "Q2",
+   "home": 19,
+   "away": 15
+  },
+  {
+   "number": 3,
+   "name": "Q3",
+   "home": 26,
+   "away": 25
+  },
+  {
+   "number": 4,
+   "name": "Q4",
+   "home": 25,
+   "away": 18
+  }
+ ],
+ "playByPlay": [
+  {
+   "q": 1,
+   "no": 3,
+   "time": "09:41",
+   "akcja": "H. Vanwijn — celny za 3",
+   "ph": 3,
+   "pa": 0,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 4,
+   "time": "09:22",
+   "akcja": "B. Antoine — celny za 2",
+   "ph": 3,
+   "pa": 2,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 4,
+   "time": "08:15",
+   "akcja": "B. Antoine — celny za 2",
+   "ph": 3,
+   "pa": 4,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 11,
+   "time": "08:00",
+   "akcja": "E. Lecomte — rzut wolny",
+   "ph": 4,
+   "pa": 4,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 3,
+   "time": "06:41",
+   "akcja": "H. Vanwijn — celny za 3",
+   "ph": 7,
+   "pa": 4,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 5,
+   "time": "06:18",
+   "akcja": "D. Adebayo — celny za 2",
+   "ph": 7,
+   "pa": 6,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 4,
+   "time": "05:42",
+   "akcja": "B. Antoine — celny za 2",
+   "ph": 7,
+   "pa": 8,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 3,
+   "time": "05:29",
+   "akcja": "H. Vanwijn — celny za 3",
+   "ph": 10,
+   "pa": 8,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 4,
+   "time": "05:05",
+   "akcja": "B. Antoine — celny za 2",
+   "ph": 10,
+   "pa": 10,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 6,
+   "time": "04:37",
+   "akcja": "K. Godwin — celny za 3",
+   "ph": 10,
+   "pa": 13,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 3,
+   "time": "04:15",
+   "akcja": "H. Vanwijn — celny za 2",
+   "ph": 12,
+   "pa": 13,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 12,
+   "time": "03:54",
+   "akcja": "A. Merkviladze — celny za 3",
+   "ph": 12,
+   "pa": 16,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 3,
+   "time": "03:32",
+   "akcja": "H. Vanwijn — celny za 3",
+   "ph": 15,
+   "pa": 16,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 12,
+   "time": "03:21",
+   "akcja": "A. Merkviladze — celny za 3",
+   "ph": 15,
+   "pa": 19,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 6,
+   "time": "03:10",
+   "akcja": "L. Freeman — celny za 2",
+   "ph": 17,
+   "pa": 19,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 5,
+   "time": "02:54",
+   "akcja": "D. Adebayo — celny za 2",
+   "ph": 17,
+   "pa": 21,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 6,
+   "time": "02:37",
+   "akcja": "L. Freeman — celny za 2",
+   "ph": 19,
+   "pa": 21,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 3,
+   "time": "01:59",
+   "akcja": "H. Vanwijn — celny za 2",
+   "ph": 21,
+   "pa": 21,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 8,
+   "time": "01:26",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 22,
+   "pa": 21,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 8,
+   "time": "00:42",
+   "akcja": "S. Hines Jr — celny za 3",
+   "ph": 25,
+   "pa": 21,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 8,
+   "time": "00:19",
+   "akcja": "S. Uijtendaal — rzut wolny",
+   "ph": 25,
+   "pa": 22,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 8,
+   "time": "00:19",
+   "akcja": "S. Uijtendaal — rzut wolny",
+   "ph": 25,
+   "pa": 23,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 1,
+   "no": 2,
+   "time": "00:05",
+   "akcja": "M. Szlachetka — celny za 2",
+   "ph": 27,
+   "pa": 23,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 3,
+   "time": "07:18",
+   "akcja": "H. Vanwijn — celny za 3",
+   "ph": 30,
+   "pa": 23,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 5,
+   "time": "06:56",
+   "akcja": "D. Adebayo — celny za 2",
+   "ph": 30,
+   "pa": 25,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 10,
+   "time": "06:35",
+   "akcja": "D. Slupinski — celny za 2",
+   "ph": 32,
+   "pa": 25,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 8,
+   "time": "06:23",
+   "akcja": "S. Uijtendaal — celny za 3",
+   "ph": 32,
+   "pa": 28,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 7,
+   "time": "05:41",
+   "akcja": "J. Deloach — celny za 2",
+   "ph": 32,
+   "pa": 30,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 6,
+   "time": "05:25",
+   "akcja": "L. Freeman — celny za 2",
+   "ph": 34,
+   "pa": 30,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 8,
+   "time": "04:50",
+   "akcja": "S. Hines Jr — celny za 3",
+   "ph": 37,
+   "pa": 30,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 7,
+   "time": "04:36",
+   "akcja": "J. Deloach — celny za 2",
+   "ph": 37,
+   "pa": 32,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 8,
+   "time": "04:26",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 38,
+   "pa": 32,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 8,
+   "time": "04:26",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 39,
+   "pa": 32,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 7,
+   "time": "04:13",
+   "akcja": "J. Deloach — celny za 2",
+   "ph": 39,
+   "pa": 34,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 7,
+   "time": "04:11",
+   "akcja": "J. Deloach — rzut wolny",
+   "ph": 39,
+   "pa": 35,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 7,
+   "time": "03:24",
+   "akcja": "A. Brenk — rzut wolny",
+   "ph": 40,
+   "pa": 35,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 7,
+   "time": "03:24",
+   "akcja": "A. Brenk — rzut wolny",
+   "ph": 41,
+   "pa": 35,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 8,
+   "time": "02:41",
+   "akcja": "S. Hines Jr — celny za 3",
+   "ph": 44,
+   "pa": 35,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 12,
+   "time": "02:21",
+   "akcja": "A. Merkviladze — celny za 3",
+   "ph": 44,
+   "pa": 38,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 2,
+   "no": 11,
+   "time": "00:38",
+   "akcja": "E. Lecomte — celny za 2",
+   "ph": 46,
+   "pa": 38,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 11,
+   "time": "09:39",
+   "akcja": "E. Lecomte — rzut wolny",
+   "ph": 47,
+   "pa": 38,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 11,
+   "time": "09:39",
+   "akcja": "E. Lecomte — rzut wolny",
+   "ph": 48,
+   "pa": 38,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 7,
+   "time": "08:53",
+   "akcja": "J. Deloach — rzut wolny",
+   "ph": 48,
+   "pa": 39,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 8,
+   "time": "08:41",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 49,
+   "pa": 39,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 8,
+   "time": "08:41",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 50,
+   "pa": 39,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 8,
+   "time": "08:25",
+   "akcja": "S. Uijtendaal — celny za 3",
+   "ph": 50,
+   "pa": 42,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 2,
+   "time": "08:13",
+   "akcja": "M. Szlachetka — celny za 2",
+   "ph": 52,
+   "pa": 42,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 2,
+   "time": "07:50",
+   "akcja": "M. Szlachetka — celny za 2",
+   "ph": 54,
+   "pa": 42,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 12,
+   "time": "07:33",
+   "akcja": "A. Merkviladze — celny za 3",
+   "ph": 54,
+   "pa": 45,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 4,
+   "time": "06:32",
+   "akcja": "B. Antoine — celny za 3",
+   "ph": 54,
+   "pa": 48,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 6,
+   "time": "06:16",
+   "akcja": "L. Freeman — celny za 2",
+   "ph": 56,
+   "pa": 48,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 6,
+   "time": "06:07",
+   "akcja": "K. Godwin — rzut wolny",
+   "ph": 56,
+   "pa": 49,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 6,
+   "time": "06:07",
+   "akcja": "K. Godwin — rzut wolny",
+   "ph": 56,
+   "pa": 50,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 3,
+   "time": "05:49",
+   "akcja": "H. Vanwijn — celny za 3",
+   "ph": 59,
+   "pa": 50,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 7,
+   "time": "04:55",
+   "akcja": "A. Brenk — celny za 2",
+   "ph": 61,
+   "pa": 50,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 8,
+   "time": "04:07",
+   "akcja": "S. Hines Jr — celny za 3",
+   "ph": 64,
+   "pa": 50,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 9,
+   "time": "03:01",
+   "akcja": "O. Brathwaite — celny za 2",
+   "ph": 64,
+   "pa": 52,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 8,
+   "time": "02:45",
+   "akcja": "S. Hines Jr — celny za 2",
+   "ph": 66,
+   "pa": 52,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 10,
+   "time": "02:33",
+   "akcja": "B. Bergsma — rzut wolny",
+   "ph": 66,
+   "pa": 53,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 10,
+   "time": "02:33",
+   "akcja": "B. Bergsma — rzut wolny",
+   "ph": 66,
+   "pa": 54,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 7,
+   "time": "02:22",
+   "akcja": "A. Brenk — celny za 2",
+   "ph": 68,
+   "pa": 54,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 12,
+   "time": "02:13",
+   "akcja": "A. Merkviladze — celny za 3",
+   "ph": 68,
+   "pa": 57,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 8,
+   "time": "01:59",
+   "akcja": "S. Hines Jr — celny za 2",
+   "ph": 70,
+   "pa": 57,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 12,
+   "time": "01:35",
+   "akcja": "A. Merkviladze — celny za 3",
+   "ph": 70,
+   "pa": 60,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 9,
+   "time": "00:57",
+   "akcja": "O. Brathwaite — celny za 3",
+   "ph": 70,
+   "pa": 63,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 8,
+   "time": "00:43",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 71,
+   "pa": 63,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 3,
+   "no": 8,
+   "time": "00:43",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 72,
+   "pa": 63,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 12,
+   "time": "09:27",
+   "akcja": "A. Merkviladze — celny za 2",
+   "ph": 72,
+   "pa": 65,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 9,
+   "time": "09:08",
+   "akcja": "O. Brathwaite — celny za 2",
+   "ph": 72,
+   "pa": 67,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 7,
+   "time": "08:17",
+   "akcja": "J. Deloach — celny za 2",
+   "ph": 72,
+   "pa": 69,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 8,
+   "time": "08:02",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 73,
+   "pa": 69,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 6,
+   "time": "07:08",
+   "akcja": "L. Freeman — celny za 2",
+   "ph": 75,
+   "pa": 69,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 10,
+   "time": "06:49",
+   "akcja": "B. Bergsma — celny za 2",
+   "ph": 75,
+   "pa": 71,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 6,
+   "time": "06:03",
+   "akcja": "L. Freeman — celny za 2",
+   "ph": 77,
+   "pa": 71,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 6,
+   "time": "05:50",
+   "akcja": "K. Godwin — celny za 3",
+   "ph": 77,
+   "pa": 74,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 6,
+   "time": "05:27",
+   "akcja": "K. Godwin — celny za 3",
+   "ph": 77,
+   "pa": 77,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 11,
+   "time": "05:16",
+   "akcja": "E. Lecomte — rzut wolny",
+   "ph": 78,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 11,
+   "time": "05:16",
+   "akcja": "E. Lecomte — rzut wolny",
+   "ph": 79,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 3,
+   "time": "04:25",
+   "akcja": "H. Vanwijn — celny za 2",
+   "ph": 81,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 8,
+   "time": "04:03",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 82,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 8,
+   "time": "04:03",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 83,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 11,
+   "time": "03:33",
+   "akcja": "E. Lecomte — rzut wolny",
+   "ph": 84,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 11,
+   "time": "03:33",
+   "akcja": "E. Lecomte — rzut wolny",
+   "ph": 85,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 3,
+   "time": "03:03",
+   "akcja": "H. Vanwijn — celny za 3",
+   "ph": 88,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 6,
+   "time": "02:35",
+   "akcja": "L. Freeman — celny za 2",
+   "ph": 90,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 11,
+   "time": "02:17",
+   "akcja": "E. Lecomte — rzut wolny",
+   "ph": 91,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 11,
+   "time": "02:17",
+   "akcja": "E. Lecomte — rzut wolny",
+   "ph": 92,
+   "pa": 77,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 5,
+   "time": "01:59",
+   "akcja": "D. Adebayo — celny za 2",
+   "ph": 92,
+   "pa": 79,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 8,
+   "time": "01:42",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 93,
+   "pa": 79,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 8,
+   "time": "01:42",
+   "akcja": "S. Hines Jr — rzut wolny",
+   "ph": 94,
+   "pa": 79,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 2,
+   "time": "00:23",
+   "akcja": "M. Szlachetka — rzut wolny",
+   "ph": 95,
+   "pa": 79,
+   "teamId": 33,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 12,
+   "time": "00:14",
+   "akcja": "A. Merkviladze — rzut wolny",
+   "ph": 95,
+   "pa": 80,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 12,
+   "time": "00:14",
+   "akcja": "A. Merkviladze — rzut wolny",
+   "ph": 95,
+   "pa": 81,
+   "teamId": 177956,
+   "scoring": true
+  },
+  {
+   "q": 4,
+   "no": 9,
+   "time": "00:01",
+   "akcja": "B. Lazarski — celny za 2",
+   "ph": 97,
+   "pa": 81,
+   "teamId": 33,
+   "scoring": true
+  }
+ ],
+ "shots": [
+  {
+   "q": 1,
+   "x": 69.269996643066,
+   "y": 70.629997253418,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 1,
+   "x": 93.290000915527,
+   "y": 44.650001525879,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 1,
+   "x": 92.980003356934,
+   "y": 52.560001373291,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 1,
+   "x": 92.51000213623,
+   "y": 54.540000915527,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 1,
+   "x": 93.76000213623,
+   "y": 4.2699999809265,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 1,
+   "x": 73.480003356934,
+   "y": 20.079999923706,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 1,
+   "x": 85.180000305176,
+   "y": 66.680000305176,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 1,
+   "x": 93.139999389648,
+   "y": 4.8400001525879,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 1,
+   "x": 94.540000915527,
+   "y": 46.630001068115,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 1,
+   "x": 92.669998168945,
+   "y": 56.509998321533,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 1,
+   "x": 93.599998474121,
+   "y": 97.180000305176,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "A. Brenk"
+  },
+  {
+   "q": 1,
+   "x": 93.449996948242,
+   "y": 47.189998626709,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 1,
+   "x": 86.73999786377,
+   "y": 4.8400001525879,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 1,
+   "x": 93.290000915527,
+   "y": 44.930000305176,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "M. Szlachetka"
+  },
+  {
+   "q": 2,
+   "x": 69.889999389648,
+   "y": 80.230003356934,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "M. Szlachetka"
+  },
+  {
+   "q": 2,
+   "x": 91.730003356934,
+   "y": 61.880001068115,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 2,
+   "x": 89.080001831055,
+   "y": 67.23999786377,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 2,
+   "x": 93.139999389648,
+   "y": 57.639999389648,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 2,
+   "x": 69.110000610352,
+   "y": 33.919998168945,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 2,
+   "x": 94.069999694824,
+   "y": 45.220001220703,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "D. Slupinski"
+  },
+  {
+   "q": 2,
+   "x": 92.360000610352,
+   "y": 96.889999389648,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "B. Lazarski"
+  },
+  {
+   "q": 2,
+   "x": 94.849998474121,
+   "y": 46.630001068115,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 2,
+   "x": 94.849998474121,
+   "y": 96.889999389648,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 2,
+   "x": 94.379997253418,
+   "y": 3.710000038147,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 2,
+   "x": 85.48999786377,
+   "y": 54.25,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 2,
+   "x": 89.699996948242,
+   "y": 46.060001373291,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 2,
+   "x": 72.540000915527,
+   "y": 21.5,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 2,
+   "x": 88.919998168945,
+   "y": 51.990001678467,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 2,
+   "x": 72.849998474121,
+   "y": 82.769996643066,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 2,
+   "x": 94.379997253418,
+   "y": 45.220001220703,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "E. Lecomte"
+  },
+  {
+   "q": 3,
+   "x": 5.460000038147,
+   "y": 57.919998168945,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "M. Szlachetka"
+  },
+  {
+   "q": 3,
+   "x": 5.6199998855591,
+   "y": 46.630001068115,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "M. Szlachetka"
+  },
+  {
+   "q": 3,
+   "x": 18.879999160767,
+   "y": 65.830001831055,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 3,
+   "x": 7.3299999237061,
+   "y": 96.889999389648,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 3,
+   "x": 4.210000038147,
+   "y": 4.5500001907349,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "A. Brenk"
+  },
+  {
+   "q": 3,
+   "x": 6.5500001907349,
+   "y": 46.349998474121,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "A. Brenk"
+  },
+  {
+   "q": 3,
+   "x": 6.0799999237061,
+   "y": 55.950000762939,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "A. Brenk"
+  },
+  {
+   "q": 3,
+   "x": 5.1500000953674,
+   "y": 3.9900000095367,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 3,
+   "x": 3.5899999141693,
+   "y": 4.2699999809265,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 3,
+   "x": 6.0799999237061,
+   "y": 45.779998779297,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 3,
+   "x": 6.710000038147,
+   "y": 44.650001525879,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "A. Brenk"
+  },
+  {
+   "q": 3,
+   "x": 6.2399997711182,
+   "y": 42.389999389648,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 3,
+   "x": 29.799999237061,
+   "y": 77.690002441406,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "A. Brenk"
+  },
+  {
+   "q": 3,
+   "x": 9.3599996566772,
+   "y": 26.860000610352,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 4,
+   "x": 6.0799999237061,
+   "y": 41.259998321533,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "B. Lazarski"
+  },
+  {
+   "q": 4,
+   "x": 21.530000686646,
+   "y": 69.220001220703,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "E. Lecomte"
+  },
+  {
+   "q": 4,
+   "x": 5.3000001907349,
+   "y": 3.9900000095367,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "S. Hines Jr"
+  },
+  {
+   "q": 4,
+   "x": 5.7699999809265,
+   "y": 48.889999389648,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 4,
+   "x": 28.549999237061,
+   "y": 24.60000038147,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "E. Lecomte"
+  },
+  {
+   "q": 4,
+   "x": 5.6199998855591,
+   "y": 3.9900000095367,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 4,
+   "x": 4.5199999809265,
+   "y": 55.669998168945,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 4,
+   "x": 6.710000038147,
+   "y": 59.340000152588,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 4,
+   "x": 4.3699998855591,
+   "y": 3.1400001049042,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "M. Szlachetka"
+  },
+  {
+   "q": 4,
+   "x": 10.920000076294,
+   "y": 50.020000457764,
+   "made": false,
+   "pts": 2,
+   "teamId": 33,
+   "player": "E. Lecomte"
+  },
+  {
+   "q": 4,
+   "x": 5.9299998283386,
+   "y": 43.810001373291,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 4,
+   "x": 23.090000152588,
+   "y": 87.580001831055,
+   "made": true,
+   "pts": 3,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 4,
+   "x": 6.0799999237061,
+   "y": 54.819999694824,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "L. Freeman"
+  },
+  {
+   "q": 4,
+   "x": 28.389999389648,
+   "y": 76.839996337891,
+   "made": false,
+   "pts": 3,
+   "teamId": 33,
+   "player": "H. Vanwijn"
+  },
+  {
+   "q": 4,
+   "x": 6.0799999237061,
+   "y": 55.099998474121,
+   "made": true,
+   "pts": 2,
+   "teamId": 33,
+   "player": "B. Lazarski"
+  },
+  {
+   "q": 1,
+   "x": 5.9299998283386,
+   "y": 23.469999313354,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 1,
+   "x": 28.709999084473,
+   "y": 74.589996337891,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 1,
+   "x": 16.379999160767,
+   "y": 27.139999389648,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 1,
+   "x": 31.510000228882,
+   "y": 68.940002441406,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 1,
+   "x": 21.840000152588,
+   "y": 44.650001525879,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 1,
+   "x": 6.0799999237061,
+   "y": 55.669998168945,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "D. Adebayo"
+  },
+  {
+   "q": 1,
+   "x": 5.3000001907349,
+   "y": 53.409999847412,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 1,
+   "x": 19.190000534058,
+   "y": 82.209999084473,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 1,
+   "x": 29.489999771118,
+   "y": 25.170000076294,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 1,
+   "x": 4.9899997711182,
+   "y": 4.2699999809265,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 1,
+   "x": 28.389999389648,
+   "y": 78.819999694824,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 1,
+   "x": 4.8400001525879,
+   "y": 50.580001831055,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "D. Adebayo"
+  },
+  {
+   "q": 1,
+   "x": 8.1099996566772,
+   "y": 57.919998168945,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 1,
+   "x": 13.880000114441,
+   "y": 52.840000152588,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 1,
+   "x": 32.139999389648,
+   "y": 47.189998626709,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "B. Bergsma"
+  },
+  {
+   "q": 1,
+   "x": 52.569999694824,
+   "y": 28.840000152588,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 2,
+   "x": 31.200000762939,
+   "y": 39,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 2,
+   "x": 30.889999389648,
+   "y": 31.10000038147,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "S. Uijtendaal"
+  },
+  {
+   "q": 2,
+   "x": 26.520000457764,
+   "y": 83.339996337891,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "D. Adebayo"
+  },
+  {
+   "q": 2,
+   "x": 6.710000038147,
+   "y": 59.619998931885,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 2,
+   "x": 31.049999237061,
+   "y": 77.410003662109,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 2,
+   "x": 5.9299998283386,
+   "y": 46.630001068115,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 2,
+   "x": 18.10000038147,
+   "y": 56.509998321533,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "S. Uijtendaal"
+  },
+  {
+   "q": 2,
+   "x": 5.9299998283386,
+   "y": 55.099998474121,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "D. Adebayo"
+  },
+  {
+   "q": 2,
+   "x": 31.360000610352,
+   "y": 31.379999160767,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "S. Uijtendaal"
+  },
+  {
+   "q": 2,
+   "x": 6.8600001335144,
+   "y": 54.819999694824,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "J. Deloach"
+  },
+  {
+   "q": 2,
+   "x": 6.5500001907349,
+   "y": 5.1199998855591,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 2,
+   "x": 7.0199999809265,
+   "y": 51.150001525879,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "J. Deloach"
+  },
+  {
+   "q": 2,
+   "x": 5.6199998855591,
+   "y": 44.090000152588,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "J. Deloach"
+  },
+  {
+   "q": 2,
+   "x": 33.700000762939,
+   "y": 68.089996337891,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 2,
+   "x": 32.450000762939,
+   "y": 66.680000305176,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 2,
+   "x": 27.299999237061,
+   "y": 18.110000610352,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "M. Mccalister"
+  },
+  {
+   "q": 2,
+   "x": 30.579999923706,
+   "y": 23.760000228882,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 3,
+   "x": 91.730003356934,
+   "y": 52.840000152588,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "S. Uijtendaal"
+  },
+  {
+   "q": 3,
+   "x": 69.419998168945,
+   "y": 76,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "S. Uijtendaal"
+  },
+  {
+   "q": 3,
+   "x": 68.800003051758,
+   "y": 71.480003356934,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 3,
+   "x": 92.819999694824,
+   "y": 4.2699999809265,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 3,
+   "x": 71.919998168945,
+   "y": 79.669998168945,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 3,
+   "x": 69.580001831055,
+   "y": 70.069999694824,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 3,
+   "x": 67.080001831055,
+   "y": 52.560001373291,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 3,
+   "x": 79.25,
+   "y": 32.229999542236,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "M. Mccalister"
+  },
+  {
+   "q": 3,
+   "x": 76.129997253418,
+   "y": 67.529998779297,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "O. Brathwaite"
+  },
+  {
+   "q": 3,
+   "x": 94.849998474121,
+   "y": 97.180000305176,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "M. Mccalister"
+  },
+  {
+   "q": 3,
+   "x": 74.410003662109,
+   "y": 84.470001220703,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 3,
+   "x": 93.290000915527,
+   "y": 98.589996337891,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 3,
+   "x": 90.019996643066,
+   "y": 3.9900000095367,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "O. Brathwaite"
+  },
+  {
+   "q": 3,
+   "x": 69.419998168945,
+   "y": 72.040000915527,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "B. Bergsma"
+  },
+  {
+   "q": 3,
+   "x": 69.419998168945,
+   "y": 30.819999694824,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 4,
+   "x": 94.699996948242,
+   "y": 55.099998474121,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 4,
+   "x": 91.419998168945,
+   "y": 49.450000762939,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "O. Brathwaite"
+  },
+  {
+   "q": 4,
+   "x": 72.849998474121,
+   "y": 81.360000610352,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "A. Merkviladze"
+  },
+  {
+   "q": 4,
+   "x": 78.629997253418,
+   "y": 88.139999389648,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 4,
+   "x": 92.360000610352,
+   "y": 50.580001831055,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "J. Deloach"
+  },
+  {
+   "q": 4,
+   "x": 94.540000915527,
+   "y": 37.310001373291,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "J. Deloach"
+  },
+  {
+   "q": 4,
+   "x": 91.889999389648,
+   "y": 78.819999694824,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "S. Uijtendaal"
+  },
+  {
+   "q": 4,
+   "x": 94.230003356934,
+   "y": 46.349998474121,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "B. Bergsma"
+  },
+  {
+   "q": 4,
+   "x": 94.379997253418,
+   "y": 55.099998474121,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "B. Bergsma"
+  },
+  {
+   "q": 4,
+   "x": 73.319999694824,
+   "y": 16.700000762939,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 4,
+   "x": 70.669998168945,
+   "y": 27.430000305176,
+   "made": true,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 4,
+   "x": 73.949996948242,
+   "y": 82.48999786377,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "S. Uijtendaal"
+  },
+  {
+   "q": 4,
+   "x": 71.610000610352,
+   "y": 51.709999084473,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 4,
+   "x": 86.900001525879,
+   "y": 62.439998626709,
+   "made": false,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "O. Brathwaite"
+  },
+  {
+   "q": 4,
+   "x": 94.230003356934,
+   "y": 43.240001678467,
+   "made": true,
+   "pts": 2,
+   "teamId": 177956,
+   "player": "D. Adebayo"
+  },
+  {
+   "q": 4,
+   "x": 68.330001831055,
+   "y": 74.019996643066,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "K. Godwin"
+  },
+  {
+   "q": 4,
+   "x": 93.919998168945,
+   "y": 4.5500001907349,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "O. Brathwaite"
+  },
+  {
+   "q": 4,
+   "x": 90.639999389648,
+   "y": 96.889999389648,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "B. Antoine"
+  },
+  {
+   "q": 4,
+   "x": 54.909999847412,
+   "y": 89.550003051758,
+   "made": false,
+   "pts": 3,
+   "teamId": 177956,
+   "player": "O. Brathwaite"
+  }
+ ]
+}

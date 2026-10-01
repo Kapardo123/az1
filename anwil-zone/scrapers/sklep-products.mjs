@@ -70,10 +70,48 @@ async function main() {
     totalPages = tp;
     for (const p of data) {
       const mu = p.prices?.currency_minor_unit ?? 2;
+      /* Atrybuty produktu wariantowego (w tym sklepie zawsze dokładnie jeden:
+         "Rozmiar", "Kolor", "Zapach"…). Każdy = nazwa + lista wartości. */
+      const options = (p.attributes ?? [])
+        .filter((a) => (a.terms ?? []).length)
+        .map((a) => ({ name: decodeEntities(a.name), terms: (a.terms ?? []).map((t) => decodeEntities(t.name)) }));
       // rozmiary z atrybutów (np. "Rozmiar": S/M/L/XL)
-      const sizes = (p.attributes ?? [])
-        .filter((a) => /rozmiar|size/i.test(a.name))
-        .flatMap((a) => (a.terms ?? []).map((t) => t.name));
+      const sizes = options
+        .filter((o) => /rozmiar|size/i.test(o.name))
+        .flatMap((o) => o.terms);
+      /* Mapa wartość -> ID wariantu; potrzebna, by przekazać koszyk do sklepu
+         (WooCommerce dodaje wariant przez ?add-to-cart=<id>&variation_id=<vid>).
+         Warianty operują SLUGAMI ("110-116"), a atrybuty NAZWAMI ("110/116"),
+         więc trzeba je przetłumaczyć — inaczej wartości z ukośnikiem
+         (rozmiary dziecięce) nigdy się nie dopasują. Kolor/Zapach też tu trafia. */
+      const slugToName = {};
+      for (const a of p.attributes ?? []) {
+        for (const t of a.terms ?? []) if (t.slug) slugToName[t.slug] = decodeEntities(t.name);
+      }
+      /* Lista wariantów w produkcie bywa nieaktualna (zwraca też wyprzedane),
+         więc dla produktów wariantowych pytamy o nie osobno — razem ze
+         stanem magazynu. Bez tego aplikacja proponuje rozmiar/kolor,
+         którego sklep nie doda (kończy się przekierowaniem na produkt). */
+      let vars = p.variations ?? [];
+      if (p.type === "variable" && vars.length) {
+        try {
+          const { data } = await getJson(`${BASE}/wp-json/wc/store/v1/products?type=variation&parent=${p.id}&per_page=100`);
+          if (data?.length) vars = data;
+        } catch (e) {
+          process.stderr.write(`  warianty ${p.id}: ${e.message}\n`);
+        }
+        await sleep(DELAY);
+      }
+      const variants = {};
+      for (const v of vars) {
+        if (v.is_in_stock === false || !v.id) continue; /* wyprzedany */
+        /* produkt zwraca warianty w formie skróconej (attributes[].value = slug)
+           albo pełnej (pole "variation" = "Atrybut: Wartość") */
+        const a = (v.attributes ?? [])[0];
+        let name = a?.value ? (slugToName[a.value] ?? decodeEntities(a.value)) : null;
+        if (!name && v.variation) name = decodeEntities(v.variation.replace(/^[^:]+:\s*/, ""));
+        if (name) variants[name] = v.id;
+      }
       products.push({
         id: p.id,
         name: decodeEntities(p.name),
@@ -85,11 +123,14 @@ async function main() {
         salePrice: p.on_sale ? fmtPrice(p.prices?.sale_price, mu) : null,
         currency: p.prices?.currency_code ?? "PLN",
         onSale: !!p.on_sale,
-        inStock: !!p.is_in_stock,
+        /* produkt wariantowy bez ani jednego dostępnego wariantu = wyprzedany */
+        inStock: !!p.is_in_stock && !(options.length && !Object.keys(variants).length),
         purchasable: !!p.is_purchasable,
         type: p.type,
         hasOptions: !!p.has_options,
         sizes: [...new Set(sizes)],
+        options,
+        variants,
         categories: (p.categories ?? []).map((c) => c.name).filter((n) => !["Bez kategorii", "Strona Główna"].includes(n)),
         image: p.images?.[0]?.src ?? null,
         images: (p.images ?? []).map((i) => i.src),

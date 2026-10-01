@@ -1,0 +1,914 @@
+{
+  "source": {
+    "wix": "https://www.enbleague.eu/",
+    "genius": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/"
+  },
+  "scrapedAt": "2026-09-25T21:04:54.005Z",
+  "competition": "ENBL",
+  "season": "2026/2027",
+  "group": "anwil",
+  "groupLabel": "Grupa B",
+  "standings": [
+    {
+      "pos": 1,
+      "team": "Anwil Wloclawek",
+      "teamId": 144594,
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/0a3524e2ea008eac82d0f9e068e4ab8bT1.png",
+      "form": [
+        "W"
+      ],
+      "gp": 1,
+      "w": 1,
+      "l": 0,
+      "pts": 2,
+      "scored": null,
+      "conceded": null,
+      "diff": null,
+      "url": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/team/144594"
+    },
+    {
+      "pos": 2,
+      "team": "TalTech/ALEXELA",
+      "teamId": 158529,
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/ea40b0dc26bf7383243a81d1b23f8ce4T1.png",
+      "form": [
+        "W"
+      ],
+      "gp": 1,
+      "w": 1,
+      "l": 0,
+      "pts": 2,
+      "scored": null,
+      "conceded": null,
+      "diff": null,
+      "url": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/team/158529"
+    },
+    {
+      "pos": 3,
+      "team": "Fyllingen Lions",
+      "teamId": 177958,
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/ca12961e00b5993391bc9c4d77606eb8T1.png",
+      "form": [
+        "L"
+      ],
+      "gp": 1,
+      "w": 0,
+      "l": 1,
+      "pts": 1,
+      "scored": null,
+      "conceded": null,
+      "diff": null,
+      "url": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/team/177958"
+    },
+    {
+      "pos": 4,
+      "team": "Donar Groningen",
+      "teamId": 177956,
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/9c7a79e58ea509d8cd7067ca897c2ad8T1.png",
+      "form": [
+        "L"
+      ],
+      "gp": 1,
+      "w": 0,
+      "l": 1,
+      "pts": 1,
+      "scored": null,
+      "conceded": null,
+      "diff": null,
+      "url": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/team/177956"
+    },
+    {
+      "pos": 5,
+      "team": "Alkar Sinj",
+      "teamId": 192183,
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/260163d671e8dbbca7388354cde40ebaT1.png",
+      "form": [],
+      "gp": 0,
+      "w": 0,
+      "l": 0,
+      "pts": 0,
+      "scored": null,
+      "conceded": null,
+      "diff": null,
+      "url": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/team/192183"
+    },
+    {
+      "pos": 5,
+      "team": "BC Spartak Pleven",
+      "teamId": 166205,
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/686facbf1a1abf4d5e1ea3066a1d8528T1.png",
+      "form": [],
+      "gp": 0,
+      "w": 0,
+      "l": 0,
+      "pts": 0,
+      "scored": null,
+      "conceded": null,
+      "diff": null,
+      "url": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/team/166205"
+    },
+    {
+      "pos": 5,
+      "team": "CSO VOLUNTARI",
+      "teamId": 166201,
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/b5f61e19bd29ce4b9e5c1a73d2b4fb31T1.jpg",
+      "form": [],
+      "gp": 0,
+      "w": 0,
+      "l": 0,
+      "pts": 0,
+      "scored": null,
+      "conceded": null,
+      "diff": null,
+      "url": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/team/166201"
+    },
+    {
+      "pos": 5,
+      "team": "HKK Zrinjski 1992",
+      "teamId": 203785,
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/14523fe416117239281394d889016f82T1.png",
+      "form": [],
+      "gp": 0,
+      "w": 0,
+      "l": 0,
+      "pts": 0,
+      "scored": null,
+      "conceded": null,
+      "diff": null,
+      "url": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/team/203785"
+    },
+    {
+      "pos": 5,
+      "team": "TRIA EKA AEL B.C.",
+      "teamId": 203782,
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/8353d95976cc88d49ba61a009f6abac0T1.png",
+      "form": [],
+      "gp": 0,
+      "w": 0,
+      "l": 0,
+      "pts": 0,
+      "scored": null,
+      "conceded": null,
+      "diff": null,
+      "url": "https://hosted.dcd.shared.geniussports.com/ENBL/en/competition/50063/team/203782"
+    }
+  ],
+  "leaders": [
+    {
+      "title": "Average points",
+      "unit": "PPG",
+      "rows": [
+        {
+          "player": "Davonte Ray Davis",
+          "team": "Fyllingen Lions",
+          "value": "28.0"
+        },
+        {
+          "player": "Hans Vanwijn",
+          "team": "Anwil Wloclawek",
+          "value": "27.0"
+        },
+        {
+          "player": "Ade Murkey",
+          "team": "Tindastoll",
+          "value": "25.0"
+        },
+        {
+          "player": "Kalob James Ledoux",
+          "team": "Fyllingen Lions",
+          "value": "23.0"
+        },
+        {
+          "player": "Jalen Cooper",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "23.0"
+        },
+        {
+          "player": "Jorgen Rikberg",
+          "team": "TalTech/ALEXELA",
+          "value": "22.0"
+        },
+        {
+          "player": "Aleksandre Merkviladze",
+          "team": "Donar Groningen",
+          "value": "22.0"
+        },
+        {
+          "player": "Mwani Wilkinson",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "21.0"
+        },
+        {
+          "player": "Siim-Markus Post",
+          "team": "TalTech/ALEXELA",
+          "value": "20.0"
+        }
+      ]
+    },
+    {
+      "title": "Average assists",
+      "unit": "APG",
+      "rows": [
+        {
+          "player": "Dee Bost",
+          "team": "Tindastoll",
+          "value": "9.0"
+        },
+        {
+          "player": "Siim-Markus Post",
+          "team": "TalTech/ALEXELA",
+          "value": "8.0"
+        },
+        {
+          "player": "Emmanuel Lecomte",
+          "team": "Anwil Wloclawek",
+          "value": "8.0"
+        },
+        {
+          "player": "Taiwo Badmus",
+          "team": "Tindastoll",
+          "value": "7.0"
+        },
+        {
+          "player": "Lukas Keredzin",
+          "team": "Pully Lausanne Foxes",
+          "value": "7.0"
+        },
+        {
+          "player": "Ilves Gregor",
+          "team": "TalTech/ALEXELA",
+          "value": "6.0"
+        },
+        {
+          "player": "Jorgen Rikberg",
+          "team": "TalTech/ALEXELA",
+          "value": "5.0"
+        },
+        {
+          "player": "Hans Vanwijn",
+          "team": "Anwil Wloclawek",
+          "value": "5.0"
+        },
+        {
+          "player": "Zacheus Darko Kelly",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "5.0"
+        }
+      ]
+    },
+    {
+      "title": "Average blocks",
+      "unit": "BLKPG",
+      "rows": [
+        {
+          "player": "Bryan Antoine",
+          "team": "Donar Groningen",
+          "value": "2.0"
+        },
+        {
+          "player": "Lennard Freeman",
+          "team": "Anwil Wloclawek",
+          "value": "1.0"
+        },
+        {
+          "player": "Fredrik Kleivdal",
+          "team": "Fyllingen Lions",
+          "value": "1.0"
+        },
+        {
+          "player": "Brandon Bergsma",
+          "team": "Donar Groningen",
+          "value": "1.0"
+        },
+        {
+          "player": "Mwani Wilkinson",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "1.0"
+        },
+        {
+          "player": "Tormi Niits",
+          "team": "TalTech/ALEXELA",
+          "value": "1.0"
+        },
+        {
+          "player": "Rory Leandro Kitwana Pantophlet",
+          "team": "Fyllingen Lions",
+          "value": "1.0"
+        },
+        {
+          "player": "Daniel Koppel",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "1.0"
+        },
+        {
+          "player": "Taiwo Badmus",
+          "team": "Tindastoll",
+          "value": "1.0"
+        }
+      ]
+    },
+    {
+      "title": "Average total rebounds",
+      "unit": "RPG",
+      "rows": [
+        {
+          "player": "Lennard Freeman",
+          "team": "Anwil Wloclawek",
+          "value": "12.0"
+        },
+        {
+          "player": "Zacheus Darko Kelly",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "10.0"
+        },
+        {
+          "player": "Jalen Cooper",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "10.0"
+        },
+        {
+          "player": "Rodijs Macoha",
+          "team": "BK Liepaja",
+          "value": "9.0"
+        },
+        {
+          "player": "Tormi Niits",
+          "team": "TalTech/ALEXELA",
+          "value": "8.0"
+        },
+        {
+          "player": "Fredrik Kleivdal",
+          "team": "Fyllingen Lions",
+          "value": "8.0"
+        },
+        {
+          "player": "Oliver Metsalu",
+          "team": "TalTech/ALEXELA",
+          "value": "8.0"
+        },
+        {
+          "player": "Rokas Jocius",
+          "team": "BK Liepaja",
+          "value": "8.0"
+        },
+        {
+          "player": "Karyiek Austin Dixon",
+          "team": "Fyllingen Lions",
+          "value": "7.0"
+        }
+      ]
+    },
+    {
+      "title": "Average steals",
+      "unit": "STPG",
+      "rows": [
+        {
+          "player": "Fredrik Kleivdal",
+          "team": "Fyllingen Lions",
+          "value": "3.0"
+        },
+        {
+          "player": "Taiwo Badmus",
+          "team": "Tindastoll",
+          "value": "3.0"
+        },
+        {
+          "player": "Kendrick Tchoua",
+          "team": "Pully Lausanne Foxes",
+          "value": "3.0"
+        },
+        {
+          "player": "Lennard Freeman",
+          "team": "Anwil Wloclawek",
+          "value": "3.0"
+        },
+        {
+          "player": "Troy Marshall Barnies",
+          "team": "Fyllingen Lions",
+          "value": "2.0"
+        },
+        {
+          "player": "Davonte Ray Davis",
+          "team": "Fyllingen Lions",
+          "value": "2.0"
+        },
+        {
+          "player": "Mwani Wilkinson",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "2.0"
+        },
+        {
+          "player": "Siem Uijtendaal",
+          "team": "Donar Groningen",
+          "value": "2.0"
+        },
+        {
+          "player": "Ivo Van Tamm",
+          "team": "BK Liepaja",
+          "value": "2.0"
+        }
+      ]
+    },
+    {
+      "title": "Average 3 points made",
+      "unit": "3PMPG",
+      "rows": [
+        {
+          "player": "Aleksandre Merkviladze",
+          "team": "Donar Groningen",
+          "value": "6.0"
+        },
+        {
+          "player": "Mwani Wilkinson",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "5.0"
+        },
+        {
+          "player": "Kalob James Ledoux",
+          "team": "Fyllingen Lions",
+          "value": "5.0"
+        },
+        {
+          "player": "Jorgen Rikberg",
+          "team": "TalTech/ALEXELA",
+          "value": "4.0"
+        },
+        {
+          "player": "Davonte Ray Davis",
+          "team": "Fyllingen Lions",
+          "value": "4.0"
+        },
+        {
+          "player": "Edgars Lasenbergs",
+          "team": "BK Liepaja",
+          "value": "4.0"
+        },
+        {
+          "player": "Sam Hines Jr",
+          "team": "Anwil Wloclawek",
+          "value": "4.0"
+        },
+        {
+          "player": "Ilves Gregor",
+          "team": "TalTech/ALEXELA",
+          "value": "3.0"
+        },
+        {
+          "player": "Siim-Markus Post",
+          "team": "TalTech/ALEXELA",
+          "value": "3.0"
+        }
+      ]
+    },
+    {
+      "title": "Average 2 points made",
+      "unit": "2PMPG",
+      "rows": [
+        {
+          "player": "Davonte Ray Davis",
+          "team": "Fyllingen Lions",
+          "value": "8.0"
+        },
+        {
+          "player": "Ade Murkey",
+          "team": "Tindastoll",
+          "value": "8.0"
+        },
+        {
+          "player": "Lennard Freeman",
+          "team": "Anwil Wloclawek",
+          "value": "7.0"
+        },
+        {
+          "player": "Karyiek Austin Dixon",
+          "team": "Fyllingen Lions",
+          "value": "6.0"
+        },
+        {
+          "player": "Taiwo Badmus",
+          "team": "Tindastoll",
+          "value": "6.0"
+        },
+        {
+          "player": "Lukas Keredzin",
+          "team": "Pully Lausanne Foxes",
+          "value": "5.0"
+        },
+        {
+          "player": "Kendrick Tchoua",
+          "team": "Pully Lausanne Foxes",
+          "value": "5.0"
+        },
+        {
+          "player": "Dequan Morris",
+          "team": "Pully Lausanne Foxes",
+          "value": "5.0"
+        },
+        {
+          "player": "Jorgen Rikberg",
+          "team": "TalTech/ALEXELA",
+          "value": "4.0"
+        }
+      ]
+    },
+    {
+      "title": "Average free throw made",
+      "unit": "FTMPG",
+      "rows": [
+        {
+          "player": "Emmanuel Lecomte",
+          "team": "Anwil Wloclawek",
+          "value": "9.0"
+        },
+        {
+          "player": "Siim-Markus Post",
+          "team": "TalTech/ALEXELA",
+          "value": "5.0"
+        },
+        {
+          "player": "Joanis Maquiesse",
+          "team": "Pully Lausanne Foxes",
+          "value": "5.0"
+        },
+        {
+          "player": "Kendrick Tchoua",
+          "team": "Pully Lausanne Foxes",
+          "value": "4.0"
+        },
+        {
+          "player": "Petur Birgisson",
+          "team": "Tindastoll",
+          "value": "4.0"
+        },
+        {
+          "player": "Ilves Gregor",
+          "team": "TalTech/ALEXELA",
+          "value": "3.0"
+        },
+        {
+          "player": "Oliver Metsalu",
+          "team": "TalTech/ALEXELA",
+          "value": "3.0"
+        },
+        {
+          "player": "Adomas Drungilas",
+          "team": "Tindastoll",
+          "value": "3.0"
+        },
+        {
+          "player": "Ade Murkey",
+          "team": "Tindastoll",
+          "value": "3.0"
+        }
+      ]
+    },
+    {
+      "title": "Efficiency",
+      "unit": "EFF",
+      "rows": [
+        {
+          "player": "Davonte Ray Davis",
+          "team": "Fyllingen Lions",
+          "value": "29.0"
+        },
+        {
+          "player": "Taiwo Badmus",
+          "team": "Tindastoll",
+          "value": "29.0"
+        },
+        {
+          "player": "Jorgen Rikberg",
+          "team": "TalTech/ALEXELA",
+          "value": "26.0"
+        },
+        {
+          "player": "Sam Hines Jr",
+          "team": "Anwil Wloclawek",
+          "value": "26.0"
+        },
+        {
+          "player": "Mwani Wilkinson",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "25.0"
+        },
+        {
+          "player": "Aleksandre Merkviladze",
+          "team": "Donar Groningen",
+          "value": "24.0"
+        },
+        {
+          "player": "Jalen Cooper",
+          "team": "Hefte Helfen Bulls Kapfenberg",
+          "value": "24.0"
+        },
+        {
+          "player": "Lennard Freeman",
+          "team": "Anwil Wloclawek",
+          "value": "24.0"
+        },
+        {
+          "player": "Ilves Gregor",
+          "team": "TalTech/ALEXELA",
+          "value": "23.0"
+        }
+      ]
+    }
+  ],
+  "logos": [
+    {
+      "name": "CSO VOLUNTARI",
+      "slug": "cso-voluntari",
+      "tokens": [
+        "cso",
+        "voluntari"
+      ],
+      "localLogo": "logos/enbl/cso-voluntari.png",
+      "logoUrl": "https://static.wixstatic.com/media/562ada_e84c5fc41384486a9dfb47cc2e08aa56~mv2.png/v1/fill/w_180,h_180,al_c,q_85/cso-voluntari.png"
+    },
+    {
+      "name": "Keila Coolbet",
+      "slug": "keila-coolbet",
+      "tokens": [
+        "keila",
+        "coolbet"
+      ],
+      "localLogo": "logos/enbl/keila-coolbet.png",
+      "logoUrl": "https://static.wixstatic.com/media/562ada_ad2ed76c09f44a4d868078cee4034439~mv2.png/v1/fill/w_180,h_180,al_c,q_85/keila-coolbet.png"
+    },
+    {
+      "name": "peja",
+      "slug": "peja",
+      "tokens": [
+        "peja"
+      ],
+      "localLogo": "logos/enbl/peja.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_414be56e676444a6833cec00d15f040e~mv2.png/v1/fill/w_180,h_180,al_c,q_85/peja.png"
+    },
+    {
+      "name": "rigas zeli",
+      "slug": "rigas-zeli",
+      "tokens": [
+        "rigas",
+        "zeli"
+      ],
+      "localLogo": "logos/enbl/rigas-zeli.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_b060fdd6be1147dfb82a0a56489640c7~mv2.png/v1/fill/w_180,h_180,al_c,q_85/rigas-zeli.png"
+    },
+    {
+      "name": "olomoucko",
+      "slug": "olomoucko",
+      "tokens": [
+        "olomoucko"
+      ],
+      "localLogo": "logos/enbl/olomoucko.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_edcf0d3f80bd4cee8c6525245477a875~mv2.png/v1/fill/w_180,h_180,al_c,q_85/olomoucko.png"
+    },
+    {
+      "name": "bratislava",
+      "slug": "bratislava",
+      "tokens": [
+        "bratislava"
+      ],
+      "localLogo": "logos/enbl/bratislava.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_7f648f30c31c474c8a74ad6cd6b615e0~mv2.png/v1/fill/w_180,h_180,al_c,q_85/bratislava.png"
+    },
+    {
+      "name": "BK Opava",
+      "slug": "bk-opava",
+      "tokens": [
+        "opava"
+      ],
+      "localLogo": "logos/enbl/bk-opava.png",
+      "logoUrl": "https://static.wixstatic.com/media/562ada_a3415124d3aa488da56bf7fe4d46dcd9~mv2.png/v1/fill/w_180,h_180,al_c,q_85/bk-opava.png"
+    },
+    {
+      "name": "Bristol Flyers",
+      "slug": "bristol-flyers",
+      "tokens": [
+        "bristol",
+        "flyers"
+      ],
+      "localLogo": "logos/enbl/bristol-flyers.png",
+      "logoUrl": "https://static.wixstatic.com/media/562ada_e3a2374d84d9457aa1bad33440b34532~mv2.png/v1/fill/w_180,h_180,al_c,q_85/bristol-flyers.png"
+    },
+    {
+      "name": "brussels",
+      "slug": "brussels",
+      "tokens": [
+        "brussels"
+      ],
+      "localLogo": "logos/enbl/brussels.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_374bdb47c9e64d2da010d777efb2c28f~mv2.png/v1/fill/w_180,h_180,al_c,q_85/brussels.png"
+    },
+    {
+      "name": "dubrava",
+      "slug": "dubrava",
+      "tokens": [
+        "dubrava"
+      ],
+      "localLogo": "logos/enbl/dubrava.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_b3c545f17f8d43e7b17718c13079459e~mv2.png/v1/fill/w_180,h_180,al_c,q_85/dubrava.png"
+    },
+    {
+      "name": "tindastoll",
+      "slug": "tindastoll",
+      "tokens": [
+        "tindastoll"
+      ],
+      "localLogo": "logos/enbl/tindastoll.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_f5c91ae757cf4db684b201643a2ef312~mv2.png/v1/fill/w_180,h_180,al_c,q_85/tindastoll.png"
+    },
+    {
+      "name": "taltech",
+      "slug": "taltech",
+      "tokens": [
+        "taltech"
+      ],
+      "localLogo": "logos/enbl/taltech.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_53836d8e39a240f9a932fc1f6ba58808~mv2.png/v1/fill/w_180,h_180,al_c,q_85/taltech.png"
+    },
+    {
+      "name": "Syntainics",
+      "slug": "syntainics",
+      "tokens": [
+        "syntainics"
+      ],
+      "localLogo": "logos/enbl/syntainics.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_8affb18c8a9e48f782b960ef884e41f4~mv2.png/v1/fill/w_180,h_180,al_c,q_85/syntainics.png"
+    },
+    {
+      "name": "BC Spartak Pleven",
+      "slug": "bc-spartak-pleven",
+      "tokens": [
+        "spartak",
+        "pleven"
+      ],
+      "localLogo": "logos/enbl/bc-spartak-pleven.png",
+      "logoUrl": "https://static.wixstatic.com/media/562ada_b00ef122faa84b549b229b61021df1e1~mv2.png/v1/fill/w_180,h_180,al_c,q_85/bc-spartak-pleven.png"
+    },
+    {
+      "name": "Fyllingen Basket",
+      "slug": "fyllingen-basket",
+      "tokens": [
+        "fyllingen"
+      ],
+      "localLogo": "logos/enbl/fyllingen-basket.png",
+      "logoUrl": "https://static.wixstatic.com/media/562ada_04bdc1c6cc4d4ce3b36602c940e72a97~mv2.png/v1/fill/w_180,h_180,al_c,q_85/fyllingen-basket.png"
+    },
+    {
+      "name": "gimle",
+      "slug": "gimle",
+      "tokens": [
+        "gimle"
+      ],
+      "localLogo": "logos/enbl/gimle.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_e9b8c18e73964742a4a2788f3bf8d857~mv2.png/v1/fill/w_180,h_180,al_c,q_85/gimle.png"
+    },
+    {
+      "name": "heften bulls",
+      "slug": "heften-bulls",
+      "tokens": [
+        "heften",
+        "bulls"
+      ],
+      "localLogo": "logos/enbl/heften-bulls.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_a1961f2207c34f49b7eb0456ca7115fa~mv2.png/v1/fill/w_180,h_180,al_c,q_85/heften-bulls.png"
+    },
+    {
+      "name": "irakli",
+      "slug": "irakli",
+      "tokens": [
+        "irakli"
+      ],
+      "localLogo": "logos/enbl/irakli.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_76955396d72f4a6abc739b915d193533~mv2.png/v1/fill/w_180,h_180,al_c,q_85/irakli.png"
+    },
+    {
+      "name": "Valmiera GLASS VIA",
+      "slug": "valmiera-glass-via",
+      "tokens": [
+        "valmiera",
+        "glass",
+        "via"
+      ],
+      "localLogo": "logos/enbl/valmiera-glass-via.png",
+      "logoUrl": "https://static.wixstatic.com/media/562ada_8f6b3a118b0247e5b7a914b6548f2828~mv2.png/v1/fill/w_180,h_180,al_c,q_85/valmiera-glass-via.png"
+    },
+    {
+      "name": "manchester",
+      "slug": "manchester",
+      "tokens": [
+        "manchester"
+      ],
+      "localLogo": "logos/enbl/manchester.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_f6c9fabf73a7493d979f1b3baadd92e2~mv2.png/v1/fill/w_180,h_180,al_c,q_85/manchester.png"
+    },
+    {
+      "name": "Donar Groningen",
+      "slug": "donar-groningen",
+      "tokens": [
+        "donar",
+        "groningen"
+      ],
+      "localLogo": "logos/enbl/donar-groningen.png",
+      "logoUrl": "https://static.wixstatic.com/media/562ada_1b1ec5e707874decba628613c7620d6f~mv2.png/v1/fill/w_180,h_180,al_c,q_85/donar-groningen.png"
+    },
+    {
+      "name": "jonava",
+      "slug": "jonava",
+      "tokens": [
+        "jonava"
+      ],
+      "localLogo": "logos/enbl/jonava.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_e304e1174377458aac3eb11b579f5e7a~mv2.png/v1/fill/w_180,h_180,al_c,q_85/jonava.png"
+    },
+    {
+      "name": "ael",
+      "slug": "ael",
+      "tokens": [
+        "ael",
+        "tria",
+        "eka"
+      ],
+      "localLogo": "logos/enbl/ael.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_de2584f7b3f449fa86378da3ecf92dd9~mv2.png/v1/fill/w_180,h_180,al_c,q_85/ael.png"
+    },
+    {
+      "name": "zrinski",
+      "slug": "zrinski",
+      "tokens": [
+        "zrinski",
+        "zrinjski",
+        "mostar"
+      ],
+      "localLogo": "logos/enbl/zrinski.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_6d2c16f0164e4613b5f099f677b7ca74~mv2.png/v1/fill/w_180,h_180,al_c,q_85/zrinski.png"
+    },
+    {
+      "name": "CSO VOLUNTARI",
+      "slug": "cso-voluntari",
+      "tokens": [
+        "cso",
+        "voluntari"
+      ],
+      "localLogo": "logos/enbl/cso-voluntari.png",
+      "logoUrl": "https://static.wixstatic.com/media/562ada_0753655d5c6e4e8f87bbb11e2a689e76~mv2.png/v1/fill/w_180,h_180,al_c,q_85/cso-voluntari.png"
+    },
+    {
+      "name": "anwil",
+      "slug": "anwil",
+      "tokens": [
+        "anwil"
+      ],
+      "localLogo": "logos/enbl/anwil.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_b9aba58db80c4938b4e37b9a0e9a3f0c~mv2.png/v1/fill/w_180,h_180,al_c,q_85/anwil.png"
+    },
+    {
+      "name": "ciu",
+      "slug": "ciu",
+      "tokens": [
+        "ciu"
+      ],
+      "localLogo": "logos/enbl/ciu.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_dd7d1120eff24fb29b3fd7ed27350746~mv2.png/v1/fill/w_180,h_180,al_c,q_85/ciu.png"
+    },
+    {
+      "name": "foxes",
+      "slug": "foxes",
+      "tokens": [
+        "foxes"
+      ],
+      "localLogo": "logos/enbl/foxes.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_17683909d16f401e9fc795d04890933f~mv2.png/v1/fill/w_180,h_180,al_c,q_85/foxes.png"
+    },
+    {
+      "name": "liepaja",
+      "slug": "liepaja",
+      "tokens": [
+        "liepaja"
+      ],
+      "localLogo": "logos/enbl/liepaja.png",
+      "logoUrl": "https://static.wixstatic.com/media/21fba2_5cefcf3ab1ff49588413989993b38c65~mv2.png/v1/fill/w_180,h_180,al_c,q_85/liepaja.png"
+    },
+    {
+      "name": "BC Hipocredit",
+      "slug": "bc-hipocredit",
+      "tokens": [
+        "hipocredit",
+        "jonava"
+      ],
+      "localLogo": "logos/enbl/bc-hipocredit.png",
+      "logoUrl": "https://bcjonavahipocredit.lt/assets/images/logo.png"
+    },
+    {
+      "name": "Alkar Sinj",
+      "slug": "alkar-sinj",
+      "tokens": [
+        "alkar",
+        "sinj"
+      ],
+      "localLogo": "logos/enbl/alkar-sinj.png",
+      "logoUrl": "https://images.statsengine.playbyplay.api.geniussports.com/260163d671e8dbbca7388354cde40ebaT1.png"
+    }
+  ]
+}

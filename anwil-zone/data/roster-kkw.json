@@ -1,0 +1,209 @@
+{
+  "source": "https://kkwloclawek.pl/sklad",
+  "scrapedAt": "2026-09-25T19:30:57.551Z",
+  "season": "2026/2027",
+  "count": 12,
+  "staffCount": 6,
+  "players": [
+    {
+      "name": "Hans Vanwijn",
+      "number": 0,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,289",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/636728f330072467c6a287ee8c3027d8_1789728294_org.jpg",
+      "position": "silny skrzydłowy",
+      "height": "207 cm",
+      "country": "Belgia",
+      "birthDate": "15-02-1995",
+      "contract": "Umowa między klubem i zawodnikiem została podpisana do końca sezonu 2026/27 z 6-cio tygodniowym try-outem.",
+      "instagram": "https://www.instagram.com/hvw9/",
+      "localPhoto": "roster-photos/zaw-hans-vanwijn.jpg"
+    },
+    {
+      "name": "Josiah Strong",
+      "number": 2,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,291",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/4aef62fbf9f7b18c8b5faf34964d82bc_1789728607_org.jpg",
+      "position": "rozgrywający / rzucający obrońca",
+      "height": "193 cm",
+      "country": "Stany Zjednoczone",
+      "birthDate": "17-09-1999",
+      "contract": "Umowa między klubem i zawodnikiem została podpisana do końca sezonu 2026/27.",
+      "instagram": "https://www.instagram.com/jstrong_2/",
+      "localPhoto": "roster-photos/zaw-josiah-strong.jpg"
+    },
+    {
+      "name": "Mateusz Szlachetka",
+      "number": 4,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,292",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/b0ce4996b9b9286a7c16cc54c4b6eab2_1789728628_org.jpg",
+      "position": "rozgrywający / rzucający",
+      "height": "196 cm",
+      "country": "Polska",
+      "birthDate": "21-03-1999",
+      "contract": "Umowa między klubem i zawodnikiem została podpisana do końca sezonu 2026/27 z obustronną opcją przedłużenia jej o kolejny rok.",
+      "instagram": "https://www.instagram.com/mateusz_szlachetka04/",
+      "localPhoto": "roster-photos/zaw-mateusz-szlachetka.jpg"
+    },
+    {
+      "name": "Lennard Freeman",
+      "number": 5,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,293",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/e0b35c1b9e483154d093e0c91bf9c540_1789728644_org.jpg",
+      "position": "środkowy",
+      "height": "203 cm",
+      "country": "Stany Zjednoczone",
+      "birthDate": "10-12-1995",
+      "contract": "Umowa między klubem i zawodnikiem została podpisana do końca sezonu 2026/27.",
+      "instagram": null,
+      "localPhoto": "roster-photos/zaw-lennard-freeman.jpg"
+    },
+    {
+      "name": "Adam Brenk",
+      "number": 7,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,294",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/87ae68a420219c67d67595653146db03_1789728680_org.jpg",
+      "position": "obrońca",
+      "height": "192 cm",
+      "country": "Polska",
+      "birthDate": "08-05-1995",
+      "contract": "Umowa między klubem i zawodnikiem została podpisana do końca sezonu 2026/27.",
+      "instagram": null,
+      "localPhoto": "roster-photos/zaw-adam-brenk.jpg"
+    },
+    {
+      "name": "Jack Forrest",
+      "number": 24,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,295",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/8e7a6a25947f92fc82e7aacba13a4f9b_1789728708_org.jpg",
+      "position": "rzucający obrońca / niski skrzydłowy",
+      "height": "196 cm",
+      "country": "Stany Zjednoczone",
+      "birthDate": "15-08-2000",
+      "contract": "Umowa między klubem i zawodnikiem została podpisana do końca sezonu 2026/27.",
+      "instagram": "https://www.instagram.com/jack4est/",
+      "localPhoto": "roster-photos/zaw-jack-forrest.jpg"
+    },
+    {
+      "name": "Sam Hines Jr",
+      "number": 8,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,296",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/90442bfe08dd972317ae5a79d290c80d_1789728734_org.jpg",
+      "position": "niski skrzydłowy",
+      "height": "197 cm",
+      "country": "Stany Zjednoczone",
+      "birthDate": "26-03-2002",
+      "contract": "Umowa między klubem i zawodnikiem została podpisana do końca sezonu 2026/27.",
+      "instagram": "https://www.instagram.com/iamshj18/",
+      "localPhoto": "roster-photos/zaw-sam-hines-jr.jpg"
+    },
+    {
+      "name": "Manu Lecomte",
+      "number": 20,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,297",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/5e7d866a08b848f003b8ea5df8b0f254_1789728828_org.jpg",
+      "position": "rozgrywający",
+      "height": "180 cm",
+      "country": "Belgia",
+      "birthDate": "16-08-1995",
+      "contract": "Umowa między klubem i zawodnikiem została podpisana do końca sezonu 2026/27.",
+      "instagram": "https://www.instagram.com/manulecomte20/",
+      "localPhoto": "roster-photos/zaw-manu-lecomte.jpg"
+    },
+    {
+      "name": "Szymon Wójcik",
+      "number": 9,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,298",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/e38cdb2adae15c4b3c09e30f2de465d8_1789728787_org.jpg",
+      "position": "silny skrzydłowy / środkowy",
+      "height": "208 cm",
+      "country": "Polska",
+      "birthDate": "11-11-1999",
+      "contract": "Umowa między klubem i zawodnikiem została podpisana do końca sezonu 2026/27.",
+      "instagram": "https://www.instagram.com/szymoney10/",
+      "localPhoto": "roster-photos/zaw-szymon-wojcik.jpg"
+    },
+    {
+      "name": "Dawid Słupiński",
+      "number": 16,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,300",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/cd070af8f77411477814387f54ef6280_1789728886_org.jpg",
+      "position": "środkowy",
+      "height": "206 cm",
+      "country": "Polska",
+      "birthDate": "16-04-1992",
+      "contract": "Umowa została podpisana do końca sezonu 2026/2027",
+      "instagram": "https://www.instagram.com/slupina_chlopina/",
+      "localPhoto": "roster-photos/zaw-dawid-slupinski.jpg"
+    },
+    {
+      "name": "Bartosz Łazarski",
+      "number": 11,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,299",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/6e387edb42adf0ba364f536c99cca381_1789728858_org.jpg",
+      "position": "rzucający obrońca",
+      "height": "193 cm",
+      "country": "Polska",
+      "birthDate": "25-07-2007",
+      "contract": "Kontrakt został podpisany na trzy sezony, z klauzulami.",
+      "instagram": "https://www.instagram.com/___lazar11___/",
+      "localPhoto": "roster-photos/zaw-bartosz-lazarski.jpg"
+    },
+    {
+      "name": "Wiktor Szcześko",
+      "number": 1,
+      "url": "https://kkwloclawek.pl/strona,zawodnik,290",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/a121d2a3d4babf9799f41e9b2e4fdb6b_1789728404_org.jpg",
+      "position": "środkowy",
+      "height": "208 cm",
+      "country": "Polska / Niemcy",
+      "birthDate": "20-01-2008",
+      "contract": "Umowa została podpisana na mocy dwuletniej umowy trójstronnej pomiędzy KKW, TKM Włocławek oraz zawodnikiem.",
+      "instagram": null,
+      "localPhoto": "roster-photos/zaw-wiktor-szczesko.jpg"
+    }
+  ],
+  "staff": [
+    {
+      "name": "Vedran Bosnić",
+      "role": "Trener",
+      "url": "https://kkwloclawek.pl/strona,trener,301",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/9d1a2476562b38af4576864be898b6e7_1789734989_org.jpg",
+      "localPhoto": "roster-photos/sztab-vedran-bosnic.jpg"
+    },
+    {
+      "name": "Ahmet Pasalić",
+      "role": "Asystent trenera",
+      "url": "https://kkwloclawek.pl/strona,trener,302",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/60746f3ab0c264bdc98dc7a24afc9b83_1789735044_org.jpg",
+      "localPhoto": "roster-photos/sztab-ahmet-pasalic.jpg"
+    },
+    {
+      "name": "Marcin Woźniak",
+      "role": "Asystent trenera",
+      "url": "https://kkwloclawek.pl/strona,trener,303",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/297a1514298f02ddd711b58af899aa9e_1789735063_org.jpg",
+      "localPhoto": "roster-photos/sztab-marcin-wozniak.jpg"
+    },
+    {
+      "name": "Łukasz Orzechowski",
+      "role": "Trener przygotowania fizycznego",
+      "url": "https://kkwloclawek.pl/strona,trener,305",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/880e24da3bbdac17308eba09144d709d_1789735112_org.jpg",
+      "localPhoto": "roster-photos/sztab-lukasz-orzechowski.jpg"
+    },
+    {
+      "name": "Marta Adamczak",
+      "role": "Fizjoterapeutka",
+      "url": "https://kkwloclawek.pl/strona,trener,304",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/ecb1424df9990a8529e2358fef9dc1dd_1789735086_org.jpg",
+      "localPhoto": "roster-photos/sztab-marta-adamczak.jpg"
+    },
+    {
+      "name": "Julia Natalia Baranowska",
+      "role": "Fizjoterapeutka",
+      "url": "https://kkwloclawek.pl/strona,trener,306",
+      "photoUrl": "https://kkwloclawek.pl/files/icons/team/ace7d7a9ea4ddefe0b072ede82fbfb17_1789735129_org.jpg",
+      "localPhoto": "roster-photos/sztab-julia-natalia-baranowska.jpg"
+    }
+  ]
+}

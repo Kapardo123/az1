@@ -1,7 +1,7 @@
 {
   "source": "https://sklep.kkwloclawek.pl",
-  "scrapedAt": "2026-07-20T16:27:35.149Z",
-  "count": 103,
+  "scrapedAt": "2026-09-19T14:44:35.391Z",
+  "count": 106,
   "categories": [
     {
       "id": 140,
@@ -13,19 +13,19 @@
       "id": 65,
       "name": "Damska",
       "slug": "damska",
-      "count": 19
+      "count": 25
     },
     {
       "id": 66,
       "name": "Dziecięca",
       "slug": "dziecieca",
-      "count": 25
+      "count": 27
     },
     {
       "id": 46,
       "name": "Gadżety",
       "slug": "gadzety",
-      "count": 50
+      "count": 46
     },
     {
       "id": 63,
@@ -37,28 +37,455 @@
       "id": 64,
       "name": "Męska",
       "slug": "meska",
-      "count": 35
+      "count": 38
     },
     {
       "id": 44,
       "name": "Odzież",
       "slug": "odziez",
-      "count": 60
+      "count": 65
     },
     {
       "id": 47,
       "name": "Promocje",
       "slug": "promocje",
-      "count": 73
+      "count": 70
     },
     {
       "id": 185,
       "name": "RottWear",
       "slug": "rottwear",
-      "count": 30
+      "count": 37
     }
   ],
   "products": [
+    {
+      "id": 26070,
+      "name": "Skarpetki stopki – Rottwear – Białe",
+      "slug": "skarpetki-stopki-rottwear-biale",
+      "url": "https://sklep.kkwloclawek.pl/produkt/skarpetki-stopki-rottwear-biale",
+      "sku": null,
+      "price": 22,
+      "regularPrice": 22,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "35-37",
+        "38-40",
+        "41-43",
+        "44-46"
+      ],
+      "options": [
+        {
+          "name": "Rozmiar",
+          "terms": [
+            "35-37",
+            "38-40",
+            "41-43",
+            "44-46"
+          ]
+        }
+      ],
+      "variants": {
+        "44-46": 26077,
+        "41-43": 26075,
+        "38-40": 26073,
+        "35-37": 26071
+      },
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Damska",
+        "Dziecięca"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Stopki-4.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Stopki-4.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Stopki-4.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Stopki-biale-1.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Stopki-biale-2.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Stopki-biale-3.jpg"
+      ],
+      "localImage": "shop-images/26070.jpg"
+    },
+    {
+      "id": 26053,
+      "name": "Skarpetki długie – Rottwear – Białe",
+      "slug": "skarpetki-dlugie-rottwear-biale",
+      "url": "https://sklep.kkwloclawek.pl/produkt/skarpetki-dlugie-rottwear-biale",
+      "sku": null,
+      "price": 29,
+      "regularPrice": 29,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "35-37",
+        "38-40",
+        "41-43",
+        "44-46"
+      ],
+      "options": [
+        {
+          "name": "Rozmiar",
+          "terms": [
+            "35-37",
+            "38-40",
+            "41-43",
+            "44-46"
+          ]
+        }
+      ],
+      "variants": {
+        "44-46": 26060,
+        "41-43": 26058,
+        "38-40": 26056,
+        "35-37": 26054
+      },
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Damska",
+        "Dziecięca"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Skarpety-biale-4.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Skarpety-biale-4.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Skarpety-biale.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Skarpety-biale-4.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Skarpety-biale-3.jpg"
+      ],
+      "localImage": "shop-images/26053.jpg"
+    },
+    {
+      "id": 26022,
+      "name": "Skarpetki długie – Rottwear – Niebieskie",
+      "slug": "skarpetki-dlugie-rottwear-niebieskie",
+      "url": "https://sklep.kkwloclawek.pl/produkt/skarpetki-dlugie-rottwear-niebieskie",
+      "sku": null,
+      "price": 26,
+      "regularPrice": 26,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "35-37",
+        "38-40",
+        "41-43",
+        "44-46"
+      ],
+      "options": [
+        {
+          "name": "Rozmiar",
+          "terms": [
+            "35-37",
+            "38-40",
+            "41-43",
+            "44-46"
+          ]
+        }
+      ],
+      "variants": {
+        "44-46": 26029,
+        "41-43": 26027,
+        "38-40": 26025,
+        "35-37": 26023
+      },
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Damska",
+        "Dziecięca"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/zdjecie_3_skarpety_anwil.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/zdjecie_3_skarpety_anwil.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/zdjecie_1_skarpety_anwil.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/zdjecie_2_skarpety_anwil.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/zdjecie_3_skarpety_anwil.jpg"
+      ],
+      "localImage": "shop-images/26022.jpg"
+    },
+    {
+      "id": 25693,
+      "name": "Czapka z daszkiem AW Anwil Włocławek",
+      "slug": "czapka-z-daszkiem-aw-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/czapka-z-daszkiem-aw-anwil-wloclawek",
+      "sku": null,
+      "price": 129,
+      "regularPrice": 129,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [],
+      "options": [
+        {
+          "name": "Kolor",
+          "terms": [
+            "czarny",
+            "beżowy",
+            "granatowy",
+            "różowy",
+            "szary"
+          ]
+        }
+      ],
+      "variants": {
+        "szary": 25703,
+        "różowy": 25701,
+        "granatowy": 25699,
+        "beżowy": 25697,
+        "czarny": 25695
+      },
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Czapki-zbiorcze.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Czapki-zbiorcze.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Pink.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/Pink2.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/CZ-5.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/CZ-4.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/CZ-10.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/CZ-11.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/9BD4CE2B-A4C6-4BA6-AB73-3AD14E5DD5E5.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/09/E1507594-2FC5-425C-9109-B83609DE1745.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK017.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK018.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK023.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK062.jpg"
+      ],
+      "localImage": "shop-images/25693.jpg"
+    },
+    {
+      "id": 25657,
+      "name": "Parkiet Hala Mistrzów Anwil Włocławek",
+      "slug": "parkiet-hala-mistrzow-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/parkiet-hala-mistrzow-anwil-wloclawek",
+      "sku": null,
+      "price": 79,
+      "regularPrice": 79,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": false,
+      "purchasable": true,
+      "type": "simple",
+      "hasOptions": false,
+      "sizes": [],
+      "options": [],
+      "variants": {},
+      "categories": [
+        "Gadżety"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/Parkiet.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/Parkiet.jpg"
+      ],
+      "localImage": "shop-images/25657.jpg"
+    },
+    {
+      "id": 25532,
+      "name": "T-shirt Blue Shadow Kids Anwil Włocławek",
+      "slug": "t-shirt-basketball-kids-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-basketball-kids-anwil-wloclawek",
+      "sku": null,
+      "price": 67,
+      "regularPrice": 67,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "98-104",
+        "110-116",
+        "122-128",
+        "134-146",
+        "152-158"
+      ],
+      "options": [
+        {
+          "name": "Rozmiar",
+          "terms": [
+            "98-104",
+            "110-116",
+            "122-128",
+            "134-146",
+            "152-158"
+          ]
+        }
+      ],
+      "variants": {
+        "152-158": 25559,
+        "134-146": 25557,
+        "122-128": 25555,
+        "110-116": 25553,
+        "98-104": 25551
+      },
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Dziecięca"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PK_Emilia002.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PK_Emilia002.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK076.jpg"
+      ],
+      "localImage": "shop-images/25532.jpg"
+    },
+    {
+      "id": 25512,
+      "name": "T-shirt Basketball Anwil Włocławek",
+      "slug": "t-shirt-basketball-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-basketball-anwil-wloclawek",
+      "sku": null,
+      "price": 89,
+      "regularPrice": 89,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "options": [
+        {
+          "name": "Rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL"
+          ]
+        }
+      ],
+      "variants": {
+        "4XL": 25527,
+        "3XL": 25525,
+        "XXL": 25523,
+        "XL": 25521,
+        "L": 25519,
+        "M": 25517,
+        "S": 25515,
+        "XS": 25513
+      },
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK023.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK023.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK018.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK062.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/Tabela-rozmiarow-e1787904945454.jpg"
+      ],
+      "localImage": "shop-images/25512.jpg"
+    },
+    {
+      "id": 25487,
+      "name": "T-shirt Blue Shadow Anwil Włocławek",
+      "slug": "t-shirt-blue-shadow-anwil-wloclawek",
+      "url": "https://sklep.kkwloclawek.pl/produkt/t-shirt-blue-shadow-anwil-wloclawek",
+      "sku": null,
+      "price": 89,
+      "regularPrice": 89,
+      "salePrice": null,
+      "currency": "PLN",
+      "onSale": false,
+      "inStock": true,
+      "purchasable": true,
+      "type": "variable",
+      "hasOptions": true,
+      "sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "XXL",
+        "3XL",
+        "4XL"
+      ],
+      "options": [
+        {
+          "name": "Rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL"
+          ]
+        }
+      ],
+      "variants": {
+        "4XL": 25502,
+        "XXL": 25498,
+        "XL": 25496,
+        "L": 25494,
+        "M": 25492,
+        "S": 25490,
+        "XS": 25488
+      },
+      "categories": [
+        "RottWear",
+        "Odzież",
+        "Męska",
+        "Damska"
+      ],
+      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK027-1.jpg",
+      "images": [
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK027-1.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/20260826PF_PK017.jpg",
+        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/08/Tabela-rozmiarow-e1787904945454.jpg"
+      ],
+      "localImage": "shop-images/25487.jpg"
+    },
     {
       "id": 24827,
       "name": "Saszetka Nerka Anwil Włocławek BLACK",
@@ -75,6 +502,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "RottWear",
         "Gadżety"
@@ -111,6 +540,31 @@
         "3XL",
         "4XL"
       ],
+      "options": [
+        {
+          "name": "Rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL",
+            "4XL"
+          ]
+        }
+      ],
+      "variants": {
+        "4XL": 24315,
+        "3XL": 24313,
+        "XXL": 24311,
+        "XL": 24309,
+        "L": 24307,
+        "M": 24305,
+        "S": 24303,
+        "XS": 24301
+      },
       "categories": [
         "RottWear",
         "Męska"
@@ -146,6 +600,24 @@
         "XXL",
         "3XL"
       ],
+      "options": [
+        {
+          "name": "Rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+          ]
+        }
+      ],
+      "variants": {
+        "S": 23918,
+        "XS": 23916
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -176,6 +648,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -207,6 +681,25 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXL": 23534,
+        "XL": 23532,
+        "L": 23530,
+        "M": 23528,
+        "S": 23526
+      },
       "categories": [
         "Odzież",
         "Męska",
@@ -243,6 +736,21 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "S": 23537
+      },
       "categories": [
         "Odzież",
         "Męska",
@@ -279,6 +787,25 @@
         "152/158",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "134/146",
+            "152/158",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "98/104": 23517,
+        "152/158": 23515,
+        "134/146": 23513,
+        "122/128": 23511,
+        "110/116": 23509
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -319,6 +846,26 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "4XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "M": 23486,
+        "S": 23484,
+        "XS": 23482
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -361,6 +908,29 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "4XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXL": 23472,
+        "XL": 23460,
+        "L": 23458,
+        "M": 23456,
+        "S": 23454,
+        "XS": 23452
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -393,6 +963,19 @@
       "type": "variable",
       "hasOptions": true,
       "sizes": [],
+      "options": [
+        {
+          "name": "kolor",
+          "terms": [
+            "Granatowy",
+            "Szary"
+          ]
+        }
+      ],
+      "variants": {
+        "Szary": 23118,
+        "Granatowy": 23109
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -423,6 +1006,27 @@
       "type": "variable",
       "hasOptions": true,
       "sizes": [],
+      "options": [
+        {
+          "name": "kolor",
+          "terms": [
+            "Czarny",
+            "Niebieski",
+            "Szary",
+            "Beżowy",
+            "Biały",
+            "Różowy"
+          ]
+        }
+      ],
+      "variants": {
+        "Różowy": 23092,
+        "Beżowy": 23081,
+        "Biały": 23044,
+        "Szary": 22979,
+        "Niebieski": 22977,
+        "Czarny": 22975
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -455,6 +1059,21 @@
       "type": "variable",
       "hasOptions": true,
       "sizes": [],
+      "options": [
+        {
+          "name": "Zapach",
+          "terms": [
+            "MISS MADY",
+            "GENTLEMAN",
+            "NEW CAR"
+          ]
+        }
+      ],
+      "variants": {
+        "NEW CAR": 22931,
+        "GENTLEMAN": 22929,
+        "MISS MADY": 22927
+      },
       "categories": [
         "Gadżety"
       ],
@@ -482,6 +1101,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -495,35 +1116,6 @@
         "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/20260123PK_Sklep088.jpg"
       ],
       "localImage": "shop-images/22917.jpg"
-    },
-    {
-      "id": 22845,
-      "name": "KALENDARZ 2026 ANWIL WŁOCŁAWEK",
-      "slug": "kalendarz-2026-anwil-wloclawek",
-      "url": "https://sklep.kkwloclawek.pl/produkt/kalendarz-2026-anwil-wloclawek",
-      "sku": null,
-      "price": 30,
-      "regularPrice": 49,
-      "salePrice": 30,
-      "currency": "PLN",
-      "onSale": true,
-      "inStock": false,
-      "purchasable": true,
-      "type": "simple",
-      "hasOptions": false,
-      "sizes": [],
-      "categories": [
-        "Gadżety",
-        "Promocje"
-      ],
-      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/0.jpg",
-      "images": [
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/0.jpg",
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/3.jpg",
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/1.jpg",
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2026/01/4.jpg"
-      ],
-      "localImage": "shop-images/22845.jpg"
     },
     {
       "id": 21720,
@@ -541,6 +1133,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -570,6 +1164,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -606,6 +1202,25 @@
         "158/164",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "134/140",
+            "146/152",
+            "158/164",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "134/140": 21705,
+        "122/128": 21703,
+        "110/116": 21701,
+        "98/104": 21699
+      },
       "categories": [
         "4F",
         "Odzież",
@@ -641,6 +1256,26 @@
         "158/164",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "134/140",
+            "146/152",
+            "158/164",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "146/152": 21690,
+        "134/140": 21688,
+        "122/128": 21686,
+        "110/116": 21684,
+        "98/104": 21682
+      },
       "categories": [
         "4F",
         "Odzież",
@@ -677,6 +1312,25 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "L": 21666,
+        "M": 21664,
+        "S": 21662
+      },
       "categories": [
         "4F",
         "Odzież",
@@ -717,6 +1371,23 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "L": 21643
+      },
       "categories": [
         "4F",
         "Odzież",
@@ -756,6 +1427,26 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XL": 21625,
+        "L": 21623,
+        "M": 21621,
+        "S": 21619
+      },
       "categories": [
         "4F",
         "Odzież",
@@ -796,6 +1487,25 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XL": 21604,
+        "M": 21600,
+        "S": 21598
+      },
       "categories": [
         "4F",
         "Odzież",
@@ -834,6 +1544,24 @@
         "158/164",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "134/140",
+            "146/152",
+            "158/164",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "122/128": 21392,
+        "110/116": 21390,
+        "158/164": 21386
+      },
       "categories": [
         "Dziecięca",
         "Kappa",
@@ -869,6 +1597,25 @@
         "158/164",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "134/140",
+            "146/152",
+            "158/164",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "146/152": 21320,
+        "134/140": 21318,
+        "122/128": 21316,
+        "110/116": 21314
+      },
       "categories": [
         "Dziecięca",
         "Kappa",
@@ -904,6 +1651,27 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXL": 21300,
+        "XL": 21298,
+        "L": 21296,
+        "M": 21294,
+        "S": 21292
+      },
       "categories": [
         "Odzież",
         "Męska",
@@ -943,6 +1711,27 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXL": 21278,
+        "XL": 21276,
+        "L": 21274,
+        "M": 21272,
+        "S": 21270
+      },
       "categories": [
         "Odzież",
         "Męska",
@@ -982,6 +1771,27 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXXL": 21250,
+        "XXL": 21248,
+        "XL": 21246,
+        "L": 21244,
+        "M": 21242
+      },
       "categories": [
         "Odzież",
         "Męska",
@@ -1022,6 +1832,27 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXXL": 21216,
+        "XXL": 21214,
+        "XL": 21212,
+        "L": 21210,
+        "M": 21208
+      },
       "categories": [
         "Odzież",
         "Męska",
@@ -1064,6 +1895,27 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "4XL",
+            "5XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXL": 21037,
+        "3XL": 21023,
+        "S": 21019
+      },
       "categories": [
         "RottWear",
         "Męska",
@@ -1101,6 +1953,27 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XL": 20673,
+        "L": 20671,
+        "M": 20669,
+        "S": 20667,
+        "XS": 20665
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -1135,6 +2008,18 @@
         "XS",
         "S"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S"
+          ]
+        }
+      ],
+      "variants": {
+        "S": 23891
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -1174,6 +2059,28 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "L": 20703,
+        "M": 20701,
+        "S": 20699,
+        "XS": 20697,
+        "XXL": 20695,
+        "XL": 20693
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -1206,6 +2113,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -1232,6 +2141,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1264,6 +2175,22 @@
         "41-43",
         "44-46"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "32-34",
+            "35-37",
+            "38-40",
+            "41-43",
+            "44-46"
+          ]
+        }
+      ],
+      "variants": {
+        "35-37": 20315,
+        "32-34": 20313
+      },
       "categories": [
         "Odzież",
         "Dziecięca",
@@ -1299,6 +2226,25 @@
         "152/158",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "146/152",
+            "158/164",
+            "134/146",
+            "152/158",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "122/128": 20251,
+        "158/164": 20249,
+        "146/152": 20247
+      },
       "categories": [
         "RottWear",
         "Dziecięca",
@@ -1335,6 +2281,23 @@
         "152/158",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "146/152",
+            "158/164",
+            "134/146",
+            "152/158",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "158/164": 20233
+      },
       "categories": [
         "RottWear",
         "Dziecięca",
@@ -1363,6 +2326,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1389,6 +2354,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -1415,6 +2382,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1442,6 +2411,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1469,6 +2440,20 @@
       "type": "variable",
       "hasOptions": true,
       "sizes": [],
+      "options": [
+        {
+          "name": "Rodzaj",
+          "terms": [
+            "Kratka",
+            "Linia",
+            "3 Linie"
+          ]
+        }
+      ],
+      "variants": {
+        "3 Linie": 20181,
+        "Linia": 20179
+      },
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1501,6 +2486,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1528,6 +2515,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -1574,6 +2563,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -1622,6 +2613,24 @@
         "152/158",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "146/152",
+            "158/164",
+            "134/146",
+            "152/158",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "134/146": 18310,
+        "122/128": 18308
+      },
       "categories": [
         "RottWear",
         "Dziecięca",
@@ -1660,6 +2669,26 @@
         "152/158",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "146/152",
+            "158/164",
+            "134/146",
+            "152/158",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "152/158": 22808,
+        "134/146": 18297,
+        "122/128": 18295,
+        "110/116": 18293
+      },
       "categories": [
         "RottWear",
         "Dziecięca",
@@ -1689,6 +2718,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -1724,6 +2755,23 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XL": 18208
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -1755,6 +2803,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -1782,6 +2832,21 @@
       "type": "variable",
       "hasOptions": true,
       "sizes": [],
+      "options": [
+        {
+          "name": "Zapach",
+          "terms": [
+            "Z'ara Absolute Linen",
+            "More Than Myrrh",
+            "Organic Bamboo"
+          ]
+        }
+      ],
+      "variants": {
+        "Organic Bamboo": 17508,
+        "More Than Myrrh": 17506,
+        "Z’ara Absolute Linen": 17504
+      },
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1811,6 +2876,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1848,6 +2915,24 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "4XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXL": 17421
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -1886,6 +2971,24 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "4XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXL": 17353
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -1915,6 +3018,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1941,6 +3046,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1967,6 +3074,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -1993,6 +3102,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -2019,6 +3130,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -2045,6 +3158,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -2071,6 +3186,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -2105,6 +3222,23 @@
         "152/158",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "146/152",
+            "158/164",
+            "134/146",
+            "152/158",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "110/116": 16657
+      },
       "categories": [
         "RottWear",
         "Dziecięca",
@@ -2128,7 +3262,7 @@
       "salePrice": 159,
       "currency": "PLN",
       "onSale": true,
-      "inStock": true,
+      "inStock": false,
       "purchasable": true,
       "type": "variable",
       "hasOptions": true,
@@ -2141,6 +3275,21 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {},
       "categories": [
         "4F",
         "Odzież",
@@ -2179,6 +3328,25 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XL": 14719,
+        "M": 14715,
+        "XXL": 14706
+      },
       "categories": [
         "4F",
         "Odzież",
@@ -2209,6 +3377,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -2241,6 +3411,24 @@
         "152/158",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "134/146",
+            "152/158",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "134/146": 14638,
+        "122/128": 14636,
+        "110/116": 14634,
+        "98/104": 14632
+      },
       "categories": [
         "RottWear",
         "Dziecięca",
@@ -2279,6 +3467,28 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "4XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "M": 22189,
+        "XXL": 14625,
+        "S": 14619,
+        "XS": 14617,
+        "3XL": 14613
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -2317,6 +3527,27 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "4XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "M": 20467,
+        "XXL": 14606,
+        "S": 14600,
+        "XS": 14598
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -2353,6 +3584,25 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XL": 21526,
+        "L": 21520,
+        "3XL": 14424
+      },
       "categories": [
         "Odzież",
         "Męska",
@@ -2389,6 +3639,22 @@
         "152/158",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "134/146",
+            "152/158",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "110/116": 14254,
+        "98/104": 14252
+      },
       "categories": [
         "RottWear",
         "Dziecięca",
@@ -2424,6 +3690,25 @@
         "L",
         "XL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL"
+          ]
+        }
+      ],
+      "variants": {
+        "XS": 21055,
+        "S": 14169,
+        "XL": 14167,
+        "L": 14165,
+        "M": 14163
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -2463,6 +3748,23 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XL": 13971
+      },
       "categories": [
         "Męska",
         "Kappa",
@@ -2487,7 +3789,7 @@
       "salePrice": 130,
       "currency": "PLN",
       "onSale": true,
-      "inStock": true,
+      "inStock": false,
       "purchasable": true,
       "type": "variable",
       "hasOptions": true,
@@ -2500,6 +3802,21 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {},
       "categories": [
         "Męska",
         "Kappa",
@@ -2535,6 +3852,22 @@
         "41-43",
         "44-46"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "32-34",
+            "35-37",
+            "38-40",
+            "41-43",
+            "44-46"
+          ]
+        }
+      ],
+      "variants": {
+        "35-37": 13839,
+        "32-34": 13837
+      },
       "categories": [
         "Odzież",
         "Dziecięca",
@@ -2568,6 +3901,22 @@
         "41-43",
         "44-46"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "32-34",
+            "35-37",
+            "38-40",
+            "41-43",
+            "44-46"
+          ]
+        }
+      ],
+      "variants": {
+        "35-37": 13826,
+        "32-34": 13824
+      },
       "categories": [
         "Męska",
         "Damska",
@@ -2596,6 +3945,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -2629,6 +3980,23 @@
         "152/158",
         "98/104"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "110/116",
+            "122/128",
+            "134/146",
+            "152/158",
+            "98/104"
+          ]
+        }
+      ],
+      "variants": {
+        "110/116": 13210,
+        "152/158": 13204,
+        "122/128": 13200
+      },
       "categories": [
         "RottWear",
         "Dziecięca",
@@ -2666,6 +4034,24 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XL": 13107,
+        "S": 13101
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -2703,6 +4089,26 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXL": 12456,
+        "S": 12452,
+        "XS": 12451,
+        "3XL": 12450
+      },
       "categories": [
         "RottWear",
         "Odzież",
@@ -2750,6 +4156,28 @@
         "46",
         "47"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "36",
+            "37",
+            "38",
+            "39",
+            "40",
+            "41",
+            "42",
+            "43",
+            "44",
+            "45",
+            "46",
+            "47"
+          ]
+        }
+      ],
+      "variants": {
+        "36": 12427
+      },
       "categories": [
         "Męska",
         "Damska",
@@ -2782,6 +4210,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -2818,6 +4248,25 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "3XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "S": 12395,
+        "XS": 12394,
+        "3XL": 12393
+      },
       "categories": [
         "RottWear",
         "Męska",
@@ -2862,6 +4311,26 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "4XL",
+            "5XL",
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "5XL": 12333,
+        "4XL": 12332
+      },
       "categories": [
         "RottWear",
         "Męska",
@@ -2899,6 +4368,21 @@
         "41-43",
         "44-46"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "32-34",
+            "35-37",
+            "38-40",
+            "41-43",
+            "44-46"
+          ]
+        }
+      ],
+      "variants": {
+        "32-34": 11927
+      },
       "categories": [
         "Dziecięca",
         "Gadżety",
@@ -2910,34 +4394,6 @@
         "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/10.jpg"
       ],
       "localImage": "shop-images/11925.jpg"
-    },
-    {
-      "id": 11922,
-      "name": "ŚLINIAK DZIECIĘCY ANWIL WŁOCŁAWEK",
-      "slug": "sliniak-dzieciecy-anwil-wloclawek",
-      "url": "https://sklep.kkwloclawek.pl/produkt/sliniak-dzieciecy-anwil-wloclawek",
-      "sku": null,
-      "price": 39,
-      "regularPrice": 49,
-      "salePrice": 39,
-      "currency": "PLN",
-      "onSale": true,
-      "inStock": true,
-      "purchasable": true,
-      "type": "simple",
-      "hasOptions": false,
-      "sizes": [],
-      "categories": [
-        "Dziecięca",
-        "Gadżety",
-        "Promocje"
-      ],
-      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/06.jpg",
-      "images": [
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/06.jpg",
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/04/04.jpg"
-      ],
-      "localImage": "shop-images/11922.jpg"
     },
     {
       "id": 11841,
@@ -2962,6 +4418,26 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXL": 11847,
+        "L": 11845,
+        "M": 11844,
+        "S": 11843,
+        "XS": 11842
+      },
       "categories": [
         "Odzież",
         "Damska",
@@ -2974,41 +4450,6 @@
         "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/03/20240316PF_PK-KWADRAT003.jpg"
       ],
       "localImage": "shop-images/11841.jpg"
-    },
-    {
-      "id": 11710,
-      "name": "SKARPETY dziecięce ANWIL WŁOCŁAWEK- BIAŁE piłki",
-      "slug": "skarpety-klubowe-anwil-wloclawek-biale",
-      "url": "https://sklep.kkwloclawek.pl/produkt/skarpety-klubowe-anwil-wloclawek-biale",
-      "sku": null,
-      "price": 15,
-      "regularPrice": 28,
-      "salePrice": 15,
-      "currency": "PLN",
-      "onSale": true,
-      "inStock": true,
-      "purchasable": true,
-      "type": "variable",
-      "hasOptions": true,
-      "sizes": [
-        "30/34",
-        "35/37",
-        "38/40",
-        "41/43",
-        "44/46"
-      ],
-      "categories": [
-        "Odzież",
-        "Dziecięca",
-        "Gadżety",
-        "Promocje"
-      ],
-      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/01/S-13-scaled.jpg",
-      "images": [
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/01/S-13-scaled.jpg",
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2022/01/S-10-scaled.jpg"
-      ],
-      "localImage": "shop-images/11710.jpg"
     },
     {
       "id": 11633,
@@ -3033,6 +4474,23 @@
         "XL",
         "XXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "XS",
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL"
+          ]
+        }
+      ],
+      "variants": {
+        "S": 11636,
+        "XS": 11635
+      },
       "categories": [
         "Męska",
         "Damska",
@@ -3046,32 +4504,6 @@
         "https://sklep.kkwloclawek.pl/wp-content/uploads/2024/01/84b97969-1394-4aab-a404-c7352cf82b64.jpg"
       ],
       "localImage": "shop-images/11633.jpg"
-    },
-    {
-      "id": 11252,
-      "name": "KARTA KOLEKCJONERSKA IGOR GRISZCZUK",
-      "slug": "karta-kolekcjonerska-igor-griszczuk",
-      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-igor-griszczuk",
-      "sku": null,
-      "price": 10,
-      "regularPrice": 10,
-      "salePrice": null,
-      "currency": "PLN",
-      "onSale": false,
-      "inStock": true,
-      "purchasable": true,
-      "type": "simple",
-      "hasOptions": false,
-      "sizes": [],
-      "categories": [
-        "Gadżety"
-      ],
-      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/363684791_663408069207763_4785297955741447847_n.jpg",
-      "images": [
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/363684791_663408069207763_4785297955741447847_n.jpg",
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/12/386875448_1095831851411576_944674624547517692_n.jpg"
-      ],
-      "localImage": "shop-images/11252.jpg"
     },
     {
       "id": 11247,
@@ -3089,6 +4521,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -3114,6 +4548,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -3139,6 +4575,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -3175,6 +4613,23 @@
         "XXL",
         "XXXL"
       ],
+      "options": [
+        {
+          "name": "rozmiar",
+          "terms": [
+            "S",
+            "M",
+            "L",
+            "XL",
+            "XXL",
+            "XXXL"
+          ]
+        }
+      ],
+      "variants": {
+        "XXXL": 11091,
+        "S": 11086
+      },
       "categories": [
         "Męska",
         "Dziecięca",
@@ -3207,6 +4662,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -3234,6 +4691,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -3260,6 +4719,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety",
         "Promocje"
@@ -3287,6 +4748,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -3313,6 +4776,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -3339,6 +4804,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],
@@ -3348,32 +4815,6 @@
         "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/03/335832167_1276457776299627_4858129371584016448_n.jpg"
       ],
       "localImage": "shop-images/9649.jpg"
-    },
-    {
-      "id": 9527,
-      "name": "KARTA KOLEKCJONERSKA TOMASZ JANKOWSKI",
-      "slug": "karta-kolekcjonerska-tomasz-jankowski",
-      "url": "https://sklep.kkwloclawek.pl/produkt/karta-kolekcjonerska-tomasz-jankowski",
-      "sku": null,
-      "price": 10,
-      "regularPrice": 10,
-      "salePrice": null,
-      "currency": "PLN",
-      "onSale": false,
-      "inStock": true,
-      "purchasable": true,
-      "type": "simple",
-      "hasOptions": false,
-      "sizes": [],
-      "categories": [
-        "Gadżety"
-      ],
-      "image": "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/02/20231002PF_PK108.jpg",
-      "images": [
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/02/20231002PF_PK108.jpg",
-        "https://sklep.kkwloclawek.pl/wp-content/uploads/2023/02/328726116_1621042208318446_7555176505164767104_n.jpg"
-      ],
-      "localImage": "shop-images/9527.jpg"
     },
     {
       "id": 8827,
@@ -3391,6 +4832,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Dziecięca",
         "Gadżety"
@@ -3422,6 +4865,20 @@
         "XXL",
         "3XL"
       ],
+      "options": [
+        {
+          "name": "Rozmiar",
+          "terms": [
+            "L",
+            "XL",
+            "XXL",
+            "3XL"
+          ]
+        }
+      ],
+      "variants": {
+        "3XL": 21506
+      },
       "categories": [
         "Odzież",
         "Męska",
@@ -3451,6 +4908,8 @@
       "type": "simple",
       "hasOptions": false,
       "sizes": [],
+      "options": [],
+      "variants": {},
       "categories": [
         "Gadżety"
       ],

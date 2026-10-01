@@ -1,0 +1,24 @@
+{
+  "source": "https://fibalivestats.dcd.shared.geniussports.com/data/competition/50063.json",
+  "scrapedAt": "2026-09-25T18:19:16.669Z",
+  "competition": "ENBL",
+  "season": "2026/2027",
+  "matches": [
+    {
+      "matchId": 2910551,
+      "status": "COMPLETE",
+      "matchTime": "2026-09-24 18:30:00",
+      "home": "Anwil Wloclawek",
+      "away": "Donar Groningen",
+      "homeScore": 97,
+      "awayScore": 81,
+      "anwilHome": true,
+      "homeTeamId": 144594,
+      "awayTeamId": 177956,
+      "homeLogo": "https://images.statsengine.playbyplay.api.geniussports.com/0a3524e2ea008eac82d0f9e068e4ab8bT1.png",
+      "awayLogo": "https://images.statsengine.playbyplay.api.geniussports.com/9c7a79e58ea509d8cd7067ca897c2ad8T1.png",
+      "url": "https://fibalivestats.dcd.shared.geniussports.com/u/ENBL/2910551/",
+      "completed": true
+    }
+  ]
+}

@@ -1,18 +1,18 @@
 {
   "source": "https://plk.pl/terminarz",
-  "scrapedAt": "2026-07-12T20:45:09.715Z",
-  "season": "2025/2026",
+  "scrapedAt": "2026-09-19T14:25:14.932Z",
+  "season": "2026/2027",
   "team": "anwil-wloclawek",
   "count": 30,
-  "played": 30,
-  "upcoming": 0,
+  "played": 0,
+  "upcoming": 30,
   "matches": [
     {
       "round": 1,
-      "matchId": 200476,
-      "url": "https://plk.pl/mecz/200476/anwil-wloclawek-vs-gornik-zamek-ksiaz-walbrzych",
-      "date": "2026-01-06T20:15:00",
-      "dateRaw": "06.01 20:15",
+      "matchId": 223467,
+      "url": "https://plk.pl/mecz/223467/anwil-wloclawek-vs-gornik-zamek-ksiaz-walbrzych",
+      "date": "2026-10-05T19:00:00",
+      "dateRaw": "05.10 19:00",
       "home": {
         "teamId": 33,
         "slug": "anwil-wloclawek",
@@ -23,164 +23,17 @@
         "slug": "gornik-zamek-ksiaz-walbrzych",
         "name": "Górnik Zamek Książ Wałbrzych"
       },
-      "homeScore": 97,
-      "awayScore": 90,
-      "played": true,
-      "tv": "Polsat Sport 3"
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": "YouTube"
     },
     {
       "round": 2,
-      "matchId": 200482,
-      "url": "https://plk.pl/mecz/200482/anwil-wloclawek-vs-tauron-gtk-gliwice",
-      "date": "2025-10-06T18:00:00",
-      "dateRaw": "06.10 18:00",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 2310,
-        "slug": "tauron-gtk-gliwice",
-        "name": "Tauron GTK Gliwice"
-      },
-      "homeScore": 93,
-      "awayScore": 58,
-      "played": true,
-      "tv": "YouTube"
-    },
-    {
-      "round": 3,
-      "matchId": 200491,
-      "url": "https://plk.pl/mecz/200491/anwil-wloclawek-vs-amw-arka-gdynia",
-      "date": "2025-10-10T20:15:00",
-      "dateRaw": "10.10 20:15",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 121,
-        "slug": "amw-arka-gdynia",
-        "name": "AMW Arka Gdynia"
-      },
-      "homeScore": 98,
-      "awayScore": 108,
-      "played": true,
-      "tv": "Polsat Sport 2"
-    },
-    {
-      "round": 4,
-      "matchId": 200499,
-      "url": "https://plk.pl/mecz/200499/anwil-wloclawek-vs-mks-dabrowa-gornicza",
-      "date": "2025-10-19T15:00:00",
-      "dateRaw": "19.10 15:00",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 1490,
-        "slug": "mks-dabrowa-gornicza",
-        "name": "MKS Dąbrowa Górnicza"
-      },
-      "homeScore": 89,
-      "awayScore": 78,
-      "played": true,
-      "tv": "YouTube"
-    },
-    {
-      "round": 5,
-      "matchId": 200506,
-      "url": "https://plk.pl/mecz/200506/anwil-wloclawek-vs-king-szczecin",
-      "date": "2025-10-26T12:30:00",
-      "dateRaw": "26.10 12:30",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 943,
-        "slug": "king-szczecin",
-        "name": "King Szczecin"
-      },
-      "homeScore": 92,
-      "awayScore": 94,
-      "played": true,
-      "tv": "Polsat Sport 1"
-    },
-    {
-      "round": 6,
-      "matchId": 200516,
-      "url": "https://plk.pl/mecz/200516/legia-warszawa-vs-anwil-wloclawek",
-      "date": "2025-11-01T20:15:00",
-      "dateRaw": "01.11 20:15",
-      "home": {
-        "teamId": 11,
-        "slug": "legia-warszawa",
-        "name": "Legia Warszawa"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 80,
-      "awayScore": 75,
-      "played": true,
-      "tv": "Polsat Sport 2"
-    },
-    {
-      "round": 7,
-      "matchId": 200521,
-      "url": "https://plk.pl/mecz/200521/anwil-wloclawek-vs-pge-start-lublin",
-      "date": "2025-11-08T20:00:00",
-      "dateRaw": "08.11 20:00",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 22,
-        "slug": "pge-start-lublin",
-        "name": "PGE Start Lublin"
-      },
-      "homeScore": 90,
-      "awayScore": 81,
-      "played": true,
-      "tv": "YouTube"
-    },
-    {
-      "round": 8,
-      "matchId": 200533,
-      "url": "https://plk.pl/mecz/200533/arriva-lotto-twarde-pierniki-torun-vs-anwil-wloclawek",
-      "date": "2025-11-15T17:30:00",
-      "dateRaw": "15.11 17:30",
-      "home": {
-        "teamId": 101,
-        "slug": "arriva-lotto-twarde-pierniki-torun",
-        "name": "Arriva LOTTO Twarde Pierniki Toruń"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 95,
-      "awayScore": 101,
-      "played": true,
-      "tv": "Polsat Sport 3"
-    },
-    {
-      "round": 9,
-      "matchId": 200536,
-      "url": "https://plk.pl/mecz/200536/anwil-wloclawek-vs-energa-czarni-slupsk",
-      "date": "2025-11-21T20:15:00",
-      "dateRaw": "21.11 20:15",
+      "matchId": 223470,
+      "url": "https://plk.pl/mecz/223470/anwil-wloclawek-vs-energa-czarni-slupsk",
+      "date": "2026-10-11T17:30:00",
+      "dateRaw": "11.10 17:30",
       "home": {
         "teamId": 33,
         "slug": "anwil-wloclawek",
@@ -191,122 +44,248 @@
         "slug": "energa-czarni-slupsk",
         "name": "Energa Czarni Słupsk"
       },
-      "homeScore": 91,
-      "awayScore": 80,
-      "played": true,
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
       "tv": "Polsat Sport 2"
     },
     {
-      "round": 10,
-      "matchId": 200550,
-      "url": "https://plk.pl/mecz/200550/tasomix-rosiek-stal-ostrow-wielkopolski-vs-anwil-wloclawek",
-      "date": "2025-12-04T20:15:00",
-      "dateRaw": "04.12 20:15",
+      "round": 3,
+      "matchId": 223484,
+      "url": "https://plk.pl/mecz/223484/legia-warszawa-vs-anwil-wloclawek",
+      "date": "2026-10-16T19:00:00",
+      "dateRaw": "16.10 19:00",
       "home": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": "YouTube"
+    },
+    {
+      "round": 4,
+      "matchId": 223485,
+      "url": "https://plk.pl/mecz/223485/zastal-zielona-gora-vs-anwil-wloclawek",
+      "date": "2026-10-24T17:30:00",
+      "dateRaw": "24.10 17:30",
+      "home": {
+        "teamId": 769,
+        "slug": "zastal-zielona-gora",
+        "name": "Zastal Zielona Góra"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": "Polsat Sport 2"
+    },
+    {
+      "round": 5,
+      "matchId": 223500,
+      "url": "https://plk.pl/mecz/223500/anwil-wloclawek-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
+      "date": "2026-10-30T00:00:00",
+      "dateRaw": "30.10 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
         "teamId": 11309,
         "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
         "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
       },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 104,
-      "awayScore": 89,
-      "played": true,
-      "tv": "Polsat Sport 3"
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
     },
     {
-      "round": 11,
-      "matchId": 200551,
-      "url": "https://plk.pl/mecz/200551/anwil-wloclawek-vs-miasto-szkla-krosno",
-      "date": "2025-12-14T12:30:00",
-      "dateRaw": "14.12 12:30",
+      "round": 6,
+      "matchId": 223502,
+      "url": "https://plk.pl/mecz/223502/dziki-warszawa-vs-anwil-wloclawek",
+      "date": "2026-11-08T00:00:00",
+      "dateRaw": "08.11 00:00",
       "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 1820,
-        "slug": "miasto-szkla-krosno",
-        "name": "Miasto Szkła Krosno"
-      },
-      "homeScore": 99,
-      "awayScore": 93,
-      "played": true,
-      "tv": "Polsat Sport 2"
-    },
-    {
-      "round": 12,
-      "matchId": 200566,
-      "url": "https://plk.pl/mecz/200566/orlen-zastal-zielona-gora-vs-anwil-wloclawek",
-      "date": "2025-12-22T19:00:00",
-      "dateRaw": "22.12 19:00",
-      "home": {
-        "teamId": 769,
-        "slug": "orlen-zastal-zielona-gora",
-        "name": "ORLEN Zastal Zielona Góra"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 91,
-      "awayScore": 82,
-      "played": true,
-      "tv": "YouTube"
-    },
-    {
-      "round": 13,
-      "matchId": 200568,
-      "url": "https://plk.pl/mecz/200568/wks-slask-wroclaw-vs-anwil-wloclawek",
-      "date": "2025-12-26T17:30:00",
-      "dateRaw": "26.12 17:30",
-      "home": {
-        "teamId": 110,
-        "slug": "wks-slask-wroclaw",
-        "name": "WKS Śląsk Wrocław"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 86,
-      "awayScore": 79,
-      "played": true,
-      "tv": "Polsat Sport 1"
-    },
-    {
-      "round": 14,
-      "matchId": 200581,
-      "url": "https://plk.pl/mecz/200581/anwil-wloclawek-vs-dziki-warszawa",
-      "date": "2026-01-03T17:30:00",
-      "dateRaw": "03.01 17:30",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
         "teamId": 11257,
         "slug": "dziki-warszawa",
         "name": "Dziki Warszawa"
       },
-      "homeScore": 105,
-      "awayScore": 96,
-      "played": true,
-      "tv": "Polsat Sport 2"
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
     },
     {
-      "round": 15,
-      "matchId": 200585,
-      "url": "https://plk.pl/mecz/200585/energa-trefl-sopot-vs-anwil-wloclawek",
-      "date": "2026-01-10T17:30:00",
-      "dateRaw": "10.01 17:30",
+      "round": 7,
+      "matchId": 223515,
+      "url": "https://plk.pl/mecz/223515/anwil-wloclawek-vs-amw-arka-gdynia",
+      "date": "2026-11-13T00:00:00",
+      "dateRaw": "13.11 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 8,
+      "matchId": 223519,
+      "url": "https://plk.pl/mecz/223519/king-szczecin-vs-anwil-wloclawek",
+      "date": "2026-11-21T00:00:00",
+      "dateRaw": "21.11 00:00",
+      "home": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 9,
+      "matchId": 223530,
+      "url": "https://plk.pl/mecz/223530/anwil-wloclawek-vs-mks-dabrowa-gornicza",
+      "date": "2026-12-07T00:00:00",
+      "dateRaw": "07.12 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 1490,
+        "slug": "mks-dabrowa-gornicza",
+        "name": "MKS Dąbrowa Górnicza"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 10,
+      "matchId": 223536,
+      "url": "https://plk.pl/mecz/223536/enea-laciate-astoria-bydgoszcz-vs-anwil-wloclawek",
+      "date": "2026-12-12T00:00:00",
+      "dateRaw": "12.12 00:00",
+      "home": {
+        "teamId": 4162,
+        "slug": "enea-laciate-astoria-bydgoszcz",
+        "name": "Enea Łaciate Astoria Bydgoszcz"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 11,
+      "matchId": 223545,
+      "url": "https://plk.pl/mecz/223545/gtk-gliwice-vs-anwil-wloclawek",
+      "date": "2026-12-21T00:00:00",
+      "dateRaw": "21.12 00:00",
+      "home": {
+        "teamId": 2310,
+        "slug": "gtk-gliwice",
+        "name": "GTK Gliwice"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 12,
+      "matchId": 223553,
+      "url": "https://plk.pl/mecz/223553/arriva-lotto-twarde-pierniki-torun-vs-anwil-wloclawek",
+      "date": "2026-12-26T00:00:00",
+      "dateRaw": "26.12 00:00",
+      "home": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva Lotto Twarde Pierniki Toruń"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 13,
+      "matchId": 223560,
+      "url": "https://plk.pl/mecz/223560/anwil-wloclawek-vs-wks-slask-wroclaw",
+      "date": "2026-12-03T00:00:00",
+      "dateRaw": "03.12 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 14,
+      "matchId": 223570,
+      "url": "https://plk.pl/mecz/223570/energa-trefl-sopot-vs-anwil-wloclawek",
+      "date": "2027-01-03T00:00:00",
+      "dateRaw": "03.01 00:00",
       "home": {
         "teamId": 112,
         "slug": "energa-trefl-sopot",
@@ -317,17 +296,311 @@
         "slug": "anwil-wloclawek",
         "name": "Anwil Włocławek"
       },
-      "homeScore": 83,
-      "awayScore": 74,
-      "played": true,
-      "tv": "Polsat Sport 2"
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 15,
+      "matchId": 223575,
+      "url": "https://plk.pl/mecz/223575/anwil-wloclawek-vs-pge-start-lublin",
+      "date": "2027-01-07T00:00:00",
+      "dateRaw": "07.01 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
     },
     {
       "round": 16,
-      "matchId": 200596,
-      "url": "https://plk.pl/mecz/200596/gornik-zamek-ksiaz-walbrzych-vs-anwil-wloclawek",
-      "date": "2026-01-17T17:30:00",
-      "dateRaw": "17.01 17:30",
+      "matchId": 223586,
+      "url": "https://plk.pl/mecz/223586/anwil-wloclawek-vs-energa-trefl-sopot",
+      "date": "2027-01-16T00:00:00",
+      "dateRaw": "16.01 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 112,
+        "slug": "energa-trefl-sopot",
+        "name": "Energa Trefl Sopot"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 17,
+      "matchId": 223592,
+      "url": "https://plk.pl/mecz/223592/tasomix-rosiek-stal-ostrow-wielkopolski-vs-anwil-wloclawek",
+      "date": "2027-01-24T00:00:00",
+      "dateRaw": "24.01 00:00",
+      "home": {
+        "teamId": 11309,
+        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
+        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 18,
+      "matchId": 223601,
+      "url": "https://plk.pl/mecz/223601/anwil-wloclawek-vs-zastal-zielona-gora",
+      "date": "2027-01-30T00:00:00",
+      "dateRaw": "30.01 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 769,
+        "slug": "zastal-zielona-gora",
+        "name": "Zastal Zielona Góra"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 19,
+      "matchId": 223609,
+      "url": "https://plk.pl/mecz/223609/anwil-wloclawek-vs-legia-warszawa",
+      "date": "2027-02-07T00:00:00",
+      "dateRaw": "07.02 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 11,
+        "slug": "legia-warszawa",
+        "name": "Legia Warszawa"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 20,
+      "matchId": 223616,
+      "url": "https://plk.pl/mecz/223616/anwil-wloclawek-vs-dziki-warszawa",
+      "date": "2027-02-13T00:00:00",
+      "dateRaw": "13.02 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 11257,
+        "slug": "dziki-warszawa",
+        "name": "Dziki Warszawa"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 21,
+      "matchId": 223626,
+      "url": "https://plk.pl/mecz/223626/pge-start-lublin-vs-anwil-wloclawek",
+      "date": "2027-03-06T00:00:00",
+      "dateRaw": "06.03 00:00",
+      "home": {
+        "teamId": 22,
+        "slug": "pge-start-lublin",
+        "name": "PGE Start Lublin"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 22,
+      "matchId": 223631,
+      "url": "https://plk.pl/mecz/223631/anwil-wloclawek-vs-arriva-lotto-twarde-pierniki-torun",
+      "date": "2027-03-14T00:00:00",
+      "dateRaw": "14.03 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 101,
+        "slug": "arriva-lotto-twarde-pierniki-torun",
+        "name": "Arriva Lotto Twarde Pierniki Toruń"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 23,
+      "matchId": 223643,
+      "url": "https://plk.pl/mecz/223643/anwil-wloclawek-vs-king-szczecin",
+      "date": "2027-03-21T00:00:00",
+      "dateRaw": "21.03 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 943,
+        "slug": "king-szczecin",
+        "name": "King Szczecin"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 24,
+      "matchId": 223646,
+      "url": "https://plk.pl/mecz/223646/wks-slask-wroclaw-vs-anwil-wloclawek",
+      "date": "2027-03-29T00:00:00",
+      "dateRaw": "29.03 00:00",
+      "home": {
+        "teamId": 110,
+        "slug": "wks-slask-wroclaw",
+        "name": "WKS Śląsk Wrocław"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 25,
+      "matchId": 223660,
+      "url": "https://plk.pl/mecz/223660/energa-czarni-slupsk-vs-anwil-wloclawek",
+      "date": "2027-04-04T00:00:00",
+      "dateRaw": "04.04 00:00",
+      "home": {
+        "teamId": 8607,
+        "slug": "energa-czarni-slupsk",
+        "name": "Energa Czarni Słupsk"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 26,
+      "matchId": 223661,
+      "url": "https://plk.pl/mecz/223661/anwil-wloclawek-vs-enea-laciate-astoria-bydgoszcz",
+      "date": "2027-04-10T00:00:00",
+      "dateRaw": "10.04 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 4162,
+        "slug": "enea-laciate-astoria-bydgoszcz",
+        "name": "Enea Łaciate Astoria Bydgoszcz"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 27,
+      "matchId": 223676,
+      "url": "https://plk.pl/mecz/223676/amw-arka-gdynia-vs-anwil-wloclawek",
+      "date": "2027-04-18T00:00:00",
+      "dateRaw": "18.04 00:00",
+      "home": {
+        "teamId": 121,
+        "slug": "amw-arka-gdynia",
+        "name": "AMW Arka Gdynia"
+      },
+      "away": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 28,
+      "matchId": 223678,
+      "url": "https://plk.pl/mecz/223678/anwil-wloclawek-vs-gtk-gliwice",
+      "date": "2027-04-26T00:00:00",
+      "dateRaw": "26.04 00:00",
+      "home": {
+        "teamId": 33,
+        "slug": "anwil-wloclawek",
+        "name": "Anwil Włocławek"
+      },
+      "away": {
+        "teamId": 2310,
+        "slug": "gtk-gliwice",
+        "name": "GTK Gliwice"
+      },
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
+    },
+    {
+      "round": 29,
+      "matchId": 223691,
+      "url": "https://plk.pl/mecz/223691/gornik-zamek-ksiaz-walbrzych-vs-anwil-wloclawek",
+      "date": "2027-05-01T00:00:00",
+      "dateRaw": "01.05 00:00",
       "home": {
         "teamId": 11296,
         "slug": "gornik-zamek-ksiaz-walbrzych",
@@ -338,59 +611,17 @@
         "slug": "anwil-wloclawek",
         "name": "Anwil Włocławek"
       },
-      "homeScore": 61,
-      "awayScore": 86,
-      "played": true,
-      "tv": "Polsat Sport 2"
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
     },
     {
-      "round": 17,
-      "matchId": 200602,
-      "url": "https://plk.pl/mecz/200602/tauron-gtk-gliwice-vs-anwil-wloclawek",
-      "date": "2026-01-24T15:30:00",
-      "dateRaw": "24.01 15:30",
-      "home": {
-        "teamId": 2310,
-        "slug": "tauron-gtk-gliwice",
-        "name": "Tauron GTK Gliwice"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 87,
-      "awayScore": 86,
-      "played": true,
-      "tv": "YouTube"
-    },
-    {
-      "round": 18,
-      "matchId": 200611,
-      "url": "https://plk.pl/mecz/200611/amw-arka-gdynia-vs-anwil-wloclawek",
-      "date": "2026-01-31T17:30:00",
-      "dateRaw": "31.01 17:30",
-      "home": {
-        "teamId": 121,
-        "slug": "amw-arka-gdynia",
-        "name": "AMW Arka Gdynia"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 82,
-      "awayScore": 97,
-      "played": true,
-      "tv": "Polsat Sport 2"
-    },
-    {
-      "round": 19,
-      "matchId": 200619,
-      "url": "https://plk.pl/mecz/200619/mks-dabrowa-gornicza-vs-anwil-wloclawek",
-      "date": "2026-02-07T17:30:00",
-      "dateRaw": "07.02 17:30",
+      "round": 30,
+      "matchId": 223695,
+      "url": "https://plk.pl/mecz/223695/mks-dabrowa-gornicza-vs-anwil-wloclawek",
+      "date": "2027-05-06T19:00:00",
+      "dateRaw": "06.05 19:00",
       "home": {
         "teamId": 1490,
         "slug": "mks-dabrowa-gornicza",
@@ -401,241 +632,10 @@
         "slug": "anwil-wloclawek",
         "name": "Anwil Włocławek"
       },
-      "homeScore": 85,
-      "awayScore": 94,
-      "played": true,
-      "tv": "Polsat Sport 2"
-    },
-    {
-      "round": 20,
-      "matchId": 200626,
-      "url": "https://plk.pl/mecz/200626/king-szczecin-vs-anwil-wloclawek",
-      "date": "2026-02-14T17:30:00",
-      "dateRaw": "14.02 17:30",
-      "home": {
-        "teamId": 943,
-        "slug": "king-szczecin",
-        "name": "King Szczecin"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 84,
-      "awayScore": 74,
-      "played": true,
-      "tv": "Polsat Sport 2"
-    },
-    {
-      "round": 21,
-      "matchId": 200636,
-      "url": "https://plk.pl/mecz/200636/anwil-wloclawek-vs-legia-warszawa",
-      "date": "2026-03-07T17:30:00",
-      "dateRaw": "07.03 17:30",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 11,
-        "slug": "legia-warszawa",
-        "name": "Legia Warszawa"
-      },
-      "homeScore": 83,
-      "awayScore": 91,
-      "played": true,
-      "tv": "Polsat Sport 2"
-    },
-    {
-      "round": 22,
-      "matchId": 200641,
-      "url": "https://plk.pl/mecz/200641/pge-start-lublin-vs-anwil-wloclawek",
-      "date": "2026-03-14T15:00:00",
-      "dateRaw": "14.03 15:00",
-      "home": {
-        "teamId": 22,
-        "slug": "pge-start-lublin",
-        "name": "PGE Start Lublin"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 97,
-      "awayScore": 91,
-      "played": true,
-      "tv": "YouTube"
-    },
-    {
-      "round": 23,
-      "matchId": 200653,
-      "url": "https://plk.pl/mecz/200653/anwil-wloclawek-vs-arriva-lotto-twarde-pierniki-torun",
-      "date": "2026-03-22T12:30:00",
-      "dateRaw": "22.03 12:30",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 101,
-        "slug": "arriva-lotto-twarde-pierniki-torun",
-        "name": "Arriva LOTTO Twarde Pierniki Toruń"
-      },
-      "homeScore": 87,
-      "awayScore": 98,
-      "played": true,
-      "tv": "Polsat Sport 1"
-    },
-    {
-      "round": 24,
-      "matchId": 200656,
-      "url": "https://plk.pl/mecz/200656/energa-czarni-slupsk-vs-anwil-wloclawek",
-      "date": "2026-03-28T15:00:00",
-      "dateRaw": "28.03 15:00",
-      "home": {
-        "teamId": 8607,
-        "slug": "energa-czarni-slupsk",
-        "name": "Energa Czarni Słupsk"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 57,
-      "awayScore": 68,
-      "played": true,
-      "tv": "YouTube"
-    },
-    {
-      "round": 25,
-      "matchId": 200670,
-      "url": "https://plk.pl/mecz/200670/anwil-wloclawek-vs-tasomix-rosiek-stal-ostrow-wielkopolski",
-      "date": "2026-04-06T15:00:00",
-      "dateRaw": "06.04 15:00",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 11309,
-        "slug": "tasomix-rosiek-stal-ostrow-wielkopolski",
-        "name": "Tasomix Rosiek Stal Ostrów Wielkopolski"
-      },
-      "homeScore": 90,
-      "awayScore": 81,
-      "played": true,
-      "tv": "Polsat Sport 2"
-    },
-    {
-      "round": 26,
-      "matchId": 200671,
-      "url": "https://plk.pl/mecz/200671/miasto-szkla-krosno-vs-anwil-wloclawek",
-      "date": "2026-04-11T15:00:00",
-      "dateRaw": "11.04 15:00",
-      "home": {
-        "teamId": 1820,
-        "slug": "miasto-szkla-krosno",
-        "name": "Miasto Szkła Krosno"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 87,
-      "awayScore": 101,
-      "played": true,
-      "tv": "YouTube"
-    },
-    {
-      "round": 27,
-      "matchId": 200686,
-      "url": "https://plk.pl/mecz/200686/anwil-wloclawek-vs-orlen-zastal-zielona-gora",
-      "date": "2026-04-19T12:30:00",
-      "dateRaw": "19.04 12:30",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 769,
-        "slug": "orlen-zastal-zielona-gora",
-        "name": "ORLEN Zastal Zielona Góra"
-      },
-      "homeScore": 79,
-      "awayScore": 70,
-      "played": true,
-      "tv": "Polsat Sport 1"
-    },
-    {
-      "round": 28,
-      "matchId": 200688,
-      "url": "https://plk.pl/mecz/200688/anwil-wloclawek-vs-wks-slask-wroclaw",
-      "date": "2026-04-25T17:30:00",
-      "dateRaw": "25.04 17:30",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 110,
-        "slug": "wks-slask-wroclaw",
-        "name": "WKS Śląsk Wrocław"
-      },
-      "homeScore": 96,
-      "awayScore": 83,
-      "played": true,
-      "tv": "Polsat Sport 2"
-    },
-    {
-      "round": 29,
-      "matchId": 200701,
-      "url": "https://plk.pl/mecz/200701/dziki-warszawa-vs-anwil-wloclawek",
-      "date": "2026-04-30T18:00:00",
-      "dateRaw": "30.04 18:00",
-      "home": {
-        "teamId": 11257,
-        "slug": "dziki-warszawa",
-        "name": "Dziki Warszawa"
-      },
-      "away": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "homeScore": 78,
-      "awayScore": 73,
-      "played": true,
-      "tv": "YouTube"
-    },
-    {
-      "round": 30,
-      "matchId": 200705,
-      "url": "https://plk.pl/mecz/200705/anwil-wloclawek-vs-energa-trefl-sopot",
-      "date": "2026-05-06T19:00:00",
-      "dateRaw": "06.05 19:00",
-      "home": {
-        "teamId": 33,
-        "slug": "anwil-wloclawek",
-        "name": "Anwil Włocławek"
-      },
-      "away": {
-        "teamId": 112,
-        "slug": "energa-trefl-sopot",
-        "name": "Energa Trefl Sopot"
-      },
-      "homeScore": 94,
-      "awayScore": 79,
-      "played": true,
-      "tv": "Polsat Sport 2"
+      "homeScore": null,
+      "awayScore": null,
+      "played": false,
+      "tv": null
     }
   ]
 }
