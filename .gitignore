@@ -1,0 +1,3 @@
+# build output (generowany na etapie builda Vercel)
+/public/
+node_modules/
